@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "voice",
- "version": "0.4.106",
+ "version": "0.4.108",
  "date": "2026.11.01",
- "notes": "새로 생긴 것\n• 설정 › 일반에서 '버그 제보하기' 로 겪은 문제를 직접 적어 보낼 수 있습니다. 동의하면 기기 정보와 앱 기록을 함께 보냅니다.\n• w64 · caf · opus · oga 파일을 열 수 있습니다. webm · mkv 파일 가운데 전에 못 열던 소리도 엽니다.\n\n바뀐 것\n• 서버 점검 중에도 AI 심층 분석이 이어서 됩니다.\n• 서버 점검 중에 보낸 버그 제보도 사라지지 않고 나중에 전해져요.\n• 서버 점검이 길어져도 로그인이 풀리지 않게 했어요.\n• 앱 업데이트를 받을 때 서버가 점검 중이어도 다른 곳에서 받아 옵니다.\n• 재생할 때 재생선과 재생 막대가 화면 주사율에 맞춰 매끄럽게 움직입니다.\n• 실시간 분석의 음 높이 · 성구 · 포먼트 · 스펙트로그램 보기가 화면 주사율에 맞춰 매끄럽게 흐릅니다. 녹음을 시작한 뒤 처음 8초 동안에도 매끄럽게 자랍니다.\n• 스펙트로그램은 새로 들어온 부분만 더해 그려, 확대한 그래프를 끌어 옮길 때도 끊김 없이 따라옵니다. 그림은 전과 같습니다.\n• 녹음 전체를 보며 재생할 때는 화면이 실제로 바뀌는 순간에만 다시 그려 컴퓨터 부담이 줄었습니다.\n• mp3 파일을 재생하다 앞쪽으로 되돌려도 멈칫하지 않고 바로 그 자리부터 재생합니다.\n• 설정 › 정보 화면이 더 빨리 열립니다.\n• 도움말 판을 마우스 휠 · 트랙패드 · 키보드로 굴려 볼 수 있고, 단축키가 늘 함께 보입니다.\n\n고친 것\n• 긴 녹음을 열면 '분석 중' 진행률이 처음 한동안 0% 에 머물던 것을 고쳤습니다. 이제 처음부터 차오릅니다.\n• mp3 파일의 앞뒤에 붙는 빈 소리를 걷어 내고 읽습니다. 분석한 시각이 원본보다 조금 늦던 것이 맞아졌습니다.",
+ "notes": "새로 생긴 것\n• 계정 정보를 마저 넣어야 로그인할 수 있는 회원은 설정 › 라이선스의 [계정 정보 넣기] 로 브라우저에서 바로 마칠 수 있습니다. 마친 뒤 [다시 로그인] 을 누르면 됩니다.\n\n고친 것\n• AI 연동에서 키를 넣는 방식으로 쓸 때 키가 틀리면 로그인이 만료되었다는 엉뚱한 안내가 뜨던 것을 고쳤습니다. 이제 키가 맞지 않는다고 알려 줍니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=876957",
- "pkg_size": 14693977,
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=876980",
+ "pkg_size": 14699966,
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.106/BEAN-VOICE-MAC-v0.4.106.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.108/BEAN-VOICE-MAC-v0.4.108.pkg"
  ],
- "notes_url": "https://beanent.com/bean_voice_news/876958",
+ "notes_url": "https://beanent.com/bean_voice_news/876981",
  "mirror_of": "procBappsCheck"
 }
