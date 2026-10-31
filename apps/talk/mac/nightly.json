@@ -1,14 +1,14 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.163",
+ "version": "0.1.164",
  "date": "2026.11.01",
- "notes": "바뀐 것\n• 회사 · 학교처럼 막힌 망에서도 예비 서버 통화가 붙습니다.\n• 예비 서버 통화가 이번 달 중계 한도에 닿으면, 일부 망에서는 통화가 안 붙을 수 있다고 한 줄로 알려 줍니다.",
+ "notes": "새로 생긴 것\n• 아이디 · 이메일 · 비밀번호를 아직 다 만들지 않은 계정으로 로그인하면, 로그인 칸 아래에 안내와 [계정 정보 넣기] · [다시 로그인] 단추가 나옵니다.\n• [계정 정보 넣기]를 누르면 브라우저에서 계정 정보를 채울 수 있고, 다 채운 뒤 [다시 로그인]을 누르면 바로 들어갑니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=876963",
- "pkg_size": 25547948,
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=876975",
+ "pkg_size": 25551058,
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.163/BEAN-TALK-MAC-v0.1.163.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.164/BEAN-TALK-MAC-v0.1.164.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
