@@ -1,14 +1,14 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.165",
+ "version": "0.1.166",
  "date": "2026.11.01",
- "notes": "바뀐 것\n• 예비 서버 통화 중 상대와의 연결이 잠시 끊기면 상대 이름 옆에 '(연결 중)' 이 붙고, 다시 이어지면 사라집니다.\n• 서버 점검 중에 계정 정보를 마저 넣어야 하는 계정으로 로그인하면, 점검이 끝난 뒤 다시 로그인해서 채우라고 알려 줍니다.\n• 로그인 화면의 서버 상태 안내 글이 낱말 중간에서 끊기지 않고 낱말 단위로 줄을 바꿉니다.\n\n고친 것\n• 예비 서버 통화 중 연결이 잠깐 끊겼다 돌아온 뒤 화면은 연결됨인데 소리가 들리지 않던 것을 고쳤습니다.",
+ "notes": "고친 것\n• 통화할 때 소리 없는 재생 세션이 기본 출력 장치에 남지 않게 고쳤습니다.\n• 빈 테스트 서버로 로그인할 때 계정 정보를 마저 넣어야 하는 계정이면, 일반 오류 대신 그 안내가 제대로 나옵니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=877011",
- "pkg_size": 25552858,
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=877044",
+ "pkg_size": 25553031,
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.165/BEAN-TALK-MAC-v0.1.165.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.166/BEAN-TALK-MAC-v0.1.166.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
