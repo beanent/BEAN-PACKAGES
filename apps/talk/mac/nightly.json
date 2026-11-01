@@ -5,8 +5,8 @@
  "date": "2026.11.01",
  "notes": "고친 것\n• 통화 중 소리 없는 재생 세션이 기본 출력 장치에 남던 것을 마저 고쳤습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=877132",
- "pkg_size": 25554773,
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=877137",
+ "pkg_size": 25555179,
  "pkg_mirrors": [
   "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.168/BEAN-TALK-MAC-v0.1.168.pkg"
  ],
