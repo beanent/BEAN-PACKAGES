@@ -3,7 +3,7 @@
  "app": "talk",
  "version": "0.1.168",
  "date": "2026.11.01",
- "notes": "고친 것\n• 통화 중 소리 없는 재생 세션이 기본 출력 장치에 남던 것을 마저 고쳤습니다.",
+ "notes": "고친 것\n• 통화 중 소리 없는 재생 세션이 기본 출력 장치에 남던 것을 마저 고쳤습니다.\n• 윈도우: 통화를 시작할 때 기본 스피커가 잠깐 열리던 것을 고쳤습니다.\n• 윈도우: 빈톡을 켤 때 ASIO 장치를 열지 않아, 다른 프로그램이 그 장치를 쓰는 중이어도 방해하지 않습니다.",
  "channel": "nightly",
  "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=877159",
  "exe_size": 14126264,
