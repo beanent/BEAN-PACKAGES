@@ -3,7 +3,7 @@
  "app": "talk",
  "version": "0.1.169",
  "date": "2026.11.01",
- "notes": "바뀐 것\n• 회사처럼 막힌 망에서 예비 서버 통화를 할 때 소리가 덜 끊기게 했습니다.",
+ "notes": "바뀐 것\n• 회사처럼 막힌 망에서 예비 서버 통화를 할 때 소리가 덜 끊기게 했습니다.\n• 윈도우: 고른 출력 장치를 열 수 없으면 기본 스피커로 내면서 알려 드리고, 설정에 표시합니다.\n• 윈도우: 소리 장치 목록에서 꽂혀 있지 않은 ASIO 장치는 숨기고, 확인하지 못한 것은 따로 표시합니다.",
  "channel": "stable",
  "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=877173",
  "pkg_size": 25558224,
