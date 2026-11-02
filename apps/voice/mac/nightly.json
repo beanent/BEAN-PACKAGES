@@ -10,5 +10,6 @@
  "pkg_mirrors": [
   "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.110/BEAN-VOICE-MAC-v0.4.110.pkg"
  ],
+ "notes_url": "https://beanent.com/bean_voice_news/878723",
  "mirror_of": "procBappsCheck"
 }
