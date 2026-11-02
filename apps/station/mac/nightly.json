@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.32",
+ "version": "1.0.33",
  "date": "2026.11.03",
- "notes": "고친 것\n• 스테이션이 이미 켜져 있을 때 컴퓨터 로그인으로 다시 시작되면 숨겨 둔 창이 올라오던 것을 고쳤습니다.",
+ "notes": "바뀐 것\n• 앱마다 소식에서 패치내역을 뺐습니다. 소식에는 소식과 공지만 나오고, 패치내역은 바로 옆 패치내역에서 봅니다.\n\n고친 것\n• 빈캠 · 빈톡 · 빈 마운트의 소식에 늘 불러오지 못했다고 나오던 것을 고쳤습니다. 이 앱들은 아직 소식이 없어 소식이 없다고 나옵니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878980",
- "pkg_size": 12153256,
- "pkg_sha256": "5cce5af7af13ce9e86151c85a0b4338f7d59e4d6ff2ea65b9492792aba9585d3",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879080",
+ "pkg_size": 12166460,
+ "pkg_sha256": "d9b08e8b64bc786317c2b5c7f1de3ecc3868b38f740c095a77821de12a21b4cc",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.32/BEAN-STATION-MAC-v1.0.32.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.33/BEAN-STATION-MAC-v1.0.33.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
