@@ -3,7 +3,7 @@
  "app": "voice",
  "version": "0.4.112",
  "date": "2026.11.02",
- "notes": "고친 것\n• 설정 › 정보의 업데이트 단추와 안내가 다시 앱 언어로 나옵니다.",
+ "notes": "고친 것\n• 설정 › 정보의 업데이트 단추와 안내가 다시 앱 언어로 나옵니다.\n\n• 앱 안에서 받은 업데이트 설치 파일이 BEAN 에서 만든 것이 맞는지 확인한 뒤에만 엽니다. 확인하지 못하면 열지 않고 지운 뒤 안내합니다.",
  "channel": "nightly",
  "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878997",
  "exe_size": 13106944,
