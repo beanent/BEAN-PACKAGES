@@ -1,14 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.114",
+ "version": "0.1.115",
  "date": "2026.11.02",
- "notes": "바뀐 것\n• 설정 › 정보 화면의 글이 앱 언어 설정과 상관없이 늘 영어로 나옵니다.\n\n윈도우\n고친 것\n• 창을 닫아 알림 영역에 두었을 때, 아이콘이 임시 글자 칸 대신 다른 BEAN 앱과 같은 앱 아이콘으로 보입니다.\n• 라이선스가 없을 때 미리보기에 깔려야 하는 BEAN 마크 무늬가 윈도우에서 나오지 않던 것을 고쳤습니다.\n• 가상 카메라를 꺼 둔 동안 상대 앱에 보이는 어두운 화면에 로고가 빠져 있던 것을 고쳤습니다.\n\n바뀐 것\n• 앱 안에서 받은 업데이트 설치 파일이 BEAN 에서 만든 것이 맞는지 확인한 뒤에만 엽니다. 맞지 않으면 열지 않고 지우고 안내합니다.",
+ "notes": "고친 것\n• 받은 업데이트 파일이 우리가 만든 정품인지 확인한 뒤에만 설치합니다. 확인되지 않은 파일은 열지 않고 지운 뒤 앱 안에서 알려 드려요.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878718",
- "pkg_size": 142886667,
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878854",
+ "pkg_size": 142885984,
+ "pkg_sha256": "02ed80b80c7bd15e8cfaf91b7613d197db8034ab97ce3cde5f316a6af9b25eb4",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.114/BEAN-CAM-MAC-v0.1.114.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.115/BEAN-CAM-MAC-v0.1.115.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
