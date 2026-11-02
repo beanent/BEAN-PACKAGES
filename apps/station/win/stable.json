@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.31",
+ "version": "1.0.32",
  "date": "2026.11.03",
- "notes": "바뀐 것\n• 소식 글과 커뮤니티를 감싸던 바깥 테두리를 없앴습니다. 커뮤니티의 브라우저에서 열기 단추는 제목 줄 오른쪽으로 옮겼습니다.\n\n윈도우\n• 설정의 정보 화면 이름과 단추를 앱 언어로 되돌렸습니다. 글꼴과 라이선스 안내만 영어입니다.\n• 설정 › 일반에 '창을 닫으면 시스템 트레이로 보내기'를 넣었습니다. 기본은 꺼짐이라 창을 닫으면 앱이 끝나고, 받는 중인 항목이 있으면 먼저 묻습니다.",
+ "notes": "고친 것\n• 스테이션이 이미 켜져 있을 때 컴퓨터 로그인으로 다시 시작되면 숨겨 둔 창이 올라오던 것을 고쳤습니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878965",
- "exe_size": 12086104,
- "exe_sha256": "c51cee250e0e3928f9d1e26cee31a2185296186e5a99555f03ad9c58140ed238",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878982",
+ "exe_size": 12088488,
+ "exe_sha256": "5544d488bcb532f834a08d1414856e2cac42adca645b1b659d37d73104159af4",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.31/BEAN-STATION-WIN-v1.0.31.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.32/BEAN-STATION-WIN-v1.0.32.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
