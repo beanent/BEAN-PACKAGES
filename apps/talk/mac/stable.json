@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.173",
+ "version": "0.1.174",
  "date": "2026.11.02",
- "notes": "고친 것\n• 받은 업데이트 파일이 우리가 만든 정품인지 확인한 뒤에만 설치합니다. 확인되지 않은 파일은 열지 않고 지운 뒤 앱 안에서 알려 드려요.",
+ "notes": "고친 것\n• 설정 › 정보의 업데이트 단추와 안내가 다시 앱 언어로 나옵니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878846",
- "pkg_size": 25575408,
- "pkg_sha256": "bd52e13ed5e2f5a48756ef220b1aa732729040224b385d3d5aa4a5041bcee565",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878948",
+ "pkg_size": 25575157,
+ "pkg_sha256": "af0ca13b019b9a8cf9fcfd84566daf1570b64b753e228aa690dd2f79c0961fef",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.173/BEAN-TALK-MAC-v0.1.173.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.174/BEAN-TALK-MAC-v0.1.174.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
