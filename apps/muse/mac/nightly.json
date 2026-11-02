@@ -3,7 +3,7 @@
  "app": "muse",
  "version": "1.1.174",
  "date": "2026.11.02",
- "notes": "고친 것\n• 받은 업데이트 파일이 우리가 만든 정품인지 확인한 뒤에만 설치합니다. 확인되지 않은 파일은 열지 않고 지운 뒤 앱 안에서 알려 드려요.\n\n바뀐 것\n• 설치할 때 고르는 화면이 없어졌습니다. 설치 파일을 열면 바로 설치됩니다.",
+ "notes": "바뀐 것\n• 설치할 때 고르는 화면이 없어졌습니다. 설치 파일을 열면 바로 설치됩니다.\n\n고친 것\n• 받은 업데이트 파일이 우리가 만든 정품인지 확인한 뒤에만 설치합니다. 확인되지 않은 파일은 열지 않고 지운 뒤 앱 안에서 알려 드려요.",
  "channel": "nightly",
  "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878864",
  "pkg_size": 297384191,
@@ -11,5 +11,6 @@
  "pkg_mirrors": [
   "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.174/BEAN-MUSE-MAC-v1.1.174.pkg"
  ],
+ "notes_url": "https://beanent.com/bean_muse_news/878865",
  "mirror_of": "procBappsCheck"
 }
