@@ -1,15 +1,16 @@
 {
  "error": 0,
  "app": "voice",
- "version": "0.4.109",
- "date": "2026.11.01",
- "notes": "새로 생긴 것\n• 계정 정보를 마저 넣어야 로그인할 수 있는 회원은 설정 › 라이선스의 [계정 정보 넣기] 로 브라우저에서 바로 마칠 수 있습니다. 마친 뒤 [다시 로그인] 을 누르면 됩니다.\n• 서버 점검 중이라 계정 정보를 바로 넣을 수 없을 때는 점검이 끝난 뒤 다시 로그인해서 채우도록 알려 드립니다.\n\n바뀐 것\n• 서버 점검 중이라 버그 제보를 보내지 못하면 보낼 함에 두었다가, 연결되거나 앱을 다시 켤 때 저절로 보냅니다.\n\n고친 것\n• AI 연동에서 키를 넣는 방식으로 쓸 때 키가 틀리면 로그인이 만료되었다는 엉뚱한 안내가 뜨던 것을 고쳤습니다. 이제 키가 맞지 않는다고 알려 줍니다.",
+ "version": "0.4.110",
+ "date": "2026.11.02",
+ "notes": "바뀐 것\n• 설정 › 정보의 글(버전, 업데이트 확인, 라이선스 안내, 쌓인 기록 안내, 함께 쓴 것들)은 앱 언어와 상관없이 영어로 나옵니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=877015",
- "exe_size": 13078456,
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878831",
+ "exe_size": 13108440,
+ "exe_sha256": "189c2f78fd416386a5b87f6296565164239b36029f67be719474a4613f9c74a8",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.109/BEAN-VOICE-WIN-v0.4.109.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.110/BEAN-VOICE-WIN-v0.4.110.exe"
  ],
- "notes_url": "https://beanent.com/bean_voice_news/877009",
+ "notes_url": "https://beanent.com/bean_voice_news/878723",
  "mirror_of": "procBappsCheck"
 }
