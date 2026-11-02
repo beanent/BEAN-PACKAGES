@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.29",
+ "version": "1.0.30",
  "date": "2026.11.02",
- "notes": "고친 것\n• 받은 업데이트 파일이 우리가 만든 정품인지 확인한 뒤에만 설치합니다. 확인되지 않은 파일은 열지 않고 지운 뒤 앱 안에서 알려 드려요.",
+ "notes": "새로 생긴 것\n• 설정 › 일반에 '창을 닫으면 상단 메뉴로 보내기' 를 넣었습니다. 기본은 꺼짐이라 이제 창을 닫으면 앱이 끝납니다. 받는 중인 항목이 있으면 끝내기 전에 묻습니다.\n\n고친 것\n• 설정 › 정보의 탭 이름과 칸 이름, 단추가 다시 앱 언어로 나옵니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878843",
- "pkg_size": 12144251,
- "pkg_sha256": "a49563080e2c306bec2bb0575a7498c68d4020ce0e039a74278a68e8b02eb673",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878918",
+ "pkg_size": 12149664,
+ "pkg_sha256": "7e4f131d3e5491c71fe7b1d88c198ad932834104d2c621da7fcfe9de3e316efd",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.29/BEAN-STATION-MAC-v1.0.29.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.30/BEAN-STATION-MAC-v1.0.30.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
