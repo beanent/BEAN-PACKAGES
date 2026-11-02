@@ -1,14 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.112",
- "date": "2026.11.01",
- "notes": "바뀐 것\n• 서버 점검 중에 보낸 버그 제보도 사라지지 않고 나중에 전해져요.\n• 서버 점검이 길어져도 로그인이 풀리지 않게 했어요.\n• 앱 업데이트를 받을 때 서버가 점검 중이어도 다른 곳에서 받아 옵니다.\n• 설정 › 정보 화면이 더 빨리 열립니다.\n• 도움말 판을 마우스 휠 · 터치패드 · 키보드로 굴려 볼 수 있고, 단축키가 늘 함께 보입니다.\n• 앱 아이콘이 다른 BEAN 앱과 같은 둥근 네모 모양으로 바뀌어, 작업 표시줄과 바탕 화면에서 꽉 차게 보입니다.",
+ "version": "0.1.114",
+ "date": "2026.11.02",
+ "notes": "바뀐 것\n• 설정 › 정보 화면의 글이 앱 언어 설정과 상관없이 늘 영어로 나옵니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=876990",
- "exe_size": 139073040,
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878827",
+ "exe_size": 139145712,
+ "exe_sha256": "1d0d1bf535dacb7b13cbf78c7c3501c4674a739f61d9ce39af24297916661f43",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.112/BEAN-CAM-WIN-v0.1.112.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.114/BEAN-CAM-WIN-v0.1.114.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
