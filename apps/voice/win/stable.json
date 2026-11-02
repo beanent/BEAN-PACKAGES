@@ -1,0 +1,16 @@
+{
+ "error": 0,
+ "app": "voice",
+ "version": "0.4.110",
+ "date": "2026.11.02",
+ "notes": "바뀐 것\n• 설정 › 정보의 글(버전, 업데이트 확인, 라이선스 안내, 쌓인 기록 안내, 함께 쓴 것들)은 앱 언어와 상관없이 영어로 나옵니다.\n\n윈도우\n• 앱 안에서 받은 업데이트 설치 파일이 BEAN 에서 만든 것이 맞는지 확인한 뒤에만 엽니다. 확인하지 못하면 열지 않고 지운 뒤 안내합니다.",
+ "channel": "stable",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878831",
+ "exe_size": 13108440,
+ "exe_sha256": "189c2f78fd416386a5b87f6296565164239b36029f67be719474a4613f9c74a8",
+ "exe_mirrors": [
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.110/BEAN-VOICE-WIN-v0.4.110.exe"
+ ],
+ "notes_url": "https://beanent.com/bean_voice_news/878723",
+ "mirror_of": "procBappsCheck"
+}
