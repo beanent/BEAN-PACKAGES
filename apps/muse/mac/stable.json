@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.172",
+ "version": "1.1.173",
  "date": "2026.11.02",
- "notes": "고친 것\n• 앱을 켜 둔 채 음정 보정 패키지가 새 판으로 바뀌면 앱이 꺼지던 것을 고쳤습니다.\n\n바뀐 것\n• 설정 › 정보 화면의 글을 영어로 통일했습니다.\n• 가상악기 매뉴얼의 소리 종류 설명을 정리했습니다.\n\n윈도우\n• 켠 채로 음정 보정 새 판을 받으면 다시 켜기 전까지 옛 판으로 남던 것을 고쳤습니다.",
+ "notes": "고친 것\n• 대시보드의 확장 패키지 쪽을 열어 두면 가만히 있어도 앱이 목록 전체를 계속 다시 재던 것을 고쳤습니다. 이제 상태 줄만 바뀌고 목록은 필요할 때만 다시 잽니다.\n• 확장 패키지 창을 열거나 목록이 바뀔 때 패키지가 많으면 앱이 잠깐 멈추던 것을 줄였습니다.\n• 대시보드에 머무는 동안 앱이 멈춘 것으로 잘못 알고 진단 기록을 계속 쌓던 것을 고쳤습니다. 기록 파일이 많이 커졌으면 켤 때 스스로 줄입니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878671",
- "pkg_size": 297361428,
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878788",
+ "pkg_size": 297368168,
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.172/BEAN-MUSE-MAC-v1.1.172.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.173/BEAN-MUSE-MAC-v1.1.173.pkg"
  ],
- "notes_url": "https://beanent.com/bean_muse_news/878672",
+ "notes_url": "https://beanent.com/bean_muse_news/878790",
  "mirror_of": "procBappsCheck"
 }
