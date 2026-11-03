@@ -1,16 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.184",
+ "version": "1.1.186",
  "date": "2026.11.03",
- "notes": "고친 것\n• 키보드 입력 처리에서 앱이 꺼질 수 있는 길을 막고, 다시 일어나면 원인을 찾을 수 있게 기록을 더했습니다.",
+ "notes": "새로 생긴 것\n• 도움말 창에서 쓰고 싶은 기능을 물어보면 쓰는 법을 알려 주고 앱 화면에서 그 칸을 강조해 줘요. 여러 번 들어가야 하는 기능은 단계마다 강조가 옮겨 가요. 설정의 AI 연동에 넣은 AI 를 쓰고, 연동이 없거나 인터넷이 안 되면 앱 안 목록에서 찾아 강조까지 해 줘요.\n• 위쪽 줄에 설정 단추가 생겼습니다.\n\n고친 것\n• 스템 분리한 소리가 되돌리기 뒤에 키가 올라가고 길이가 짧아지던 문제를 고쳤습니다.\n• 소리를 가져올 때 프로젝트 샘플레이트로 맞춰 저장합니다.\n• 되돌리기 기록 창에 건드리지 않은 리전이 바뀐 것처럼 나오던 것도 고쳤습니다.\n• 음정 보정을 쓰다가 앱이 꺼질 수 있던 문제를 고쳤습니다. 음정 보정을 쓰려면 확장 패키지 BEAN PROTUNE 을 새 판으로 받아 주세요.\n\n바뀐 것\n• 샘플레이트를 바꿀 때 높은 음까지 깨끗하게 남도록 변환 품질을 높였습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879413",
- "pkg_size": 411645006,
- "pkg_sha256": "8e499c665eb5ff6c3a1c3296b0f74bbe5cdcd84b30e1a82481c61e180be14eb0",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879476",
+ "pkg_size": 411891992,
+ "pkg_sha256": "df9a665566f08f29c4a714a54ecb1b989b9ecd7fca487320bee417539c3d23e2",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.184/BEAN-MUSE-MAC-v1.1.184.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.186/BEAN-MUSE-MAC-v1.1.186.pkg"
  ],
- "notes_url": "https://beanent.com/bean_muse_news/879414",
  "mirror_of": "procBappsCheck"
 }
