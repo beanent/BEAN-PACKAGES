@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.187",
+ "version": "1.1.188",
  "date": "2026.11.03",
- "notes": "고친 것\n• 되돌리기와 다시 실행을 모든 동작에 대해 다시 맞췄습니다. 트랙 머리의 뮤트와 솔로, 트랙 색, 루프와 펀치 구간, 시간 표시, 내보내기 태그, 재생 중 쓴 오토메이션, 컨트롤 서피스 조작처럼 앞 동작에 묻어가던 것이 이제 제 단계로 되돌아옵니다.\n• 장면과 프리셋처럼 플러그인 값만 바뀌는 동작, 같은 플러그인 두 칸 맞바꾸기, 페이더 그룹으로 함께 움직인 트랙도 한 단계로 돌아옵니다.\n• 플러그인 창은 되돌린 뒤에도 열린 채로 남고, 되돌린 뒤 돌린 손잡이도 되돌리기에 잡힙니다.\n• 한 번의 끌기나 더블클릭이 여러 단계로 쪼개지던 것을 한 단계로 묶었습니다. 오디오와 MIDI 를 섞어 한 번에 놓았을 때도 한 단계입니다.\n• 사이클 구간이 프로젝트에 저장됩니다.\n• 범위 도구 차림표의 범위 추출 · 게인 · 페이드가 눌러도 아무 일이 없던 것을 고쳤습니다.\n\n바뀐 것\n• 트랙 높이와 폴더 접기는 화면 상태라 되돌려도 그대로 둡니다.\n• 되돌리기 차림표에 무엇을 되돌리는지 이름이 나옵니다.\n• 음정 보정의 전체 초기화와 박자 퀀타이즈, 곡률도 되돌릴 수 있습니다. 확장 패키지 BEAN PROTUNE 새 판에서 함께 적용됩니다.",
+ "notes": "바뀐 것\n• 챗봇 어시스트를 대화 창으로 바꿨습니다. 도움말의 단추를 누르면 메신저처럼 대화할 수 있습니다.\n• 답 안에 단계 목록이 함께 나오고, 화면에서 보기를 누르면 앱 화면에서 그 칸을 빨간 테두리로 표시합니다. 표시하는 동안에는 대화 창이 작아져 앱을 덜 가리고, 이전 · 다음 · 강조 끄기로 옮기거나 끝낼 수 있습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879504",
- "pkg_size": 412024862,
- "pkg_sha256": "af5ff5fd07471082908c290868ade623e362fee5e48ab5621a96f03e404a9ea5",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879511",
+ "pkg_size": 412049118,
+ "pkg_sha256": "ded7a046a89adacffc3b31fa870a306294bf06e727f4f23ef136805533d5f0fe",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.187/BEAN-MUSE-MAC-v1.1.187.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.188/BEAN-MUSE-MAC-v1.1.188.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
