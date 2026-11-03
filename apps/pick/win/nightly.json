@@ -1,16 +1,16 @@
 {
  "error": 0,
  "app": "pick",
- "version": "0.2.63",
+ "version": "0.2.64",
  "date": "2026.11.03",
- "notes": "새로 생긴 것\n• 다른 편집 프로그램으로 내보내기가 생겼습니다. F · P · D · C 편집 앱 형식으로 이어서 편집할 수 있고, 편집기 XML 을 열 수 있습니다.\n• 내보내기 › 결과물 내보내기 창 아래의 형식 칸에서 고릅니다. 하이라이트마다 파일이 하나씩 나오고, 화면 비율 · 영상 자리와 크기 · 컷 · 빠르기 · 자막이 함께 들어갑니다.\n• 컷 목록(CSV · JSON) · 자막(VTT · SRT) · 설정 메모도 같은 칸에서 낼 수 있습니다.\n• 파일 › 편집기 XML 열기로 F · P · D 편집 앱 형식 XML 의 컷과 자막을 하이라이트로 불러옵니다.",
+ "notes": "바뀐 것\n• 내보내기 형식 이름을 정리했습니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879465",
- "exe_size": 38431208,
- "exe_sha256": "0386a9ebde73a3c10309a5bacf33f68e27eefcc23a8008aae10b903fc5c01ef9",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879469",
+ "exe_size": 38430168,
+ "exe_sha256": "c14563ad080b39a14d987358511c2f2a53ac169d2b39b330ecda1164f12afd5c",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.63/BEAN-PICK-WIN-v0.2.63.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.64/BEAN-PICK-WIN-v0.2.64.exe"
  ],
- "notes_url": "https://beanent.com/bean_pick_news/879463",
+ "notes_url": "https://beanent.com/bean_pick_news/879468",
  "mirror_of": "procBappsCheck"
 }

@@ -11,5 +11,6 @@
  "pkg_mirrors": [
   "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.64/BEAN-PICK-MAC-v0.2.64.pkg"
  ],
+ "notes_url": "https://beanent.com/bean_pick_news/879468",
  "mirror_of": "procBappsCheck"
 }
