@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.33",
+ "version": "1.0.34",
  "date": "2026.11.03",
- "notes": "바뀐 것\n• 앱마다 소식에서 패치내역을 뺐습니다. 소식에는 소식과 공지만 나오고, 패치내역은 바로 옆 패치내역에서 봅니다.\n\n고친 것\n• 빈캠 · 빈톡 · 빈 마운트의 소식에 늘 불러오지 못했다고 나오던 것을 고쳤습니다. 이 앱들은 아직 소식이 없어 소식이 없다고 나옵니다.",
+ "notes": "바뀐 것\n• 확장 패키지 목록에서 음정 보정이 BEAN PROTUNE 한 줄로 합쳐졌습니다. 내장 · VST3 · AU 칸마다 판이 보이고, 칸을 눌러 따로 받거나 지울 수 있습니다. 라이선스로 열리지 않는 칸에는 라이선스 필요가 보입니다.\n• 홈의 공지사항 · 새 판 소식 · 상품 · 내 라이선스 제목 크기를 같게 맞췄고, 새 판 소식 제목을 카드 위로 뺐습니다.\n\n고친 것\n• 커뮤니티 · 매뉴얼 화면에서 서버 상태 창의 아래쪽이 잘려 보이던 것을 고쳤습니다. 이 화면들에서 가려지던 안내 풍선과 설치 중 표시도 이제 보입니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879080",
- "pkg_size": 12166460,
- "pkg_sha256": "d9b08e8b64bc786317c2b5c7f1de3ecc3868b38f740c095a77821de12a21b4cc",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879095",
+ "pkg_size": 12216343,
+ "pkg_sha256": "d6845965a3be098409ff36a007a26c1ae9bc8a998d3460e4bc123f76a3b908a6",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.33/BEAN-STATION-MAC-v1.0.33.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.34/BEAN-STATION-MAC-v1.0.34.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
