@@ -3,7 +3,7 @@
  "app": "muse",
  "version": "1.1.181",
  "date": "2026.11.03",
- "notes": "고친 것\n• 앱이 뒤로 가면 설정과 도움말 같은 창이 다른 앱을 가리지 않습니다. 앱으로 돌아오면 다시 보입니다. 플러그인 창은 지금처럼 앱이 뒤로 가도 떠 있습니다.",
+ "notes": "고친 것\n• 앱이 뒤로 가면 설정과 도움말 같은 창이 다른 앱을 가리지 않습니다.\n  – 앱으로 돌아오면 다시 보입니다.\n  – 플러그인 창은 지금처럼 앱이 뒤로 가도 떠 있습니다.",
  "channel": "nightly",
  "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879241",
  "pkg_size": 411545630,
@@ -11,5 +11,6 @@
  "pkg_mirrors": [
   "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.181/BEAN-MUSE-MAC-v1.1.181.pkg"
  ],
+ "notes_url": "https://beanent.com/bean_muse_news/879242",
  "mirror_of": "procBappsCheck"
 }

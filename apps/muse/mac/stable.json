@@ -1,16 +1,16 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.178",
+ "version": "1.1.181",
  "date": "2026.11.03",
- "notes": "고친 것\n• 여러 트랙에서 고른 리전을 복사해 붙여넣으면 한 트랙에 모두 겹치던 것을 고쳤습니다. 이제 트랙 사이 간격을 그대로 두고 붙습니다.\n\n새로 생긴 것\n• 리전이 겹칠 때 묻는 창에 리전 합치기가 생겼습니다. 겹친 두 리전을 하나로 합칩니다. 설정 › 일반 › 편집의 리전이 겹칠 때에서 늘 합치도록 정할 수도 있습니다.\n\n바뀐 것\n• 리전을 붙여넣으면 재생 위치가 붙인 리전 가운데 가장 늦게 끝나는 자리로 옮겨집니다. 이어서 또 붙이면 바로 뒤에 붙습니다.\n• 대시보드 커뮤니티 칸의 바탕을 대시보드와 같게 맞췄습니다. 안쪽에 어두운 상자처럼 보이지 않습니다.\n• 소식에서 패치내역을 뺐습니다. 소식에는 소식과 공지만 나오고, 패치내역은 왼쪽 메뉴의 패치내역에서 봅니다. 새 버전 카드의 바뀐 점도 패치내역 쪽으로 갑니다.",
+ "notes": "고친 것\n• 앱이 뒤로 가면 설정과 도움말 같은 창이 다른 앱을 가리지 않습니다.\n  – 앱으로 돌아오면 다시 보입니다.\n  – 플러그인 창은 지금처럼 앱이 뒤로 가도 떠 있습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879092",
- "pkg_size": 297724859,
- "pkg_sha256": "df6c2dc9afe77b12d6767d57f65650488e6ee0fdb6bef0f8fa864029f39a345f",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879241",
+ "pkg_size": 411545630,
+ "pkg_sha256": "f0bbf32e47198cad96933ffc1ffd5349b5f2360eae958dff4e5dc0ae9bd78f26",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.178/BEAN-MUSE-MAC-v1.1.178.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.181/BEAN-MUSE-MAC-v1.1.181.pkg"
  ],
- "notes_url": "https://beanent.com/bean_muse_news/879109",
+ "notes_url": "https://beanent.com/bean_muse_news/879242",
  "mirror_of": "procBappsCheck"
 }
