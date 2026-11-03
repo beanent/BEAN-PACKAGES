@@ -1,15 +1,16 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.172",
- "date": "2026.11.02",
- "notes": "고친 것\n• 앱을 켜 둔 채 음정 보정 패키지가 새 판으로 바뀌면 앱이 꺼지던 것을 고쳤습니다.\n\n바뀐 것\n• 설정 › 정보 화면의 글을 영어로 통일했습니다.\n• 가상악기 매뉴얼의 소리 종류 설명을 정리했습니다.\n\n윈도우\n• 켠 채로 음정 보정 새 판을 받으면 다시 켜기 전까지 옛 판으로 남던 것을 고쳤습니다.",
+ "version": "1.1.178",
+ "date": "2026.11.03",
+ "notes": "고친 것\n• 여러 트랙에서 고른 리전을 복사해 붙여넣으면 한 트랙에 모두 겹치던 것을 고쳤습니다. 이제 트랙 사이 간격을 그대로 두고 붙습니다.\n\n새로 생긴 것\n• 리전이 겹칠 때 묻는 창에 리전 합치기가 생겼습니다. 겹친 두 리전을 하나로 합칩니다. 설정 › 일반 › 편집의 리전이 겹칠 때에서 늘 합치도록 정할 수도 있습니다.\n\n바뀐 것\n• 리전을 붙여넣으면 재생 위치가 붙인 리전 가운데 가장 늦게 끝나는 자리로 옮겨집니다. 이어서 또 붙이면 바로 뒤에 붙습니다.\n• 대시보드 커뮤니티 칸의 바탕을 대시보드와 같게 맞췄습니다. 안쪽에 어두운 상자처럼 보이지 않습니다.\n• 소식에서 패치내역을 뺐습니다. 소식에는 소식과 공지만 나오고, 패치내역은 왼쪽 메뉴의 패치내역에서 봅니다. 새 버전 카드의 바뀐 점도 패치내역 쪽으로 갑니다.\n\n• 재생 중 믹서 화면을 새로 그리는 일을 줄였습니다. 트랙이 많은 프로젝트에서 재생 중 화면이 덜 끊깁니다.\n• 윈도우 1.1.177 에서 바뀐 것이 이 판에 함께 들어갑니다. MIDI 에디터의 레인 슬라이더로 고른 노트의 벨로시티와 컨트롤러 값을 함께 조절할 수 있고, 미디 변환에서 새 트랙에 넣을 가상악기를 고를 수 있습니다. 자동 연주는 패턴 연주로 이름이 바뀌었고, 설정 › UI 에서 패턴 연주 단추를 숨길 수 있습니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878742",
- "exe_size": 264355264,
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879171",
+ "exe_size": 264519944,
+ "exe_sha256": "577c457946e6f3fa6f7f1288b3a6a3fed7afb07b8ef4462b34eb862d2f778ffa",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.172/BEAN-MUSE-WIN-v1.1.172.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.178/BEAN-MUSE-WIN-v1.1.178.exe"
  ],
- "notes_url": "https://beanent.com/bean_muse_news/878672",
+ "notes_url": "https://beanent.com/bean_muse_news/879109",
  "mirror_of": "procBappsCheck"
 }
