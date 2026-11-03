@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.33",
+ "version": "1.0.37",
  "date": "2026.11.03",
- "notes": "바뀐 것\n• 앱마다 소식에서 패치내역을 뺐습니다. 소식에는 소식과 공지만 나오고, 패치내역은 바로 옆 패치내역에서 봅니다.\n\n고친 것\n• 빈캠 · 빈톡 · 빈 마운트의 소식에 늘 불러오지 못했다고 나오던 것을 고쳤습니다. 이 앱들은 아직 소식이 없어 소식이 없다고 나옵니다.\n\n• 빈 스테이션을 지울 때 사용자 자료가 휴지통에 들어가지 않고 사라질 수 있던 것을 고쳤습니다. 이제 휴지통에 넣을 수 없는 크기면 지우지 않고 'BEAN 지운 자료' 폴더로 옮겨 두고 알려 드립니다. 프로젝트(문서 폴더)는 지우지 않습니다.\n• 앱도 함께 지울 때는 지워지는 앱의 설정만 지우고, 그대로 두는 앱의 설정은 남깁니다. 물음 글에 어떤 폴더가 어떻게 되는지 적어 둡니다.",
+ "notes": "바뀐 것\n• BEAN PROTUNE 을 받을 때 설치할 형식을 고를 수 있습니다.\n\n고친 것\n• 앱에 로그인했는데 커뮤니티에서 로그인 안 된 것으로 나오던 문제를 고쳤습니다.\n• 커뮤니티 접속이 잠시 몰렸을 때 다시 로그인하라고 나오던 안내를 잠시 뒤 다시 시도하라는 안내로 바꿨습니다.\n• 설치할 것이 없을 때 설치 단추가 눌리는 것처럼 보이던 것을 고쳤습니다.\n\n• 윈도우에서는 이번 판에 앞서 맥에 나온 변화도 함께 들어갑니다. 확장 패키지 목록에서 음정 보정이 BEAN PROTUNE 한 줄로 합쳐졌습니다.\n• 홈의 공지사항 · 새 판 소식 · 상품 · 내 라이선스 제목 크기가 같아졌고, 홈이 넓으면 왼쪽과 오른쪽을 따로 스크롤할 수 있습니다. 홈 오른쪽에 오늘의 추천곡이 생겼고, 왼쪽 스크롤 막대와 오른쪽 칸 사이 여백을 넓혔습니다.\n• 커뮤니티 · 매뉴얼 화면에서 서버 상태 창과 안내 풍선이 웹 화면에 가려지거나 잘리던 것을 고쳤습니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879149",
- "exe_size": 12098808,
- "exe_sha256": "697f0315180cd599c67d8ba179aa262a55455fec3e8b3bcabf6b32e08f406443",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879176",
+ "exe_size": 12152112,
+ "exe_sha256": "efa51274b8e736a62a76e581c2826d3b39913cb06949ca7fbc50871a7a9b115d",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.33/BEAN-STATION-WIN-v1.0.33.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.37/BEAN-STATION-WIN-v1.0.37.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
