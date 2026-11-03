@@ -1,16 +1,16 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.191",
+ "version": "1.1.192",
  "date": "2026.11.04",
- "notes": "고친 것\n• 되돌리기 기록 창을 Esc 나 닫기 단추로 닫을 때 앱이 꺼지는 경우가 있던 문제를 고쳤습니다.\n• 프로젝트를 닫아도 떠 있는 창이 남아 Esc 나 닫기 단추가 듣지 않던 문제를 고쳤습니다.",
+ "notes": "고친 것\n• 챗봇 어시스트 안내에서 말풍선이 차림표나 눌러야 할 칸을 가리고 글이 잘리던 문제를 고쳤습니다. 이제 말풍선과 대화 창이 칸을 피해 자리를 잡고, 안내하는 동안 도움말 창은 잠시 숨었다가 끝나면 돌아옵니다.\n• 음정 그래프처럼 넓은 칸을 안내할 때 말풍선이 엉뚱한 곳에 뜨고, 다 보이는데도 다른 창에 가려졌다고 나오던 문제를 고쳤습니다. 빨간 테두리도 칸 전체에 보입니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879617",
- "exe_size": 264757224,
- "exe_sha256": "c847eed478e0a9961a8d50854f34d251f6f4eca90f8e86acb9e7c5175686d549",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879627",
+ "exe_size": 264884952,
+ "exe_sha256": "eebbce0907dff7aa6999a3d173b5aabacc32121fdba3818f1b64d3c786d63732",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.191/BEAN-MUSE-WIN-v1.1.191.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.192/BEAN-MUSE-WIN-v1.1.192.exe"
  ],
- "notes_url": "https://beanent.com/bean_muse_news/879612",
+ "notes_url": "https://beanent.com/bean_muse_news/879621",
  "mirror_of": "procBappsCheck"
 }
