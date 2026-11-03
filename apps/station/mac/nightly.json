@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.35",
+ "version": "1.0.36",
  "date": "2026.11.03",
- "notes": "새로 생긴 것\n• 홈 오른쪽에 오늘의 추천곡이 생겼습니다. 큰 칸에 최신 곡 하나, 그 아래 작은 줄에 곡이 더 나오고, 누르면 브라우저에서 재생됩니다.\n\n바뀐 것\n• 홈이 넓을 때 왼쪽(공지사항 · 상품)과 오른쪽(새 판 소식 · 오늘의 추천곡 · 내 라이선스)을 따로 스크롤할 수 있습니다.",
+ "notes": "바뀐 것\n• 홈 왼쪽 스크롤 막대와 오른쪽 칸 사이 여백을 넓혔습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879105",
- "pkg_size": 12242574,
- "pkg_sha256": "d31184d59eaf256802dd29dcb60b52342a96c63c42d8d0bf6a0ff864e5ba3dd9",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879135",
+ "pkg_size": 12243646,
+ "pkg_sha256": "2e0e31b19e1c23e7b6710c995dc8578d4e8bb4c94ef2da3db2d4471c4666dd11",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.35/BEAN-STATION-MAC-v1.0.35.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.36/BEAN-STATION-MAC-v1.0.36.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
