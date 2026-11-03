@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.30",
- "date": "2026.11.02",
- "notes": "새로 생긴 것\n• 설정 › 일반에 '창을 닫으면 상단 메뉴로 보내기' 를 넣었습니다. 기본은 꺼짐이라 이제 창을 닫으면 앱이 끝납니다. 받는 중인 항목이 있으면 끝내기 전에 묻습니다.\n\n고친 것\n• 설정 › 정보의 탭 이름과 칸 이름, 단추가 다시 앱 언어로 나옵니다.",
+ "version": "1.0.39",
+ "date": "2026.11.03",
+ "notes": "바뀐 것\n• 다른 영상을 틀면 오늘의 추천곡이 멈춥니다.\n\n고친 것\n• 오늘의 추천곡 재생 때 영상 둘레에 검은 띠가 생기던 것을 고쳤습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878918",
- "pkg_size": 12149664,
- "pkg_sha256": "7e4f131d3e5491c71fe7b1d88c198ad932834104d2c621da7fcfe9de3e316efd",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879193",
+ "pkg_size": 12319910,
+ "pkg_sha256": "cbebf585a0e9570ef39237babe69df5ce9ffbfcc889c807978bc25485ad415cb",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.30/BEAN-STATION-MAC-v1.0.30.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.39/BEAN-STATION-MAC-v1.0.39.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
