@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.38",
+ "version": "1.0.39",
  "date": "2026.11.03",
- "notes": "새로 생긴 것\n• 오늘의 추천곡을 앱 안에서 바로 재생할 수 있습니다. 다른 탭으로 가도 끄기 전까지 계속 나옵니다.\n\n바뀐 것\n• 오늘의 추천곡 큰 영상의 테두리를 없앴습니다.",
+ "notes": "바뀐 것\n• 다른 영상을 틀면 오늘의 추천곡이 멈춥니다.\n\n고친 것\n• 오늘의 추천곡 재생 때 영상 둘레에 검은 띠가 생기던 것을 고쳤습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879187",
- "pkg_size": 12315017,
- "pkg_sha256": "ade13d42e9ca3bb0d0b38e18c646e60353a897d299ef7749a58d7a145e82c6c0",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879193",
+ "pkg_size": 12319910,
+ "pkg_sha256": "cbebf585a0e9570ef39237babe69df5ce9ffbfcc889c807978bc25485ad415cb",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.38/BEAN-STATION-MAC-v1.0.38.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.39/BEAN-STATION-MAC-v1.0.39.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
