@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.174",
- "date": "2026.11.02",
- "notes": "고친 것\n• 설정 › 정보의 업데이트 단추와 안내가 다시 앱 언어로 나옵니다.",
+ "version": "0.1.177",
+ "date": "2026.11.04",
+ "notes": "새로 생긴 것\n• 대화의 글이나 참여자를 우클릭하면 메시지와 사람을 신고하거나 사람을 차단할 수 있습니다.\n• 차단한 사람의 메시지는 한 줄로 가려집니다. 설정 › 일반 › 차단한 사람에서 풀 수 있습니다.\n\n바뀐 것\n• 첫 화면이 더 빨리 뜹니다. 통화 부품은 필요할 때만 불러오고, 글꼴은 켤 때마다 다시 읽지 않습니다.\n\n고친 것\n• 상대가 세로 카메라를 끈 뒤에도 칸이 좁게 남아 이름이 잘리던 것을 고쳤습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878948",
- "pkg_size": 25575157,
- "pkg_sha256": "af0ca13b019b9a8cf9fcfd84566daf1570b64b753e228aa690dd2f79c0961fef",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=880077",
+ "pkg_size": 25584358,
+ "pkg_sha256": "3d472054f2799e395ae6914a7ee4ca3530509018009f0d918cd6be527e4fc6bd",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.174/BEAN-TALK-MAC-v0.1.174.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.177/BEAN-TALK-MAC-v0.1.177.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
