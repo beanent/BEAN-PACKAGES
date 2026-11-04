@@ -1,16 +1,16 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.192",
+ "version": "1.1.193",
  "date": "2026.11.04",
- "notes": "고친 것\n• 챗봇 어시스트 안내에서 말풍선이 차림표나 눌러야 할 칸을 가리고 글이 잘리던 문제를 고쳤습니다. 이제 말풍선과 대화 창이 칸을 피해 자리를 잡고, 안내하는 동안 도움말 창은 잠시 숨었다가 끝나면 돌아옵니다.\n• 음정 그래프처럼 넓은 칸을 안내할 때 말풍선이 엉뚱한 곳에 뜨고, 다 보이는데도 다른 창에 가려졌다고 나오던 문제를 고쳤습니다. 빨간 테두리도 칸 전체에 보입니다.",
+ "notes": "바뀐 것\n• 큰 프로젝트를 더 빨리 엽니다. 트랙 80개 넘는 프로젝트에서 여는 시간이 3분의 1 안팎 줄었습니다.\n• 큰 프로젝트의 저장이 빨라졌습니다. 같은 프로젝트에서 저장할 때 멈추는 시간이 5.4초에서 0.9초로 줄었습니다.\n• 프로젝트 파일 크기가 3분의 1 남짓으로 줄어듭니다. 이전 판에서 만든 프로젝트도 그대로 열립니다.\n• 큰 프로젝트를 연 뒤 쓰는 메모리가 줄었습니다.\n\n고친 것\n• MIDI 트랙을 재생할 때 소리가 끊길 수 있는 원인을 없앴습니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=879627",
- "exe_size": 264884952,
- "exe_sha256": "eebbce0907dff7aa6999a3d173b5aabacc32121fdba3818f1b64d3c786d63732",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=880184",
+ "exe_size": 264815528,
+ "exe_sha256": "64c2adeb52aa20dcb388fc58bf49d1612087a64e6bb198544cb52ef9dd8a9780",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.192/BEAN-MUSE-WIN-v1.1.192.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.193/BEAN-MUSE-WIN-v1.1.193.exe"
  ],
- "notes_url": "https://beanent.com/bean_muse_news/879621",
+ "notes_url": "https://beanent.com/bean_muse_news/880074",
  "mirror_of": "procBappsCheck"
 }
