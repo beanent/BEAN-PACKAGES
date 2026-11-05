@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "pick",
- "version": "0.2.70",
+ "version": "0.2.71",
  "date": "2026.11.06",
- "notes": "새로 생긴 것\n• 자막 목록에서 줄을 끌어 순서를 바꿀 수 있습니다. 끄는 동안 들어갈 자리에 선이 보이고, 각 자막의 길이와 전체 길이는 그대로입니다. 자막 사이 빈틈은 같은 차례의 자리에 남습니다.\n• 자막 줄을 오른쪽 단추로 누르면 위로 옮기기 · 아래로 옮기기가 나옵니다. 여러 줄을 고른 채 끌면 함께 옮겨 갑니다.\n• 선택 도구로 두 번 누르면 메인 클립 · 요소 · 자막이 누른 자리에서 둘로 나뉩니다. 재생 위치는 그대로이고, 자석이 켜져 있으면 가까운 자리에 맞물립니다.\n• 타임라인을 영상 전체보다 더 줄여 볼 수 있습니다. Command + 휠 아래(윈도우는 Ctrl)나 [−] 로 영상 끝 뒤 빈 자리가 보일 때까지 줄어듭니다. 전체가 칸 폭의 4분의 1 로 보이는 25% 까지입니다.\n\n바뀐 것\n• 도구 줄이 선택 · 컷 · 블레이드 · 볼륨 · 암전 다섯으로 정리됐습니다. 단축키는 왼쪽부터 숫자 1 · 2 · 3 · 4 · 5 입니다.\n• 다듬기와 자리 옮기기를 도구를 바꾸지 않고 선택 도구에서 바로 합니다.\n• 오른쪽 단추로 클립을 끌면 놓은 자리를 덮어쓰고 떠난 자리에 갭이 남습니다. 끌지 않고 떼면 지금처럼 차림표가 열립니다.\n• Shift 를 누른 채 편집점을 끌면 전체 길이는 그대로 앞뒤 경계만 옮겨 갑니다.\n• Shift + Option 으로 클립을 끌면 재료는 두고 자리만, Shift + Command 로 끌면 자리는 두고 재료만 옮겨 갑니다.\n• Option + , · . 은 재료만 한 장씩, Option + Command + , · . 은 덮어쓰며 한 장씩 옮깁니다.\n• 자막 글은 자막을 고른 뒤 Enter 로 고칩니다. 자막 줄을 두 번 누르면 이제 그 자리에서 나뉩니다.\n• 모서리 위 커서가 잡은 쪽을 가리키고, Shift 를 누르면 편집점 양쪽 커서로 바뀝니다.\n\n고친 것\n• 컷으로 구간을 잘라 내면 재생 위치가 처음으로 돌아가고 보던 타임라인 자리가 달라지던 문제를 고쳤습니다. 자른 자리가 화면에 그대로 남고, 재생 위치가 잘린 구간 안이었으면 자른 끝 바로 뒤로 옮겨 갑니다.\n• 되돌리기 · 다시 하기 뒤에도 재생 위치와 타임라인 자리가 그대로입니다.",
+ "notes": "새로 생긴 것\n• 앱 폰트를 고를 수 있습니다. 설정 › UI › 화면에서 Joy's Scramble 을 고르면 앱 화면 전체가 바로 바뀌고, 다음에 켜도 유지됩니다. 기본은 지금 글꼴입니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881031",
- "pkg_size": 38472145,
- "pkg_sha256": "2ab975fc610d45bfef8e19647ee924458c4501e572460ddbe1a5242870593748",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881060",
+ "pkg_size": 39265181,
+ "pkg_sha256": "1f16ea12e13840273c035cf300d9870244c951baffbf9c682e851c5c599a1828",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.70/BEAN-PICK-MAC-v0.2.70.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.71/BEAN-PICK-MAC-v0.2.71.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
