@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "pick",
- "version": "0.2.76",
+ "version": "0.2.77",
  "date": "2026.11.06",
- "notes": "고친 것\n• 앱 폰트를 Joy's Scramble 로 고르면 숫자 · 시각 · 값 칸까지 모두 그 글꼴로 나옵니다. 숫자는 폭이 같아 값이 바뀌어도 글이 흔들리지 않습니다.",
+ "notes": "새로 생긴 것\n• 잘라서 생긴 이음매(같은 재료에서 시간이 이어지는 자리)에 마우스를 대면 본드 커서와 작은 본드 표시가 뜹니다. 두 번 누르면 두 조각이 다시 하나로 붙습니다. 메인 줄 · 위 줄 · 소리 줄 모두, 선택 도구와 블레이드 도구에서 됩니다.\n• 이음매가 있는 클립을 오른쪽 단추로 누르거나 손가락으로 꾹 누르면 차림표에 '다시 붙이기'가 있습니다.\n• 다시 붙이면 앞 조각의 설정(자리 · 크기 · 효과 · 소리 크기 등)을 따르고, 끝의 여닫이는 뒤 조각 것을 씁니다. 되돌리기 한 번이면 다시 나뉩니다.\n\n바뀐 것\n• 블레이드 도구로 자르는 자리도 자석에 붙습니다. 재생 위치 · 모든 줄 요소의 앞뒤 끝 · 메인 편집점에 붙고, 붙는 동안 모든 줄을 가로지르는 노란 세로선이 보입니다. Option 을 누르면 자석 없이 자릅니다.\n• 자르는 자리는 늘 프레임 경계에 맞춥니다. 선택 도구로 두 번 눌러 자를 때도 같습니다.\n• 선택 도구로 이음매를 두 번 누르면 자르지 않고 다시 붙입니다.\n• 블레이드 도구로 소리 클립을 누르면 그 자리에서 둘로 나뉩니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881407",
- "pkg_size": 39625707,
- "pkg_sha256": "ab6dcfc72faafa3c5e352e2e385be9171f70962170e5e03d16a6f0de0f8e4c1a",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881480",
+ "pkg_size": 39644965,
+ "pkg_sha256": "bdbe10ae3f8f6d61b838e4d6f7644751b9bafc354db50c47a52925c23c7e08d1",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.76/BEAN-PICK-MAC-v0.2.76.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.77/BEAN-PICK-MAC-v0.2.77.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
