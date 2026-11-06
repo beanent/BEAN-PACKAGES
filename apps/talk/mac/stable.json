@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.177",
- "date": "2026.11.04",
- "notes": "새로 생긴 것\n• 대화의 글이나 참여자를 우클릭하면 메시지와 사람을 신고하거나 사람을 차단할 수 있습니다.\n• 차단한 사람의 메시지는 한 줄로 가려집니다. 설정 › 일반 › 차단한 사람에서 풀 수 있습니다.\n\n바뀐 것\n• 첫 화면이 더 빨리 뜹니다. 통화 부품은 필요할 때만 불러오고, 글꼴은 켤 때마다 다시 읽지 않습니다.\n\n고친 것\n• 상대가 세로 카메라를 끈 뒤에도 칸이 좁게 남아 이름이 잘리던 것을 고쳤습니다.",
+ "version": "0.1.178",
+ "date": "2026.11.06",
+ "notes": "새로 생긴 것\n• 앱 폰트를 고를 수 있습니다. 설정 › UI › 화면에서 Joy's Scramble 을 고르면 앱 화면 전체가 바로 바뀌고, 다음에 켜도 유지됩니다. 기본은 지금 글꼴입니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=880077",
- "pkg_size": 25584358,
- "pkg_sha256": "3d472054f2799e395ae6914a7ee4ca3530509018009f0d918cd6be527e4fc6bd",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881046",
+ "pkg_size": 27123370,
+ "pkg_sha256": "7a52b4b82358a9fbbada7ee497708e982322391b4f88e1b308bd3bbc9ef0978f",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.177/BEAN-TALK-MAC-v0.1.177.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.178/BEAN-TALK-MAC-v0.1.178.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
