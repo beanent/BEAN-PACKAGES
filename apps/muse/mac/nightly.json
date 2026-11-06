@@ -1,16 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.202",
+ "version": "1.1.203",
  "date": "2026.11.06",
- "notes": "바뀐 것\n• 챗봇 어시스트가 마지막 단계를 하면 강조를 저절로 끕니다. 마지막 칸을 누르거나 차림표에서 고르면 바로 꺼지고, 단축키나 메뉴 막대처럼 다른 길로 같은 일을 해도 꺼집니다.\n• 마지막 단계가 보기만 하는 칸이면 그 안을 누르거나 끌 때 꺼지고, 아무것도 하지 않으면 6초 뒤에 꺼집니다.\n\n고친 것\n• 챗봇 어시스트에 \"녹음은 했는데 튠은 어디서 켜?\" 처럼 물으면 음정 보정을 못 찾고 녹음만 내놓던 문제를 고쳤습니다. AI 연동을 했을 때도, 앱 안 목록에서 찾을 때도 음정 보정을 안내합니다.\n• 튠은 · 키는 · 곡을 · 줄을 처럼 두 글자 낱말에 조사가 붙은 질문도 알아듣습니다.\n• 한 질문에 기능이 둘 나오면 묻는 기능을 먼저 안내하고, 앞에 말한 기능도 함께 골라 볼 수 있게 했습니다.",
+ "notes": "새로 생긴 것\n• BEAN 가상악기를 불러오는 동안 악기 칸에 도는 고리와 '악기 불러오는 중' 진행이 퍼센트로 보입니다. 어레인지의 INST 칸, 믹서의 가상악기 칸, 창 오른쪽 아래에 함께 나옵니다.\n\n바뀐 것\n• BEAN 가상악기(드럼 · 피아노 · 기타 · 베이스 · 스트링)를 고르거나 프로젝트를 열 때 화면이 멈추지 않습니다. 소리 자료는 뒤에서 읽고, 다 읽히면 그 자리에서 바로 소리가 납니다. 악기 패키지를 새 판으로 받으면 적용됩니다.\n• 악기를 불러오는 중에 다른 악기를 고르면 앞의 악기는 그만 읽고 새 악기를 바로 불러옵니다.\n• 숫자 · 값 칸도 고른 앱 글꼴로 보입니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881399",
- "pkg_size": 414013929,
- "pkg_sha256": "b8036d53beb9f61d253bd1711813506fdc02e1922d0b52471569368a00f5f696",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882192",
+ "pkg_size": 414221760,
+ "pkg_sha256": "1071ac0176242707bf97c3b1ca82593dd2ae8a163932e92db5cbe630784f58ed",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.202/BEAN-MUSE-MAC-v1.1.202.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.203/BEAN-MUSE-MAC-v1.1.203.pkg"
  ],
- "notes_url": "https://beanent.com/bean_muse_news/881400",
  "mirror_of": "procBappsCheck"
 }
