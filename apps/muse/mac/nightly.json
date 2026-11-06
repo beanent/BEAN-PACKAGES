@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.203",
+ "version": "1.1.204",
  "date": "2026.11.06",
- "notes": "새로 생긴 것\n• BEAN 가상악기를 불러오는 동안 악기 칸에 도는 고리와 '악기 불러오는 중' 진행이 퍼센트로 보입니다. 어레인지의 INST 칸, 믹서의 가상악기 칸, 창 오른쪽 아래에 함께 나옵니다.\n\n바뀐 것\n• BEAN 가상악기(드럼 · 피아노 · 기타 · 베이스 · 스트링)를 고르거나 프로젝트를 열 때 화면이 멈추지 않습니다. 소리 자료는 뒤에서 읽고, 다 읽히면 그 자리에서 바로 소리가 납니다. 악기 패키지를 새 판으로 받으면 적용됩니다.\n• 악기를 불러오는 중에 다른 악기를 고르면 앞의 악기는 그만 읽고 새 악기를 바로 불러옵니다.\n• 숫자 · 값 칸도 고른 앱 글꼴로 보입니다.",
+ "notes": "고친 것\n• 켤 때마다 일부 외부 플러그인을 다시 훑던 것을 고쳐 시작이 빨라졌습니다. 훑어 봤지만 쓸 수 있는 플러그인이 나오지 않은 파일은 그 파일이 바뀔 때까지 다시 훑지 않습니다.\n• 플러그인을 새 판으로 바꾸면 다음에 켤 때 그 플러그인을 다시 확인합니다. 인증을 마친 플러그인이 목록에 보이지 않으면 플러그인 매니저의 전체 재스캔으로 바로 다시 찾습니다.\n• 오류 보고가 같은 꺼짐 기록을 두 번 보내지 않습니다.\n• 앱을 새 판으로 올린 뒤에 보내는 꺼짐 기록에는 실제로 꺼졌던 판이 적힙니다.\n• 오류 보고 창을 어떤 방법으로 닫아도 다음에 켤 때 같은 기록이 다시 뜨지 않습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882192",
- "pkg_size": 414221760,
- "pkg_sha256": "1071ac0176242707bf97c3b1ca82593dd2ae8a163932e92db5cbe630784f58ed",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882531",
+ "pkg_size": 414270723,
+ "pkg_sha256": "b4c84e15398ce1eb253a39e4d8ab7feb3ed2fabaa20f34f3daa4f782e4bb439f",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.203/BEAN-MUSE-MAC-v1.1.203.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.204/BEAN-MUSE-MAC-v1.1.204.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
