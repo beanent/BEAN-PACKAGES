@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.178",
+ "version": "0.1.180",
  "date": "2026.11.06",
- "notes": "새로 생긴 것\n• 앱 폰트를 고를 수 있습니다. 설정 › UI › 화면에서 Joy's Scramble 을 고르면 앱 화면 전체가 바로 바뀌고, 다음에 켜도 유지됩니다. 기본은 지금 글꼴입니다.\n• 대화의 글이나 참여자를 우클릭하면 메시지와 사람을 신고하거나 사람을 차단할 수 있습니다.\n• 차단한 사람의 메시지는 한 줄로 가려집니다. 설정 › 일반 › 차단한 사람에서 풀 수 있습니다.\n\n바뀐 것\n• 첫 화면이 더 빨리 뜹니다. 통화 부품은 필요할 때만 불러오고, 글꼴은 켤 때마다 다시 읽지 않습니다.\n\n고친 것\n• 상대가 세로 카메라를 끈 뒤에도 칸이 좁게 남아 이름이 잘리던 것을 고쳤습니다.",
+ "notes": "고친 것\n• 앱 폰트를 Joy's Scramble 로 고르면 숫자 · 시각 · 값 칸까지 모두 그 글꼴로 나옵니다. 숫자는 폭이 같아 값이 바뀌어도 글이 흔들리지 않습니다.\n• 오류 보고가 같은 꺼짐 기록을 두 번 보내지 않습니다. 예전 판에서 남은 기록이 앱을 올릴 때마다 다시 보내지던 것을 고쳤습니다.\n• 꺼짐 보고에 꺼질 때 쓰던 앱 판이 바르게 적힙니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881452",
- "exe_size": 14721168,
- "exe_sha256": "027799d12a9656643ddd933421ce20d4326ef71cd6598bf509e8bbecba008532",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882535",
+ "exe_size": 14730104,
+ "exe_sha256": "27343a8d6d47eaf12c62c1ef24ce2a3cef1a1f210e1d350b0265ad84f884f42b",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.178/BEAN-TALK-WIN-v0.1.178.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.180/BEAN-TALK-WIN-v0.1.180.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
