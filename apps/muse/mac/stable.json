@@ -1,16 +1,16 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.198",
+ "version": "1.1.201",
  "date": "2026.11.06",
- "notes": "새로 생긴 것\n• 플러그인 창의 D(델타) 기능을 낱개로 살 수 있습니다. 쓰는 라이선스와 상관없이, 무료 사용자도 사서 쓸 수 있습니다.\n• BEAN Spectrum Analyzer 가 새로 들어왔습니다.\n  – 스펙트럼, 스펙트로그램, 레벨 미터, 벡터스코프, 상관도, 라우드니스, 음역대별 좌우 분포를 한 창에서 봅니다.\n  – 소리는 바꾸지 않습니다.\n• 앱 폰트를 고를 수 있습니다.\n  – 설정 › UI › 폰트에서 Joy's Scramble 을 고르면 앱 화면 전체가 바로 바뀌고, 다음에 켜도 유지됩니다.\n  – 기본은 지금 글꼴입니다.\n\n바뀐 것\n• 지금 스탠다드 구독자는 남은 기간 그대로 ULTIMATE 로 바뀝니다.\n• 프로젝트의 소리와 작업 내용은 그대로입니다.\n• 앱 안의 설치 안내를 BEAN STATION 기준으로 바꿨습니다.\n\n고친 것\n• ARA 칸의 크기를 바꾸거나 탭을 오가도 플러그인 화면이 처음 크기에 묶여 잘리던 문제를 고쳤습니다. 플러그인이 정한 최소 크기보다 작은 칸에서는 줄어들지 않고 굴림 막대로 봅니다.\n• 크기를 바꿀 수 없는 ARA 플러그인 화면이 칸 왼쪽 위에 붙던 것을 칸 가운데로 옮겼습니다. 이 두 가지는 아직 일부 플러그인으로만 확인했습니다.\n• 앱을 켤 때 드물게 꺼지던 문제를 고쳤습니다.\n• 확장 패키지 탭을 처음 열 때 앱이 멈춘 듯 오래 걸리던 문제를 고쳤습니다. 탭은 바로 열리고, 최근 프로젝트를 읽는 일은 뒤에서 합니다.\n• DDP 의 시간 칸과 UPC 자리를 납품 검사 결과에 맞춰 고쳤습니다. 소리 자료는 그대로입니다.",
+ "notes": "새로 생긴 것\n• 플러그인 창 맨 위 줄을 두 번 누르면 창을 전체 화면으로 키웁니다. 그동안 빈뮤즈의 맨 위 줄은 감추고 플러그인 화면만 화면 가득 보이며, 화면 위 가장자리에 마우스를 대면 창 단추 막대가 내려옵니다.\n• Esc 를 누르거나 맨 위 줄을 다시 두 번 누르면 원래 창 크기와 자리로 돌아옵니다.\n• 크기를 마음대로 바꿀 수 있는 플러그인 창에서 됩니다. 지금은 BEAN Spectrum Analyzer 1.0.6 부터이고, 분석기 머리 줄을 두 번 눌러도 됩니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881040",
- "pkg_size": 413947722,
- "pkg_sha256": "3adc5a6dd1501067f12cf84b027567ad029427a60a32b3a9f82ac620297d18ca",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881218",
+ "pkg_size": 413984222,
+ "pkg_sha256": "724e0433c142cc2c239453b77a1c55b8fed822761ac42cf32b5934d496126df6",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.198/BEAN-MUSE-MAC-v1.1.198.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.201/BEAN-MUSE-MAC-v1.1.201.pkg"
  ],
- "notes_url": "https://beanent.com/bean_muse_news/881041",
+ "notes_url": "https://beanent.com/bean_muse_news/881219",
  "mirror_of": "procBappsCheck"
 }
