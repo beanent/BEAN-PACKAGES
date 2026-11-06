@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.200",
+ "version": "1.1.201",
  "date": "2026.11.06",
- "notes": "바뀐 것\n• 화면 위 CPU 칸의 막대를 값 오른쪽의 세로 막대로 바꿨습니다. 아래에서 위로 차오르고, 막대에 걸친 가는 가로선이 최근 가장 높았던 값입니다.\n• 설정 › AI 연동의 키 칸에 어떤 키를 넣는지와 그 꼴이 흐리게 보입니다. OpenAI 는 sk-…, 클로드 API 는 sk-ant-api…, 클로드 토큰은 sk-ant-oat…, 개인서버는 bk_… 입니다.\n• 키를 붙여 넣을 때 앞뒤에 묻은 빈칸과 따옴표는 알아서 걷어 냅니다.\n• 개인서버 주소를 https:// 없이 넣어도 https:// 로 맞춰 씁니다.\n• 클로드 토큰이 받아들여지지 않으면 다시 로그인하라는 말 대신 새 토큰을 넣으라고 알려 줍니다. OpenAI 키, 클로드 API 키, 개인서버 키도 방식마다 맞는 안내가 나옵니다.\n• 클로드 API 크레딧이 모자랄 때 충전하는 곳을 platform.claude.com 으로 안내하고, Claude Pro · Max 같은 구독과 API 결제는 따로라는 점을 함께 알려 줍니다.\n\n고친 것\n• 설정 › AI 연동에서 키 칸에 글자만 있으면 키가 틀려도 연동됨으로 보이던 문제를 고쳤습니다. 키의 꼴이 고른 플랫폼과 맞는지 바로 보고, 키가 실제로 받아들여진 뒤에 연동됨으로 바뀝니다. 요금이 드는 호출은 하지 않습니다.\n• 쓸 수 없는 관리자 키나 꼴이 다른 키를 넣어도 아무 말이 없던 문제를 고쳤습니다. 넣는 즉시 무엇이 틀렸는지 알려 줍니다.\n• 개인서버 주소 칸에 chatgpt.com · claude.ai 만 넣어도 알려 주지 않던 문제를 고쳤습니다. 맞는 주소를 함께 안내합니다.\n• 도움말에서 클로드 토큰을 로그인 단추로 받는다고 설명하던 것을 실제 동작대로 고쳤습니다.",
+ "notes": "새로 생긴 것\n• 플러그인 창 맨 위 줄을 두 번 누르면 창을 전체 화면으로 키웁니다. 그동안 빈뮤즈의 맨 위 줄은 감추고 플러그인 화면만 화면 가득 보이며, 화면 위 가장자리에 마우스를 대면 창 단추 막대가 내려옵니다.\n• Esc 를 누르거나 맨 위 줄을 다시 두 번 누르면 원래 창 크기와 자리로 돌아옵니다.\n• 크기를 마음대로 바꿀 수 있는 플러그인 창에서 됩니다. 지금은 BEAN Spectrum Analyzer 1.0.6 부터이고, 분석기 머리 줄을 두 번 눌러도 됩니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881165",
- "pkg_size": 413992706,
- "pkg_sha256": "10470b459e359b886509da491b51362d62944e9413090a39e9261c522fb02e92",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881218",
+ "pkg_size": 413984222,
+ "pkg_sha256": "724e0433c142cc2c239453b77a1c55b8fed822761ac42cf32b5934d496126df6",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.200/BEAN-MUSE-MAC-v1.1.200.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.201/BEAN-MUSE-MAC-v1.1.201.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
