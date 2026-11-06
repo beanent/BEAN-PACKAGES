@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.178",
+ "version": "0.1.179",
  "date": "2026.11.06",
- "notes": "새로 생긴 것\n• 앱 폰트를 고를 수 있습니다. 설정 › UI › 화면에서 Joy's Scramble 을 고르면 앱 화면 전체가 바로 바뀌고, 다음에 켜도 유지됩니다. 기본은 지금 글꼴입니다.",
+ "notes": "고친 것\n• 앱 폰트를 Joy's Scramble 로 고르면 숫자 · 시각 · 값 칸까지 모두 그 글꼴로 나옵니다. 숫자는 폭이 같아 값이 바뀌어도 글이 흔들리지 않습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881046",
- "pkg_size": 27123370,
- "pkg_sha256": "7a52b4b82358a9fbbada7ee497708e982322391b4f88e1b308bd3bbc9ef0978f",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881436",
+ "pkg_size": 27465324,
+ "pkg_sha256": "7047105a93dcf0522115d4a57b7bdf6bf91a1367424e3e274b4a15f5f6f33761",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.178/BEAN-TALK-MAC-v0.1.178.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.179/BEAN-TALK-MAC-v0.1.179.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
