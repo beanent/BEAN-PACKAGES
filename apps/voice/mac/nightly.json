@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "voice",
- "version": "0.4.113",
+ "version": "0.4.114",
  "date": "2026.11.06",
- "notes": "새로 생긴 것\n• 앱 폰트를 고를 수 있습니다. 설정 › UI › 화면에서 Joy's Scramble 을 고르면 앱 화면 전체가 바로 바뀌고, 다음에 켜도 유지됩니다. 기본은 지금 글꼴입니다.\n\n고친 것\n• 설정 › 라이선스에서 로그인에 실패했을 때 까닭이 보이지 않던 것을 고쳤습니다.",
+ "notes": "바뀐 것\n• 설정 › AI 연동의 키 칸에 넣을 키의 꼴이 흐리게 보입니다. OpenAI 는 sk-…, 클로드 API 는 sk-ant-api…, 클로드 토큰은 sk-ant-oat…, 개인서버는 bk_… 입니다.\n• 키를 붙여 넣을 때 앞뒤에 묻은 빈칸과 따옴표는 알아서 걷어 냅니다.\n• 개인서버 주소를 https:// 없이 넣거나 beanent.com 주소를 http:// 로 넣어도 https:// 로 맞춰 씁니다.\n• 키가 받아들여지지 않으면 방식마다 맞는 안내가 나옵니다. OpenAI 키, 클로드 API 키, 개인서버 키는 키를 확인하라고, 클로드 토큰은 새 토큰을 넣으라고 알려 줍니다.\n• 크레딧이 모자랄 때 어디서 충전하는지(platform.openai.com · platform.claude.com)와, ChatGPT Plus · Claude Pro 같은 구독과 API 결제는 따로라는 점이 함께 나옵니다.\n\n고친 것\n• 설정 › AI 연동에서 키가 틀려도 모델 목록을 불러온 것처럼 보이던 문제를 고쳤습니다. 이제 키가 실제로 받아들여지는지 확인하고, 안 되면 까닭이 나옵니다. 요금이 드는 호출은 하지 않습니다.\n• 고른 플랫폼과 맞지 않는 키를 넣어도 아무 말이 없던 문제를 고쳤습니다. OpenAI 칸에 클로드 키를 넣거나 개인서버 칸에 OpenAI 키를 넣으면 바로 알려 주고, 쓸 수 없는 관리자 키도 알려 줍니다.\n• 개인서버 주소 칸에 chatgpt.com · claude.ai · beanent.com 만 넣어도 알려 주지 않던 문제를 고쳤습니다. 맞는 주소를 함께 안내합니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881063",
- "pkg_size": 15618524,
- "pkg_sha256": "7ab5537d4b3e2cccef6b619e1e5f22364922374ac59cf59996abe6520f40cce2",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881151",
+ "pkg_size": 15700958,
+ "pkg_sha256": "1f16483ffa0952fc5a4af51357cec385fc6cc5532b113cf69b827c8100f0117d",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.113/BEAN-VOICE-MAC-v0.4.113.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.114/BEAN-VOICE-MAC-v0.4.114.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
