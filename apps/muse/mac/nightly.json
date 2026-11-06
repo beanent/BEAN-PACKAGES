@@ -11,5 +11,6 @@
  "pkg_mirrors": [
   "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.204/BEAN-MUSE-MAC-v1.1.204.pkg"
  ],
+ "notes_url": "https://beanent.com/bean_muse_news/882532",
  "mirror_of": "procBappsCheck"
 }

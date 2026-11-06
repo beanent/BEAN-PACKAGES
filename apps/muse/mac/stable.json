@@ -1,16 +1,16 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.201",
+ "version": "1.1.204",
  "date": "2026.11.06",
- "notes": "새로 생긴 것\n• 플러그인 창 맨 위 줄을 두 번 누르면 창을 전체 화면으로 키웁니다. 그동안 빈뮤즈의 맨 위 줄은 감추고 플러그인 화면만 화면 가득 보이며, 화면 위 가장자리에 마우스를 대면 창 단추 막대가 내려옵니다.\n• Esc 를 누르거나 맨 위 줄을 다시 두 번 누르면 원래 창 크기와 자리로 돌아옵니다.\n• 크기를 마음대로 바꿀 수 있는 플러그인 창에서 됩니다. 지금은 BEAN Spectrum Analyzer 1.0.6 부터이고, 분석기 머리 줄을 두 번 눌러도 됩니다.",
+ "notes": "고친 것\n• 켤 때마다 일부 외부 플러그인을 다시 훑던 것을 고쳐 시작이 빨라졌습니다. 훑어 봤지만 쓸 수 있는 플러그인이 나오지 않은 파일은 그 파일이 바뀔 때까지 다시 훑지 않습니다.\n• 플러그인을 새 판으로 바꾸면 다음에 켤 때 그 플러그인을 다시 확인합니다. 인증을 마친 플러그인이 목록에 보이지 않으면 플러그인 매니저의 전체 재스캔으로 바로 다시 찾습니다.\n• 오류 보고가 같은 꺼짐 기록을 두 번 보내지 않습니다.\n• 앱을 새 판으로 올린 뒤에 보내는 꺼짐 기록에는 실제로 꺼졌던 판이 적힙니다.\n• 오류 보고 창을 어떤 방법으로 닫아도 다음에 켤 때 같은 기록이 다시 뜨지 않습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881218",
- "pkg_size": 413984222,
- "pkg_sha256": "724e0433c142cc2c239453b77a1c55b8fed822761ac42cf32b5934d496126df6",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882531",
+ "pkg_size": 414270723,
+ "pkg_sha256": "b4c84e15398ce1eb253a39e4d8ab7feb3ed2fabaa20f34f3daa4f782e4bb439f",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.201/BEAN-MUSE-MAC-v1.1.201.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.204/BEAN-MUSE-MAC-v1.1.204.pkg"
  ],
- "notes_url": "https://beanent.com/bean_muse_news/881219",
+ "notes_url": "https://beanent.com/bean_muse_news/882532",
  "mirror_of": "procBappsCheck"
 }
