@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.42",
+ "version": "1.0.43",
  "date": "2026.11.06",
- "notes": "고친 것\n• 앱 폰트를 Joy's Scramble 로 고르면 상점의 상품 설명 화면 글까지 그 글꼴로 나옵니다.",
+ "notes": "고친 것\n• 오류 보고가 같은 꺼짐 기록을 두 번 보내지 않습니다. 예전 판에서 남은 기록이 앱을 올릴 때마다 다시 보내지던 것을 고쳤습니다.\n• 꺼짐 보고에 꺼질 때 쓰던 앱 판이 바르게 적힙니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881386",
- "pkg_size": 13291891,
- "pkg_sha256": "0163578ea644879f5ba4045fdf4cba13d4a9762aa9d08ecc83257332e923edf4",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882406",
+ "pkg_size": 13310623,
+ "pkg_sha256": "e00b81f03d4fe8b575715627984cbe90ef2e1e283399d56832033db33e2c50cc",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.42/BEAN-STATION-MAC-v1.0.42.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.43/BEAN-STATION-MAC-v1.0.43.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
