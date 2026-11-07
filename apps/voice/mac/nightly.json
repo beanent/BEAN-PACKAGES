@@ -1,16 +1,15 @@
 {
  "error": 0,
  "app": "voice",
- "version": "0.4.116",
- "date": "2026.11.06",
- "notes": "고친 것\n• 오류 보고가 같은 꺼짐 기록을 두 번 보내지 않습니다. 예전 판에서 남은 기록이 앱을 올릴 때마다 다시 보내지던 것을 고쳤습니다.\n• 꺼짐 보고에 꺼질 때 쓰던 앱 판이 바르게 적힙니다.",
+ "version": "0.4.117",
+ "date": "2026.11.07",
+ "notes": "새로 생긴 것\n• 실시간 분석 창에 튜너 탭이 생겼습니다. 바늘로 지금 음에서 몇 센트 벗어났는지 보여 주고, 음정 흐름 그래프로 시간에 따라 어떻게 흘렀는지 보여 줍니다. 범위 안은 파랑, 밖은 주황입니다.\n• 기준을 가까운 음과 목표 음 가운데 고를 수 있습니다. 목표 음을 고르면 그 음 하나를 기준으로 보고, 기준음 듣기로 그 음을 들을 수 있습니다.\n• 범위를 ±5 · ±10 · ±20 센트 가운데 고를 수 있고, 범위 안에 든 비율이 그래프 위에 나옵니다.\n• 이번 연습에서 낸 음마다 평균이 몇 센트인지, 맞는지 조금 낮은지 높은지가 음별 평균에 쌓입니다.\n• 튜너는 빈뮤즈의 BEAN Tuner 와 같은 검출 방식을 써서 낮은 음과 배음이 많은 소리도 옥타브를 틀리지 않고 읽습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882379",
- "pkg_size": 15884498,
- "pkg_sha256": "d303c4d146b5eb6430e999abc18371e4194cdb63c6c0456bbe898ce9630c4d5f",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882799",
+ "pkg_size": 15963011,
+ "pkg_sha256": "76d992ee4ec36fab44a4446e37aa62805e32d09bceaad7593667af4b1fe7a91a",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.116/BEAN-VOICE-MAC-v0.4.116.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.117/BEAN-VOICE-MAC-v0.4.117.pkg"
  ],
- "notes_url": "https://beanent.com/bean_voice_news/882411",
  "mirror_of": "procBappsCheck"
 }
