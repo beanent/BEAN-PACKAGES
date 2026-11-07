@@ -8,5 +8,8 @@
  "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882788",
  "pkg_size": 13400478,
  "pkg_sha256": "6d5c7d2b062e995991fed7741a9bde0f3eecd4c69e9a90256c4acb61cacd0eeb",
+ "pkg_mirrors": [
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.46/BEAN-STATION-MAC-v1.0.46.pkg"
+ ],
  "mirror_of": "procBappsCheck"
 }
