@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "voice",
- "version": "0.4.118",
- "date": "2026.11.07",
- "notes": "새로 생긴 것\n• 튜너 탭에 보기 넷(바늘 · 막대 · 스트로브 · 무대)이 생겼습니다. 스트로브는 음이 맞으면 무늬가 멈추고, 무대는 멀리서도 보이게 음 이름을 크게 보여 줍니다.\n• 튜너 탭 [설정]에서 기준음(415 ~ 466 Hz), 음 이름(C D E · 도 레 미), 반음 표기(♯ · ♭), 반응(빠름 · 보통 · 안정)을 고를 수 있습니다.\n• 튜너 탭에 입력 크기 막대가 보입니다.\n\n고친 것\n• 실시간 분석 창 튜너 탭을 빈뮤즈 BEAN Tuner 플러그인과 같은 모습으로 다시 그렸습니다. 큰 음 이름 · 낮음과 높음 딱지 · 센트 · Hz 가 한 카드에 또렷하게 나옵니다.\n• 튜너 탭의 글자가 칸 테두리에 붙어 있던 것을 고쳤습니다. 모든 칸이 같은 여백을 두고 놓입니다.\n• 가까운 음 · 목표 음은 나란한 두 칸으로 바꿨습니다. 목표 음 칸을 한 번 더 누르면 음을 고릅니다.\n• 실시간 분석 창의 탭과 단추에서 한글 낱말 사이가 넓게 벌어져 보이던 것을 고쳤습니다.",
+ "version": "0.4.119",
+ "date": "2026.11.08",
+ "notes": "0.4.119 (2026-11-08)\n\n고친 것\n• 실시간 분석 창 튜너 탭에서 [정지]를 누른 뒤에도 화면 아래에 빈 띠가 남지 않습니다. 되짚기 줄이 나오면 큰 카드가 그 자리를 채웁니다.\n• 튜너 탭이 보이지 않는 자리를 다시 그리지 않아 더 가볍게 돌아갑니다.\n• 튜너 탭의 막대 · 스트로브 보기에서 창이 낮을 때도 낮음 · 높음 딱지와 센트 · Hz 줄이 카드 안에 또렷하게 나옵니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=883143",
- "pkg_size": 16006546,
- "pkg_sha256": "3e51ee791f7764a2dfd54a9c73fdea34a1b9e12bd3a18f166a9e4b4682b5b20f",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=883315",
+ "pkg_size": 16011568,
+ "pkg_sha256": "fb8fd0b53ae6d42e6cbbe113ce5fe20225e0012a60622f79bdcd6b21b8417faa",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.118/BEAN-VOICE-MAC-v0.4.118.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.119/BEAN-VOICE-MAC-v0.4.119.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
