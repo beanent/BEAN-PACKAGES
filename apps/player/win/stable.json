@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.0",
- "date": "2026.11.07",
- "notes": "새로 생긴 것\n• 빈플레이어 첫 판입니다. 음악과 영상을 원음 그대로 재생하는 플레이어예요.\n• 비트퍼펙트 재생: 독점 모드에서 파일 표본을 손대지 않고 그대로 장치에 보내고, 곡마다 장치 샘플레이트를 맞춰요.\n• 독점 모드(WASAPI): 다른 앱 소리가 섞이지 않게 출력 장치를 혼자 써요. ASIO 장치도 고를 수 있어요(설정 › 오디오).\n• 형식: FLAC · ALAC · WAV · AIFF · DSD(DSF · DFF, DoP) · MP3 · AAC · OGG · Opus · APE · WavPack · TTA 등을 재생해요.\n• 갭리스 재생: 앨범 곡 사이가 끊기지 않아요.\n• 영상: MP4 · MKV · MOV · WebM · AVI 등을 그래픽 카드 디코딩(Direct3D 11)으로 재생하고, HDR 영상은 SDR 화면에 맞춰 보여 줘요.\n• 자막: SRT · ASS · VTT · SMI 파일과 영상 안 자막을 보여 주고, 같은 이름 자막은 자동으로 연결해요.\n• 영상도 음악처럼: 창 오른쪽 위 스위치를 켜면 영상을 소리만 재생해요.\n• 보관함: 감시 폴더의 바뀐 파일을 바로 읽고, 재생 목록을 만들고, 끌어서 순서를 바꿀 수 있어요.\n• 미니 플레이어와 전체 화면을 쓸 수 있어요.\n• EQ · 스펙트럼 애널라이저: 빈뮤즈 다이나믹 EQ · 스펙트럼 애널라이저와 같은 창을 띄워요. 빈뮤즈 라이선스나 해당 플러그인이 있으면 쓸 수 있어요. 이 컴퓨터에서 빈뮤즈에 로그인해 두었으면 따로 로그인하지 않아도 돼요.\n• 안전 리미터: EQ 를 켜도 소리가 넘쳐 깨지지 않게 마지막 단에서 부드럽게 잡아 줘요.\n• 테마: 라이트 · 다크 · 시스템 따르기, 창 제목 줄도 테마에 맞춰 어둡게 바뀌어요.\n• 오류 보고 · 버그 제보: 설정 › 일반에서 오류 자동 보고와 디버그 모드를 켜고 끄고, 버그를 직접 써서 보낼 수 있어요.",
+ "version": "0.1.3",
+ "date": "2026.11.08",
+ "notes": "바뀐 것\n• 앱을 켠 뒤 처음 여는 영상의 첫 장면이 더 빨리 나와요.\n\n고친 것\n• 앱을 켠 뒤 첫 곡이 가끔 '재생할 수 없어요'로 멈추던 것을 고쳤어요.\n• 볼륨 창 설명 글이 낱말 가운데에서 줄이 바뀌던 것을 고쳤어요. 이제 띄어쓰기 단위로 줄이 바뀌어 읽기 쉬워요.\n• UTF-8 이 아닌 자막 파일(한국어 CP949 등)을 열 때 가끔 자막이 나오지 않던 것을 고쳤어요.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=883048",
- "exe_size": 42109488,
- "exe_sha256": "2bbdfa5a0eb8e6afc7e18786c4d245694b422ede06f2a066764a90070f882cba",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=883566",
+ "exe_size": 17474952,
+ "exe_sha256": "db2a5e37cf2424cc998bd23a7fa9525d143698e232b2e78b0859277a8bc6898f",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.0/BEAN-PLAYER-WIN-v0.1.0.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.3/BEAN-PLAYER-WIN-v0.1.3.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
