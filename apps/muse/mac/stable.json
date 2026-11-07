@@ -1,15 +1,16 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.205",
+ "version": "1.1.206",
  "date": "2026.11.07",
- "notes": "고친 것\n• 앱 글꼴을 Joy's Scramble 로 고르면 플러그인 창 맨 위 줄의 창 배율 고르개 글이 칸을 넘던 것을 고쳤습니다. 플러그인 창은 앱 글꼴과 상관없이 원래 디자인대로 보입니다.",
+ "notes": "새로 생긴 것\n• 설정 › 플러그인 › 플러그인 매니저에 '건너뛴 플러그인 다시 훑기' 단추가 생겼습니다.\n  – 훑어 봤지만 쓸 수 있는 플러그인이 나오지 않아 건너뛰던 파일만 다시 훑어 전체 재스캔보다 빠릅니다.\n  – 라이선스 인증 뒤 안 보이는 플러그인은 이 단추로 찾습니다.\n• 단추 옆에 건너뛰는 개수가 보이고, 없으면 단추가 흐립니다.\n\n고친 것\n• 믹서나 어레인지 왼쪽 인스펙터가 보이는 동안 화면을 다시 그리는 부담을 줄여 움직임이 더 매끄러워졌습니다.\n• 안정성을 개선했습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882582",
- "pkg_size": 414268254,
- "pkg_sha256": "162725ffbaf06a433417f1599366331b6ef29cd814a24ff1a8a51b1e03b65f3d",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882688",
+ "pkg_size": 414283432,
+ "pkg_sha256": "b2e08f2f102898ede459ab39cedb943713314b4be1c2e2016165f8c52184deef",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.205/BEAN-MUSE-MAC-v1.1.205.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.206/BEAN-MUSE-MAC-v1.1.206.pkg"
  ],
+ "notes_url": "https://beanent.com/bean_muse_news/882689",
  "mirror_of": "procBappsCheck"
 }
