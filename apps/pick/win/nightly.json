@@ -1,15 +1,16 @@
 {
  "error": 0,
  "app": "pick",
- "version": "0.2.81",
+ "version": "0.2.82",
  "date": "2026.11.07",
- "notes": "고친 것\n• 메인 줄을 틀자마자 오는 첫 편집점에서 화면이 잠깐 멈칫하던 것을 고쳤습니다. 다른 파일로 넘어가는 자리도, 같은 파일의 떨어진 자리로 넘어가는 자리도 첫 편집점부터 매끄럽게 이어집니다.\n• 예전 프로젝트의 자막이 … · 。 · ？ · ！ 로 끝날 때 문장 끝으로 알아보지 못해, 다시 붙일 수 없는 두 자막 사이에도 본드가 뜨던 것을 고쳤습니다.",
+ "notes": "고친 것\n• 360p 같은 작은 영상을 재생하기 시작하면 0.5초쯤 지나 화면이 잠깐 멈칫하던 것을 고쳤습니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882666",
- "exe_size": 39835880,
- "exe_sha256": "91b82fde7f20130981ead30df241fcad575718b0a553b9f9ab394f95e0030aff",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882684",
+ "exe_size": 39832672,
+ "exe_sha256": "abd79d5bf35a4d586848af98c29dcd2859c100d6e8ce3f0674f9f4f054ce9c04",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.81/BEAN-PICK-WIN-v0.2.81.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.82/BEAN-PICK-WIN-v0.2.82.exe"
  ],
+ "notes_url": "https://beanent.com/bean_pick_news/882681",
  "mirror_of": "procBappsCheck"
 }
