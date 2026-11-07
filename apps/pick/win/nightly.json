@@ -1,16 +1,15 @@
 {
  "error": 0,
  "app": "pick",
- "version": "0.2.82",
+ "version": "0.2.84",
  "date": "2026.11.07",
- "notes": "고친 것\n• 360p 같은 작은 영상을 재생하기 시작하면 0.5초쯤 지나 화면이 잠깐 멈칫하던 것을 고쳤습니다.",
+ "notes": "",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882684",
- "exe_size": 39832672,
- "exe_sha256": "abd79d5bf35a4d586848af98c29dcd2859c100d6e8ce3f0674f9f4f054ce9c04",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=883208",
+ "exe_size": 39701960,
+ "exe_sha256": "893f5e0ca09340f60c7db6bd1cf2c5a689e441e4bf6253d1522b9055bb0dcefb",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.82/BEAN-PICK-WIN-v0.2.82.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.84/BEAN-PICK-WIN-v0.2.84.exe"
  ],
- "notes_url": "https://beanent.com/bean_pick_news/882681",
  "mirror_of": "procBappsCheck"
 }
