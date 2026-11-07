@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.1",
+ "version": "0.1.2",
  "date": "2026.11.08",
- "notes": "나아진 것\n• 똑똑한 선택에서 얼굴이나 사람을 한 번 누르면 얼굴 · 사람 전체를 고릅니다. 코 · 입처럼 작은 곳만 잡히던 것을 고쳤습니다.\n• AI 노이즈 줄이기 · 흐림 걷기가 빨라졌습니다. 800만 화소 사진 한 장이 7초 안팎입니다. 어두운 곳에 남던 잔 노이즈도 더 고르게 줄입니다.\n• 큰 사진을 보정할 때 쓰는 메모리를 줄였습니다. 2000만 화소 사진도 3GB 아래에서 다듬습니다.\n• 점 고치기 · 지우기 · 몸매 배경 메우기가 둘레 밝기와 결에 더 맞게 메웁니다. 넓은 곳을 메울 때 생기던 네모 띠와 색 번짐을 고쳤습니다.\n• 잠시 쉬면 AI 모델이 쓰던 메모리를 돌려줘 다른 앱이 쓸 자리를 비웁니다.\n• 설정 › 일반의 AI 모델 받기 단추 글이 일본어 · 스페인어에서 잘리던 것을 고쳤습니다.\n• 같은 와이파이의 빈필름을 찾을 때 운영체제가 묻는 권한 글이 고른 화면 말(한국어 · 영어 · 일본어 · 중국어 · 스페인어)로 나옵니다.",
+ "notes": "나아진 것\n• 큰 사진을 다룰 때 메모리를 덜 씁니다. 3000만 화소 사진도 AI 피부 · 잡티 보정을 3GB 아래에서 마칩니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=883797",
- "pkg_size": 59240795,
- "pkg_sha256": "2a2feeeeda7134eb8b394903e8f94748421fc0720dd2de98a08ace08351ea9ad",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=884140",
+ "pkg_size": 59243816,
+ "pkg_sha256": "8133e1c663b5787ee3f9272a3fbcff7299c8e0c09dc936aa84b7df05d41c696c",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.1/BEAN-PHOTO-MAC-v0.1.1.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.2/BEAN-PHOTO-MAC-v0.1.2.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
