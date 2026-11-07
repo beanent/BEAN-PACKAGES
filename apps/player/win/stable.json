@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.3",
+ "version": "0.1.2",
  "date": "2026.11.08",
- "notes": "바뀐 것\n• 앱을 켠 뒤 처음 여는 영상의 첫 장면이 더 빨리 나와요.\n\n고친 것\n• 앱을 켠 뒤 첫 곡이 가끔 '재생할 수 없어요'로 멈추던 것을 고쳤어요.\n• 볼륨 창 설명 글이 낱말 가운데에서 줄이 바뀌던 것을 고쳤어요. 이제 띄어쓰기 단위로 줄이 바뀌어 읽기 쉬워요.\n• UTF-8 이 아닌 자막 파일(한국어 CP949 등)을 열 때 가끔 자막이 나오지 않던 것을 고쳤어요.",
+ "notes": "바뀐 것\n• 창을 작게 줄여도 오른쪽 칸 · 곡 목록 · 재생 줄의 글이 잘리거나 겹치지 않게 자리를 맞춰요.\n• 창이 낮으면 오른쪽 칸 앨범 아트가 알맞게 작아져 '다음 곡' 목록이 넉넉히 보여요.\n• 곡 목록 칸이 좁으면 제목 · 아티스트 · 길이가 먼저 보이게 칸을 나눠요.\n• 영상 자막 싱크를 [-0.1] 싱크 +0.0 초 [+0.1] 한 줄로 정리했어요.\n• EQ 창이 고른 말의 글이 모두 들어가는 크기로 열려요.\n\n고친 것\n• 독일어 · 일본어 · 중국어에서 오른쪽 칸 탭과 영상 설정 글이 잘리던 것을 고쳤어요.\n• 폴더 · 앨범 보기에서 긴 이름이 오른쪽 수와 겹치던 것을 고쳤어요.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=883566",
- "exe_size": 17474952,
- "exe_sha256": "db2a5e37cf2424cc998bd23a7fa9525d143698e232b2e78b0859277a8bc6898f",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=883275",
+ "exe_size": 17477720,
+ "exe_sha256": "d10ccea5f4b0d5544b85537141dbaddc03bffa61cd91bfb88181aa5e3f01495d",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.3/BEAN-PLAYER-WIN-v0.1.3.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.2/BEAN-PLAYER-WIN-v0.1.2.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
