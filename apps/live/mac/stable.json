@@ -1,0 +1,15 @@
+{
+ "error": 0,
+ "app": "live",
+ "version": "0.1.1",
+ "date": "2026.11.08",
+ "notes": "고친 것\n• 라이선스 안내와 설정 › 라이선스의 [구매] 를 누르면 빈라이브 상품 화면이 바로 열립니다.",
+ "channel": "stable",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=883435",
+ "pkg_size": 150887557,
+ "pkg_sha256": "bd67e176dce8fa1bcb9abedca66bc722afc9d11e550a7eafaebeb6d0ec159597",
+ "pkg_mirrors": [
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.1/BEAN-LIVE-MAC-v0.1.1.pkg"
+ ],
+ "mirror_of": "procBappsCheck"
+}
