@@ -3,7 +3,7 @@
  "app": "voice",
  "version": "0.4.119",
  "date": "2026.11.08",
- "notes": "0.4.119 (2026-11-08)\n\n고친 것\n• 실시간 분석 창 튜너 탭에서 [정지]를 누른 뒤에도 화면 아래에 빈 띠가 남지 않습니다. 되짚기 줄이 나오면 큰 카드가 그 자리를 채웁니다.\n• 튜너 탭이 보이지 않는 자리를 다시 그리지 않아 더 가볍게 돌아갑니다.\n• 튜너 탭의 막대 · 스트로브 보기에서 창이 낮을 때도 낮음 · 높음 딱지와 센트 · Hz 줄이 카드 안에 또렷하게 나옵니다.",
+ "notes": "고친 것\n• 실시간 분석 창 튜너 탭에서 [정지]를 누른 뒤에도 화면 아래에 빈 띠가 남지 않습니다. 되짚기 줄이 나오면 큰 카드가 그 자리를 채웁니다.\n• 튜너 탭이 보이지 않는 자리를 다시 그리지 않아 더 가볍게 돌아갑니다.\n• 튜너 탭의 막대 · 스트로브 보기에서 창이 낮을 때도 낮음 · 높음 딱지와 센트 · Hz 줄이 카드 안에 또렷하게 나옵니다.",
  "channel": "nightly",
  "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=883315",
  "pkg_size": 16011568,
@@ -11,5 +11,6 @@
  "pkg_mirrors": [
   "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.119/BEAN-VOICE-MAC-v0.4.119.pkg"
  ],
+ "notes_url": "https://beanent.com/bean_voice_news/883316",
  "mirror_of": "procBappsCheck"
 }
