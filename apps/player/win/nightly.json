@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.4",
+ "version": "0.1.5",
  "date": "2026.11.08",
- "notes": "고친 것\n• 곡을 바꾸면 오른쪽 지금 재생 칸과 아래 재생 막대의 제목 · 표지 · 형식 · 길이가 앞 곡으로 남던 것을 고쳤어요. 이제 바로 새 곡으로 바뀌어요.",
+ "notes": "새로 생긴 것\n• 창을 닫아도 음악이 계속 나와요. 빈플레이어는 시스템 트레이의 아이콘으로 남아요. 아이콘을 누르면 창이 열리고, 오른쪽 단추로 누르면 지금 곡 · 재생/일시정지 · 이전 곡 · 다음 곡 · 창 열기 · 미니 플레이어 · 끝내기가 나와요. 설정 › 일반에서 켜고 끌 수 있어요.\n• 키보드의 재생 · 다음 곡 · 이전 곡 키와 윈도우 볼륨 창 · 잠금 화면의 미디어 단추로 빈플레이어를 움직일 수 있어요. 창을 닫아 트레이에 있을 때도 돼요. 지금 곡 제목 · 아티스트 · 앨범 아트도 함께 보여요.\n• 미니 플레이어 왼쪽 아래 단추를 누르면 미니 플레이어 아래로 지금 재생 목록이 펼쳐져요. 줄을 두 번 누르면 그 곡으로 가고, 펼친 높이를 기억해요.\n• 창 맨 위 머리 줄의 빈 곳을 두 번 누르면 창이 화면 가득 커지거나 원래 크기로 돌아와요.\n\n바뀐 것\n• 미니 플레이어 오른쪽 아래 단추는 원래 플레이어로 돌아가요. 마우스를 올리면 '원래 플레이어로' 라고 나와요.\n\n고친 것\n• 영상 · EQ · 스펙트럼 애널라이저를 전체 화면으로 하면 화면 전체를 덮어요. 맨 위 창 단추 줄과 작업 표시줄이 남던 것을 고쳤어요.\n• 전체 화면으로 둔 스펙트럼 애널라이저 · EQ 창을 닫으면 전체 화면에서 먼저 빠져나와요.\n• 미니 플레이어의 표지와 제목 둘레에 회색 상자가 보이던 것을 고쳤어요.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=884937",
- "exe_size": 17472080,
- "exe_sha256": "4ba77000b250a70581154ba921e23bd92d9c4de57eefb517e2e159c6b3004685",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885270",
+ "exe_size": 17518048,
+ "exe_sha256": "3f55dc0c6c00f66c6ef369a81729f177bd7eb5368ead0342f6f07e1b72987391",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.4/BEAN-PLAYER-WIN-v0.1.4.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.5/BEAN-PLAYER-WIN-v0.1.5.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
