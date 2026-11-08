@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.8",
- "date": "2026.11.08",
- "notes": "바뀐 것\n• 컴퓨터가 바쁠 때도 스펙트럼 애널라이저가 매끄럽게 움직여요. 큰 화면 · 전체 화면에서도 초당 60장 가까이 그려요.\n• 컴퓨터가 바쁠 때 보관함 · 미니 플레이어 · 영상 화면도 더 부드럽게 그려져요.",
+ "version": "0.1.9",
+ "date": "2026.11.09",
+ "notes": "고친 것\n• 영상 전체 화면에서 아래 조작 띠 위로 마우스를 움직이는 동안에도 3초 뒤 띠가 사라지던 것을 고쳤어요. 띠 위에서 움직이면 계속 보여요.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885666",
- "exe_size": 17590424,
- "exe_sha256": "c1dad1ed55eeb7b1fe9659e029f599c317d32f9fc1451220ee980d0b1a2a9f5b",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885913",
+ "exe_size": 17619928,
+ "exe_sha256": "f199d7eeabe0d531a32ef846389dcae236df3f60fca8866a5bc3f63d3b4d9f3e",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.8/BEAN-PLAYER-WIN-v0.1.8.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.9/BEAN-PLAYER-WIN-v0.1.9.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
