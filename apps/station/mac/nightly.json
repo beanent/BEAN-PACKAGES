@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.46",
- "date": "2026.11.07",
- "notes": "새로 생긴 것\n• 새 앱이 나오면 빈스테이션을 업데이트하지 않아도 앱 목록에 바로 나오고, 여기서 설치 · 실행 · 업데이트 · 삭제할 수 있습니다.\n\n바뀐 것\n• 앱 목록은 가장 최근에 업데이트된 앱부터 보입니다.\n• 앱 이름 · 소개 · 아이콘을 서버에서 받아 와 늘 최신으로 보입니다.",
+ "version": "1.0.47",
+ "date": "2026.11.08",
+ "notes": "새로 생긴 것\n• 머리 줄의 앱 탭을 오른쪽 클릭해 즐겨찾기로 둘 수 있습니다. 즐겨찾기한 앱은 STORE 바로 오른쪽에 나오고, 가장 나중에 즐겨찾기한 앱이 가장 왼쪽에 옵니다. 업데이트하거나 다시 켜도 그대로입니다.\n\n바뀐 것\n• 파일 위치를 여는 단추 이름을 다른 BEAN 앱과 같게 맞췄습니다. 맥은 '파인더에서 보기', 윈도우는 '파일 탐색기에서 보기' 입니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882788",
- "pkg_size": 13400478,
- "pkg_sha256": "6d5c7d2b062e995991fed7741a9bde0f3eecd4c69e9a90256c4acb61cacd0eeb",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885657",
+ "pkg_size": 13409658,
+ "pkg_sha256": "2b8540fb445cbe8cc16df88c1026225fe6be42d7c4c2d24db858ce6221868b12",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.46/BEAN-STATION-MAC-v1.0.46.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.47/BEAN-STATION-MAC-v1.0.47.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
