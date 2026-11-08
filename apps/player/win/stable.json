@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.2",
+ "version": "0.1.4",
  "date": "2026.11.08",
- "notes": "바뀐 것\n• 창을 작게 줄여도 오른쪽 칸 · 곡 목록 · 재생 줄의 글이 잘리거나 겹치지 않게 자리를 맞춰요.\n• 창이 낮으면 오른쪽 칸 앨범 아트가 알맞게 작아져 '다음 곡' 목록이 넉넉히 보여요.\n• 곡 목록 칸이 좁으면 제목 · 아티스트 · 길이가 먼저 보이게 칸을 나눠요.\n• 영상 자막 싱크를 [-0.1] 싱크 +0.0 초 [+0.1] 한 줄로 정리했어요.\n• EQ 창이 고른 말의 글이 모두 들어가는 크기로 열려요.\n\n고친 것\n• 독일어 · 일본어 · 중국어에서 오른쪽 칸 탭과 영상 설정 글이 잘리던 것을 고쳤어요.\n• 폴더 · 앨범 보기에서 긴 이름이 오른쪽 수와 겹치던 것을 고쳤어요.",
+ "notes": "고친 것\n• 곡을 바꾸면 오른쪽 지금 재생 칸과 아래 재생 막대의 제목 · 표지 · 형식 · 길이가 앞 곡으로 남던 것을 고쳤어요. 이제 바로 새 곡으로 바뀌어요.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=883275",
- "exe_size": 17477720,
- "exe_sha256": "d10ccea5f4b0d5544b85537141dbaddc03bffa61cd91bfb88181aa5e3f01495d",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=884937",
+ "exe_size": 17472080,
+ "exe_sha256": "4ba77000b250a70581154ba921e23bd92d9c4de57eefb517e2e159c6b3004685",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.2/BEAN-PLAYER-WIN-v0.1.2.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.4/BEAN-PLAYER-WIN-v0.1.4.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
