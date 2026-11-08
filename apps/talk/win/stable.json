@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.175",
- "date": "2026.11.03",
- "notes": "고친 것\n• 정보 화면에서 소개 글만 영어로 두고, 버전 · 업데이트 확인 단추와 결과 글 · 최신 개발(Nightly) 칸과 설명 · 사용 안내는 다시 앱에서 고른 말로 보이게 했습니다.",
+ "version": "0.1.180",
+ "date": "2026.11.06",
+ "notes": "고친 것\n• 앱 폰트를 Joy's Scramble 로 고르면 숫자 · 시각 · 값 칸까지 모두 그 글꼴로 나옵니다. 숫자는 폭이 같아 값이 바뀌어도 글이 흔들리지 않습니다.\n• 오류 보고가 같은 꺼짐 기록을 두 번 보내지 않습니다. 예전 판에서 남은 기록이 앱을 올릴 때마다 다시 보내지던 것을 고쳤습니다.\n• 꺼짐 보고에 꺼질 때 쓰던 앱 판이 바르게 적힙니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=878989",
- "exe_size": 14133488,
- "exe_sha256": "1584cd77e461226ea436875249a2aa4f441032ad6c60ba195153f0b4f4f35e47",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882535",
+ "exe_size": 14730104,
+ "exe_sha256": "27343a8d6d47eaf12c62c1ef24ce2a3cef1a1f210e1d350b0265ad84f884f42b",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.175/BEAN-TALK-WIN-v0.1.175.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.180/BEAN-TALK-WIN-v0.1.180.exe"
  ],
  "mirror_of": "procBappsCheck"
 }

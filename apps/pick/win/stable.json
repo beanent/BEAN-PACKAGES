@@ -1,16 +1,15 @@
 {
  "error": 0,
  "app": "pick",
- "version": "0.2.69",
- "date": "2026.11.05",
- "notes": "고친 것\n• 뒤쪽 하이라이트를 고른 채 하이라이트를 지우거나 다시 하기로 목록이 줄어들 때, 위쪽 클립 줄이 이미 사라진 항목을 잠깐 읽던 문제를 고쳤습니다. 드물게 앱이 꺼질 수 있는 문제였습니다.\n\n윈도우\n• 내보낸 영상의 소리 길이가 영상과 아주 조금 다르던 것을 고쳤습니다. 끝이 아주 살짝 잘리거나 빈 소리가 짧게 붙을 때가 있었는데, 이제 소리와 영상 길이가 정확히 같습니다.\n• 뒤쪽 하이라이트를 고른 채 하이라이트를 지우거나 다시 하기로 목록이 줄어들 때, 위쪽 클립 줄이 이미 사라진 항목을 잠깐 읽던 문제를 고쳤습니다. 드물게 앱이 꺼질 수 있는 문제였습니다.\n• 창을 낮게 줄이면 요소 줄과 소리 줄이 도구 줄을 밀어내던 것을 고쳤습니다.",
+ "version": "0.2.84",
+ "date": "2026.11.07",
+ "notes": "",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=880671",
- "exe_size": 39051728,
- "exe_sha256": "08f6dc6ae6a8d01f0bed3200598367339d47e64e6bc3b74200a7b51f53c6c9ba",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=883208",
+ "exe_size": 39701960,
+ "exe_sha256": "893f5e0ca09340f60c7db6bd1cf2c5a689e441e4bf6253d1522b9055bb0dcefb",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.69/BEAN-PICK-WIN-v0.2.69.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.84/BEAN-PICK-WIN-v0.2.84.exe"
  ],
- "notes_url": "https://beanent.com/bean_pick_news/880594",
  "mirror_of": "procBappsCheck"
 }
