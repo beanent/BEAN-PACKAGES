@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.3",
+ "version": "0.1.4",
  "date": "2026.11.08",
- "notes": "새로 생긴 것\n• 창을 닫아도 음악이 계속 나와요. 빈플레이어는 상단 메뉴의 아이콘으로 남고, 아이콘을 누르면 지금 곡 · 재생/일시정지 · 이전 곡 · 다음 곡 · 창 열기 · 미니 플레이어 · 끝내기가 나와요. 설정 › 일반에서 켜고 끌 수 있어요.\n• 미니 플레이어 왼쪽 아래 단추를 누르면 미니 플레이어 아래로 지금 재생 목록이 펼쳐져요. 줄을 두 번 누르면 그 곡으로 가고, 펼친 높이를 기억해요.\n• 창 맨 위 제목 줄(신호등 단추 줄)의 빈 곳을 두 번 누르면 시스템 설정대로 창이 화면 가득 커지거나 원래 크기로 돌아와요.\n\n바뀐 것\n• 미니 플레이어 오른쪽 아래 단추는 원래 플레이어로 돌아가요. 마우스를 올리면 '원래 플레이어로' 라고 나와요.\n\n고친 것\n• 전체 화면으로 둔 스펙트럼 애널라이저 · EQ 창을 닫으면 까만 화면만 남던 것을 고쳤어요. 닫으면 전체 화면에서 먼저 빠져나와요.\n• 스펙트럼 애널라이저 · EQ · 본창을 전체 화면으로 하면 맨 위에 얇은 줄이 보이던 것을 고쳤어요.\n• 미니 플레이어의 표지와 제목 둘레에 회색 상자가 보이던 것을 고쳤어요.",
+ "notes": "새로 생긴 것\n• 영상을 보는 화면에서 엔터(Return)를 누르면 전체 화면으로 바뀌고, 다시 누르거나 Esc 를 누르면 돌아와요.\n• 영상을 재생하면서 보관함을 펼치면 오른쪽 앨범 그림 자리에 지금 영상이 작게 계속 나와요. 그 작은 화면이나 앱 머리 줄의 '재생 화면으로'(단축키 V)를 누르면 끊김 없이 영상 화면으로 돌아와요.\n\n바뀐 것\n• 목록 차림과 설정의 폴더 단추 이름을 '파인더에서 보기' 로 바꿨어요.\n\n고친 것\n• 스펙트럼 애널라이저가 맥이 바쁠 때 끊겨 보이던 것을 고쳤어요. 큰 화면 · 전체 화면에서도 초당 60장으로 부드럽게 움직여요.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885178",
- "pkg_size": 19950274,
- "pkg_sha256": "e9724247ec85dd9f9049d42d9536e87c568a21cb2deb3f16711088bfefe5673c",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885541",
+ "pkg_size": 19972965,
+ "pkg_sha256": "ff16df39b623388557ced9104b53153b746f5b71a116a3c53b7191247808f4da",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.3/BEAN-PLAYER-MAC-v0.1.3.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.4/BEAN-PLAYER-MAC-v0.1.4.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
