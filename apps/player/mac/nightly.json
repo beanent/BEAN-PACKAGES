@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.6",
- "date": "2026.11.08",
- "notes": "고친 것\n• 미니 플레이어에서 재생 목록을 펼쳤다가 접으면 창 크기가 맞지 않고 화면이 세로로 늘어나 보이던 것을 고쳤어요. 접으면 처음 크기와 자리로 정확히 돌아와요.",
+ "version": "0.1.10",
+ "date": "2026.11.09",
+ "notes": "새로 생긴 것\n• 곡을 오른쪽 클릭하면 이름 바꾸기 · 정보 · 삭제가 나와요. 이름 바꾸기는 줄 안에서 바로 고치고(F2), 확장자와 같은 이름의 가사 · cue · 그림 파일은 함께 따라가요. 보관함 · 재생 목록 · 재생 중인 곡도 새 이름을 그대로 이어 가요.\n• 정보 창(⌘I)에서 제목 · 아티스트 · 앨범 · 장르 · 연도 · 트랙 번호 같은 태그를 고칠 수 있어요. 여러 곡을 한 번에 고칠 수 있고, 파일 이름에서 태그를 채우거나 태그로 파일 이름을 정할 수도 있어요. 형식 · 샘플레이트 · 비트레이트 · 크기 같은 파일 정보도 함께 보여요.\n• 삭제를 고르면 목록만 정리할지, 파일도 휴지통으로 보낼지 고를 수 있어요. 앨범 · 아티스트 · 폴더 줄에서도 묶음째 정리할 수 있고, 휴지통으로 보낸 파일은 휴지통에서 되돌릴 수 있어요.\n• ⌘ · ⇧ 를 누른 채 눌러 여러 곡이나 여러 묶음을 한 번에 고를 수 있어요. Delete 키로 바로 삭제 창을 열 수 있어요.\n\n바뀐 것\n• 왼쪽 재생 목록의 차림 이름이 '재생 목록 지우기' 로 바뀌었어요. 재생 목록만 지우고 곡 파일은 그대로예요.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885640",
- "pkg_size": 20049516,
- "pkg_sha256": "4cada7bd1c9ca384fbf698d519a7bdc2d3e7ec1d022c482b68a072440207be59",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885923",
+ "pkg_size": 20624204,
+ "pkg_sha256": "222e16741a414af80d4fab1a1e59ed60dfc908e70683ba7c6070b651c3242908",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.6/BEAN-PLAYER-MAC-v0.1.6.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.10/BEAN-PLAYER-MAC-v0.1.10.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
