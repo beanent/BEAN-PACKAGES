@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.119",
- "date": "2026.11.06",
- "notes": "고친 것\n• 오류 보고가 같은 꺼짐 기록을 두 번 보내지 않습니다. 예전 판에서 남은 기록이 앱을 올릴 때마다 다시 보내지던 것을 고쳤습니다.\n• 꺼짐 보고에 꺼질 때 쓰던 앱 판이 바르게 적힙니다.",
+ "version": "0.1.121",
+ "date": "2026.11.08",
+ "notes": "고친 것\n• 로그인에 실패하면 그 까닭(비밀번호가 맞지 않음 등)이 창에 그대로 보입니다. 예전엔 곧바로 다른 상태 글로 덮여 보이지 않았습니다.\n• 오류 보고 창을 어떤 방법으로 닫아도, 다음에 켤 때 같은 기록이 다시 뜨지 않습니다.\n• 여러 곳에서 한꺼번에 꺼질 때도 꺼짐 보고에 꺼진 자리가 빠짐없이 적힙니다.\n• 받은 업데이트 파일을 확인하지 못했을 때 [업데이트 확인]을 다시 눌러 새로 받을 수 있습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882372",
- "pkg_size": 143857786,
- "pkg_sha256": "9a758eac77e40b9279d40432ec2cdf17c52b1dd9c0e0b419a8585cc12b51604a",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=884827",
+ "pkg_size": 144077330,
+ "pkg_sha256": "3990773a96980a6707a6937435f08676c67a835d7b93e2fe5a6fa7f13ff9f849",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.119/BEAN-CAM-MAC-v0.1.119.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.121/BEAN-CAM-MAC-v0.1.121.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
