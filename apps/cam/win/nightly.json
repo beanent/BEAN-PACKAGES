@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.120",
+ "version": "0.1.121",
  "date": "2026.11.08",
- "notes": "새로 생긴 것\n• 빈라이브와 가상 카메라 하나를 같이 씁니다. 두 앱 가운데 한 곳에서 설치하면 다른 앱은 그대로 씁니다.\n\n바뀐 것\n• 피부 보정이 얼굴 가장자리까지 고르게 이어집니다. 귀 앞 · 관자놀이 · 턱선 · 이마 끝도 볼과 같은 결로 다듬어 경계가 보이지 않습니다.\n• 눈 맑게 · 치아 하얗게가 메이크업과 함께 걸려, 눈과 입 둘레에만 자연스럽게 들어갑니다.\n• 입술 둘레를 찾는 셈이 빨라져 보정을 모두 켰을 때도 화면이 더 가볍게 돕니다.\n• 보정을 켠 동안 앱이 컴퓨터 메모리를 덜 씁니다.\n\n고친 것\n• 멈춤을 누르면 바로 멈추게 했습니다. 켠 직후에 누르면 오래 걸리던 것을 고쳤습니다.\n• 켠 직후 잠깐 화면이 멈칫하던 것을 고쳤습니다. 손 가림을 찾는 준비를 화면을 그리는 일과 따로 합니다.",
+ "notes": "고친 것\n• 로그인에 실패하면 그 까닭(비밀번호가 맞지 않음 등)이 창에 그대로 보입니다. 예전엔 곧바로 다른 상태 글로 덮여 보이지 않았습니다.\n• 오류 보고 창을 어떤 방법으로 닫아도, 다음에 켤 때 같은 기록이 다시 뜨지 않습니다.\n• 여러 곳에서 한꺼번에 꺼질 때도 꺼짐 보고에 꺼진 자리가 빠짐없이 적힙니다.\n• 받은 업데이트 파일을 확인하지 못했을 때 [업데이트 확인]을 다시 눌러 새로 받을 수 있습니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=884825",
- "exe_size": 139797072,
- "exe_sha256": "6919aa0080cff134089bbcf43f8dc47f372a31f77332eb03473da5bbe1f88fdc",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=884891",
+ "exe_size": 139823968,
+ "exe_sha256": "f98fd5f53bf0df00bef8fee8a825efbe7a1ec439a5cbca37eba8326e2762e167",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.120/BEAN-CAM-WIN-v0.1.120.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.121/BEAN-CAM-WIN-v0.1.121.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
