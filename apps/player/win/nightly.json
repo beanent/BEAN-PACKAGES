@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.5",
+ "version": "0.1.6",
  "date": "2026.11.08",
- "notes": "새로 생긴 것\n• 창을 닫아도 음악이 계속 나와요. 빈플레이어는 시스템 트레이의 아이콘으로 남아요. 아이콘을 누르면 창이 열리고, 오른쪽 단추로 누르면 지금 곡 · 재생/일시정지 · 이전 곡 · 다음 곡 · 창 열기 · 미니 플레이어 · 끝내기가 나와요. 설정 › 일반에서 켜고 끌 수 있어요.\n• 키보드의 재생 · 다음 곡 · 이전 곡 키와 윈도우 볼륨 창 · 잠금 화면의 미디어 단추로 빈플레이어를 움직일 수 있어요. 창을 닫아 트레이에 있을 때도 돼요. 지금 곡 제목 · 아티스트 · 앨범 아트도 함께 보여요.\n• 미니 플레이어 왼쪽 아래 단추를 누르면 미니 플레이어 아래로 지금 재생 목록이 펼쳐져요. 줄을 두 번 누르면 그 곡으로 가고, 펼친 높이를 기억해요.\n• 창 맨 위 머리 줄의 빈 곳을 두 번 누르면 창이 화면 가득 커지거나 원래 크기로 돌아와요.\n\n바뀐 것\n• 미니 플레이어 오른쪽 아래 단추는 원래 플레이어로 돌아가요. 마우스를 올리면 '원래 플레이어로' 라고 나와요.\n\n고친 것\n• 영상 · EQ · 스펙트럼 애널라이저를 전체 화면으로 하면 화면 전체를 덮어요. 맨 위 창 단추 줄과 작업 표시줄이 남던 것을 고쳤어요.\n• 전체 화면으로 둔 스펙트럼 애널라이저 · EQ 창을 닫으면 전체 화면에서 먼저 빠져나와요.\n• 미니 플레이어의 표지와 제목 둘레에 회색 상자가 보이던 것을 고쳤어요.",
+ "notes": "새로 생긴 것\n• 영상을 보는 화면에서 엔터를 누르면 전체 화면으로 바뀌고, 다시 누르거나 Esc 를 누르면 돌아와요.\n• 영상을 재생하면서 보관함을 펼치면 오른쪽 앨범 그림 자리에 지금 영상이 작게 계속 나와요. 그 작은 화면이나 앱 머리 줄의 '재생 화면으로'(단축키 V)를 누르면 끊김 없이 영상 화면으로 돌아와요.\n\n바뀐 것\n• 스펙트럼 애널라이저가 더 매끄럽게 움직여요.\n• 목록 차림과 설정의 폴더 단추 이름을 '파일 탐색기에서 보기' 로 바꿨어요.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885270",
- "exe_size": 17518048,
- "exe_sha256": "3f55dc0c6c00f66c6ef369a81729f177bd7eb5368ead0342f6f07e1b72987391",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885593",
+ "exe_size": 17527968,
+ "exe_sha256": "2602926390ca7f2a278e2bdf79266b79ef2912551fce47085f9296ade3e1695d",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.5/BEAN-PLAYER-WIN-v0.1.5.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.6/BEAN-PLAYER-WIN-v0.1.6.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
