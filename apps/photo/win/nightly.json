@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.1",
+ "version": "0.1.2",
  "date": "2026.11.08",
- "notes": "고친 것\n• 리퀴파이로 밀 때 붓 둘레가 튀거나 그림이 접히던 것을 고쳤습니다. 여러 번 문질러도 매끈하게 이어집니다.\n• 사람만 움직일 때 비운 배경에 가로 줄무늬가 생기던 것을 고쳤습니다. 둘레 결에 맞게 메웁니다.\n• 스팟 힐링 · 패치가 둘레 결과 밝기에 더 맞게 메웁니다. 넓은 자리를 고칠 때 경계가 드러나던 것을 고쳤습니다.\n• 자르기 탭 미리보기에 수평 · 90도 돌림 · 뒤집기가 바로 보이도록 고쳤습니다. 원형 자르기와 캔버스 넓히기도 상자 위에 그림으로 보입니다.\n• 수평 자동 맞춤이 더 정확해졌습니다.\n• 탭을 바꾸면 목록이 맨 위부터 보이고, 아래 막대도 곧바로 바뀝니다.",
+ "notes": "새로 생긴 것\n• 앱 머리 줄의 빈 곳을 두 번 누르면 창이 화면 가득 커지고, 다시 두 번 누르면 원래 크기로 돌아옵니다. 빈 곳을 끌면 창을 옮길 수 있습니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885423",
- "exe_size": 49082312,
- "exe_sha256": "80d767b61ee596b1991af8b926f09a653a376a7ca2a632e8842a195d89c06056",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885536",
+ "exe_size": 49085256,
+ "exe_sha256": "299caa35cd43d4a993e23094ef0f08e97dad1c6d5d30ff197c17cf3361b6b1e4",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.1/BEAN-PHOTO-WIN-v0.1.1.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.2/BEAN-PHOTO-WIN-v0.1.2.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
