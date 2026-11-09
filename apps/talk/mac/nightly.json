@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.180",
- "date": "2026.11.06",
- "notes": "고친 것\n• 오류 보고가 같은 꺼짐 기록을 두 번 보내지 않습니다. 예전 판에서 남은 기록이 앱을 올릴 때마다 다시 보내지던 것을 고쳤습니다.\n• 꺼짐 보고에 꺼질 때 쓰던 앱 판이 바르게 적힙니다.",
+ "version": "0.1.181",
+ "date": "2026.11.09",
+ "notes": "0.1.181 (2026-11-09) · 맥\n\n바뀐 것\n• 통화를 시작하거나 마이크 · 스피커 · 버퍼를 바꿀 때 화면이 잠깐 굳던 것이 없어졌습니다. 소리 장치는 뒤에서 열고 닫습니다.\n• 통화 소리가 앱 화면 일과 따로 오갑니다. 창을 옮기거나 설정을 바꾸는 순간에도 통화 소리가 끊기지 않습니다.\n• 영상 통화에서 새 그림이 온 칸만 다시 그려 CPU 를 덜 씁니다. 큰 화면 공유를 받을 때 더 매끄럽습니다.\n• 통화 오버레이를 끌 때와 통화 중 대화를 굴릴 때 더 매끄럽습니다.\n• 글이 오가는 방에서 참여자 명단을 필요할 때만 다시 그려 화면이 가벼워졌습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=882385",
- "pkg_size": 27474066,
- "pkg_sha256": "923b2ac46cc4372e3cb889fa2c89600b6c899f986983f36f41d6400ed7d63dcd",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=916017",
+ "pkg_size": 27528662,
+ "pkg_sha256": "fed017d6b9c3f6f2becd51737af0295aa49b462f00b91f48c81904ace9aa58bf",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.180/BEAN-TALK-MAC-v0.1.180.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.181/BEAN-TALK-MAC-v0.1.181.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
