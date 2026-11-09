@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "live",
- "version": "0.1.7",
- "date": "2026.11.09",
- "notes": "바뀐 것\n• 알림 영역 아이콘을 왼쪽 클릭하면 창이 바로 열리고, 오른쪽 클릭하면 방송 시작 · 녹화 시작 · 리플레이 저장 · 열기 · 앱 종료 차림표가 떠요. 아이콘은 다른 BEAN 앱과 같은 꼴이에요.\n• 설정 › 일반의 '트레이 · 메뉴 막대 아이콘' 을 바꾸면 바로 적용돼요.\n\n고친 것\n• 카메라 얼굴 보정에서 고개를 돌릴 때 귀 둘레가 흔들리며 일그러지던 것을 고쳤어요.\n• 카메라 얼굴 보정이 얼굴 테두리 피부까지 고르게 매끈해지고, 옆에서 빛이 들 때 볼도 매끈해져요.",
+ "version": "0.1.10",
+ "date": "2026.11.10",
+ "notes": "바뀐 것\n• 소리 믹서의 미터 · 페이더를 빈뮤즈와 같은 모양으로 바꿨어요. 미터는 칸으로 된 막대와 피크 줄로 보이고, 페이더는 빈뮤즈 손잡이로 0 dB 위 +12 dB 까지 올릴 수 있어요. 볼륨 값은 줄 오른쪽 값 글로 봐요.\n• 미터를 누르면 피크 줄이 처음부터 다시 재요.\n• 설정 단추 아이콘이 톱니바퀴로 바뀌었어요.\n\n고친 것\n• 카메라 얼굴 보정에서 고개를 돌렸을 때 좁은 쪽 볼과 인중 옆도 매끈해져요. 인중 옆은 얼굴 가운데와 거의 같은 만큼 매끈해져요.\n• 이중턱 보정이 턱 가운데만이 아니라 턱선 전체 아래에 고르게 걸려 얼굴이 찌그러져 보이지 않아요.\n• 입술 메이크업 색이 일곱 가지 더 있어요.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=930384",
- "exe_size": 147445936,
- "exe_sha256": "8c17172d2bd4e6a33ded02f9ca1ebfa3cde1859862c114f2753b1b313df9f767",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=930695",
+ "exe_size": 147387496,
+ "exe_sha256": "ee3dafdded782d63ffb2b3991817b3712d81306c22fcd0f0fa0331ddda5afe52",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.7/BEAN-LIVE-WIN-v0.1.7.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.10/BEAN-LIVE-WIN-v0.1.10.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
