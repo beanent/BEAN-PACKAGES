@@ -1,16 +1,15 @@
 {
  "error": 0,
  "app": "pick",
- "version": "0.2.88",
- "date": "2026.11.09",
- "notes": "고친 것\n• 확대해서 재생할 때 타임라인 클립 줄의 재생선만 눈금자 · 자막 줄 · 소리 줄의 재생선보다 조금 뒤처져 보이던 것을 고쳤습니다. 이제 모든 줄의 재생선이 같은 자리에서 함께 움직입니다.",
+ "version": "0.2.90",
+ "date": "2026.11.10",
+ "notes": "바뀐 것\n• 클라우드에서 영상 · 음원 · 프로젝트를 내려받는 동안 나오는 안내 글을 다듬었습니다.\n• 얼굴 보정에서 고개를 돌린 얼굴의 좁은 쪽 볼과 인중 옆도 매끈하게 다듬습니다. 이중턱 줄이기는 턱 가운데만이 아니라 턱선 전체에 걸립니다.\n\n고친 것\n• 얼굴 보정을 켠 영상에서 귀 둘레가 흔들리거나 일그러져 보이던 것을 고쳤습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=930513",
- "pkg_size": 39631175,
- "pkg_sha256": "07bf34fae3e3b8f0e772bc94f0baee82859e753aaf098e98e697c1413856ba1e",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=930723",
+ "pkg_size": 39640661,
+ "pkg_sha256": "1fcf3f038e3be686b49a1bbde77c19703c9b753b8cbd47941cde87c19185ee29",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.88/BEAN-PICK-MAC-v0.2.88.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.90/BEAN-PICK-MAC-v0.2.90.pkg"
  ],
- "notes_url": "https://beanent.com/bean_pick_news/930514",
  "mirror_of": "procBappsCheck"
 }
