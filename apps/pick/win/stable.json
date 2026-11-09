@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "pick",
- "version": "0.2.84",
- "date": "2026.11.07",
- "notes": "",
+ "version": "0.2.85",
+ "date": "2026.11.09",
+ "notes": "바뀐 것\n• 영상 미리보기 전체 화면이 빈플레이어와 같은 모습이 됐어요. 화면 아래 조작 띠(진행 줄 · 5초 뒤로 · 재생 · 정지 · 5초 앞으로 · 볼륨 · 제목)와 오른쪽 위 [전체 화면 끄기] 단추가 있고, 마우스를 3초 동안 움직이지 않으면 조작 띠가 숨었다가 움직이면 바로 다시 나와요.\n• 전체 화면이 작업 표시줄까지 모니터 전체를 덮어요. 끄면 들어가기 전 창 크기와 자리로 돌아와요.\n• 전체 화면에서 Space(재생/일시정지) · ←/→(5초, Shift 와 함께 30초) · ↑/↓(볼륨) · M(음소거) · F 또는 Enter(전체 화면 켜고 끄기) · Esc(끄기)를 쓸 수 있어요.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=883208",
- "exe_size": 39701960,
- "exe_sha256": "893f5e0ca09340f60c7db6bd1cf2c5a689e441e4bf6253d1522b9055bb0dcefb",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885899",
+ "exe_size": 39769672,
+ "exe_sha256": "8b5c0fc5db350b5accfccaa7133286e5e7e5503eb7f6f09bae313506d119fe44",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.84/BEAN-PICK-WIN-v0.2.84.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.85/BEAN-PICK-WIN-v0.2.85.exe"
  ],
  "mirror_of": "procBappsCheck"
 }

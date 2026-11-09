@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.7",
- "date": "2026.11.08",
- "notes": "새로 생긴 것\n• 보관함 · 재생 목록에서 옮겨졌거나 없어진 파일은 '찾을 수 없음' 으로 흐리게 보여요. 그 줄에서 '다시 찾기' 를 눌러 새 자리를 고르면 보관함 · 재생 목록 · 지금 재생 목록이 모두 새 자리를 따라가요. 더 쓰지 않는 줄은 그 자리에서 바로 목록을 정리할 수 있어요.\n\n바뀐 것\n• 오류 알림을 알아보기 쉬운 말로 바꿨어요. 예를 들어 없는 파일을 틀면 '파일을 찾을 수 없습니다: 파일 이름' 이라고 나와요.\n• 스펙트럼 애널라이저를 큰 화면 · 전체 화면으로 띄웠을 때 더 매끄럽게 움직여요.\n\n고친 것\n• 미니 플레이어에서 재생 목록을 펼쳤다 접으면 창 크기가 맞지 않고 그림이 세로로 늘어나던 것을 고쳤어요.\n• 출력 장치와 샘플레이트가 다른 곡을 틀 때 '출력 장치가 바뀌었거나 빠졌어요' 알림이 잘못 뜨던 것을 고쳤어요. 이제 장치가 실제로 빠졌을 때만 알려요.\n• 장치가 48 kHz 로 돌 때 44.1 kHz 곡이 조금 빠르고 높게 들리던 것을 고쳤어요. 재생 중에 윈도우 소리 설정에서 장치의 기본 형식을 바꿔도 새 샘플레이트에 맞춰 원래 음높이 그대로 들려요.",
+ "version": "0.1.9",
+ "date": "2026.11.09",
+ "notes": "고친 것\n• 영상 전체 화면에서 아래 조작 띠 위로 마우스를 움직이는 동안에도 3초 뒤 띠가 사라지던 것을 고쳤어요. 띠 위에서 움직이면 계속 보여요.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885642",
- "exe_size": 17578312,
- "exe_sha256": "d579906c82565ebf974b0d4cb389e4f0b40ff3833f5e79d0161e1b2d3e8cc62f",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885913",
+ "exe_size": 17619928,
+ "exe_sha256": "f199d7eeabe0d531a32ef846389dcae236df3f60fca8866a5bc3f63d3b4d9f3e",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.7/BEAN-PLAYER-WIN-v0.1.7.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.9/BEAN-PLAYER-WIN-v0.1.9.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
