@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.48",
+ "version": "1.0.49",
  "date": "2026.11.09",
- "notes": "바뀐 것\n• 안정성을 높였습니다.",
+ "notes": "바뀐 것\n• 빈뮤즈 확장 패키지는 빈뮤즈 판과 상관없이 받을 수 있습니다. 새 빈뮤즈가 있어야 하는 기능은 목록에 '일부 기능은 앱을 업데이트하면 쓸 수 있습니다'로 알려 드립니다.\n• 앱이나 확장 패키지를 받는 동안 화면이 더 부드럽게 움직입니다.\n• 다른 창에서 빈스테이션으로 돌아올 때 멈칫하지 않습니다.\n\n고친 것\n• 앱에 딸린 드라이버가 새 앱을 요구할 때 앱 설치까지 멈추던 것을 고쳤습니다. 앱은 설치되고, 드라이버 줄에 업데이트 안내가 보입니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=885915",
- "pkg_size": 13410136,
- "pkg_sha256": "98a4d953997720eaeaa9c716353cd8df345e13ed96bd32b6a2564d5c32fa885c",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=930265",
+ "pkg_size": 13434598,
+ "pkg_sha256": "21fdeda8db842cb6979718009cb3520e3f23e304323d8e1321b9525b6df3fabf",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.48/BEAN-STATION-MAC-v1.0.48.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.49/BEAN-STATION-MAC-v1.0.49.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
