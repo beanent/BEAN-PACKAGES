@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "live",
- "version": "0.1.3",
- "date": "2026.11.08",
- "notes": "새로 생긴 것\n• 스팅어 전환에서 영상에 든 소리가 전환 첫 장에 맞춰 방송 · 녹화 소리에 함께 나갑니다. 장면 전환 › 스팅어 › 소리에서 '전환 시점에 맞춰 섞기' 와 '스팅어 소리 없음' 중에 고릅니다.\n\n바뀐 것\n• 카메라를 처음 켤 때 손 인식 모델을 따로 준비해, 처음 몇 초 동안에도 화면이 끊기지 않고 [멈춤] 이 바로 듣습니다.\n• 카메라 얼굴 보정의 얼굴 가장자리 부분이 장마다 덜 깜빡입니다.",
+ "version": "0.1.4",
+ "date": "2026.11.09",
+ "notes": "바뀐 것\n• 녹화를 멈출 때 'MKV 끝나면 MP4 로 바꾸기' 를 기다리지 않습니다. 바꾸기는 뒤에서 하고, 그동안 상태 줄에 진행이 보이며 끝나면 창 안에 알림이 뜹니다. 큰 녹화 파일도 화면이 멈추지 않습니다.\n• 리플레이 저장을 눌러도 화면 · 방송 · 녹화가 멈추지 않습니다. 저장은 뒤에서 하고 그동안에도 리플레이 버퍼는 계속 담으며, 상태 줄에 진행이 보이고 끝나면 알림이 뜹니다.\n• 송출 합계에 플러그인을 건 채 방송 · 녹화할 때 소리 처리가 훨씬 가벼워져 소리가 끊길 일이 줄었습니다.\n• 소리 창 미터 · 카메라 보정 창 · 화면 칸 · 소스 칸이 더 가볍게 그려집니다.\n\n고친 것\n• 카메라 얼굴 보정이 콧볼 · 콧구멍 둘레 · 입꼬리 · 팔자의 자연스러운 그늘을 잡티로 지워 탁한 얼룩이 남던 것을 고쳤습니다.\n• 녹화를 멈춘 뒤 알림에 파일 이름이 비어 나오던 것을 고쳤습니다.\n• 영어 화면에서 보정 창의 얼굴 수가 두 명 이상이어도 단수로 나오던 것을 고쳤습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=884224",
- "pkg_size": 151110459,
- "pkg_sha256": "002dbe2dbcad61b852720978c7ee2b02a6fec25ffc87c575a596f04752d82a5e",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=919047",
+ "pkg_size": 151244790,
+ "pkg_sha256": "d6773e6fb95b658ad87eafceb5256f0f355db7b4845e97e5058505985b95ab31",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.3/BEAN-LIVE-MAC-v0.1.3.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.4/BEAN-LIVE-MAC-v0.1.4.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
