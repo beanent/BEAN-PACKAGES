@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "live",
- "version": "0.1.8",
- "date": "2026.11.09",
- "notes": "바뀐 것\n• 소리 믹서의 미터 · 페이더를 빈뮤즈와 같은 모양으로 바꿨습니다. 미터는 칸으로 된 막대와 피크 줄로 보이고, 페이더는 빈뮤즈 손잡이로 0 dB 위 +12 dB 까지 올릴 수 있습니다. 볼륨 값은 줄 오른쪽 값 글로 봅니다.\n• 미터를 누르면 피크 줄이 처음부터 다시 잽니다.\n\n고친 것\n• 카메라 얼굴 보정에서 고개를 돌렸을 때 좁은 쪽 볼과 인중 옆도 매끈해집니다.\n• 이중턱 보정이 턱 가운데만이 아니라 턱선 전체 아래에 고르게 걸려 얼굴이 찌그러져 보이지 않습니다.\n• 입술 메이크업 색이 일곱 가지 더 있습니다.",
+ "version": "0.1.9",
+ "date": "2026.11.10",
+ "notes": "바뀐 것\n• 앱 머리 줄의 [설정] 단추가 톱니바퀴 아이콘으로 보입니다.\n\n고친 것\n• 카메라 얼굴 보정에서 인중 옆도 가운데처럼 매끈해집니다.\n• 가상 카메라가 다른 판의 앱과 함께 쓰여도 설정을 받아 화면을 계속 내보냅니다.\n• 라이선스 안내 글을 다듬었습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=930589",
- "pkg_size": 151287034,
- "pkg_sha256": "d042811399ffaae947164fafceb5bde1d918fd900b2f0ed925d04cf279a7fe2a",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=930708",
+ "pkg_size": 151295407,
+ "pkg_sha256": "fab7b8032ef48fd3afac81141426d4c63fb393cc451bf058ac1155d47c792f91",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.8/BEAN-LIVE-MAC-v0.1.8.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.9/BEAN-LIVE-MAC-v0.1.9.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
