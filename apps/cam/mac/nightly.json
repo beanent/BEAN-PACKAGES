@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.126",
+ "version": "0.1.128",
  "date": "2026.11.10",
- "notes": "바뀐 것\n• 4K 카메라에서 피부 매끈을 켜도 화면이 끊기지 않고 고르게 이어집니다. 얼굴을 찾는 일이 잠깐 늦어지는 순간에도 장이 밀리거나 빠지지 않아, 4K 30장 · 60장 모두 넉넉하게 따라옵니다.\n• 고개를 돌린 얼굴에서 좁은 쪽 볼과 인중 옆까지 피부 매끈이 가운데처럼 고르게 걸립니다.\n• 얼굴 테두리와 귀 둘레의 피부 보정이 흔들리지 않고 매끈하게 이어집니다.\n• 메뉴 막대 아이콘이 빈캠 마크로 또렷하게 보입니다.\n\n고친 것\n• 앱과 가상 카메라의 판이 서로 달라도 가상 카메라 설정이 그대로 적용됩니다.",
+ "notes": "새로 생긴 것\n• 입술 색을 로즈 핑크 · 체리 · 말린 장미 · 푸시아 · 모브 · 테라코타 · 와인까지 열다섯 가지에서 고를 수 있고, 색 이름이 모든 화면 언어로 보입니다.\n\n바뀐 것\n• 얼굴을 빠르게 움직이다 멈춰도 보정이 얼굴을 지나치지 않고 그 자리에 바로 머뭅니다.\n• 카메라를 열지 못하거나 가상 카메라를 설치하지 못하면 까닭과 할 일을 알기 쉬운 말로 알려 줍니다.\n• 앱 아이콘이 다른 BEAN 앱과 같은 크기와 모양으로 Dock 에 보입니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=930711",
- "pkg_size": 144287627,
- "pkg_sha256": "dc92f3569aa8d2f14ada5d6d1956ae0017a152f70246d1e88a7f4043721ba4b3",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=936065",
+ "pkg_size": 144346665,
+ "pkg_sha256": "a6ad34be0679e2befb747585556e352eeddc7ca068e6d58f23b6726ac93f317d",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.126/BEAN-CAM-MAC-v0.1.126.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.128/BEAN-CAM-MAC-v0.1.128.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
