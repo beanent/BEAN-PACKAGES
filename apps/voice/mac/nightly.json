@@ -1,16 +1,15 @@
 {
  "error": 0,
  "app": "voice",
- "version": "0.4.121",
- "date": "2026.11.09",
- "notes": "고친 것\n• 앱 안에서 받은 업데이트 설치 파일은 BEAN 에서 만든 것인지 확인한 뒤에만 엽니다. 확인하지 못하면 열지 않고 쉬운 말로 알려 드립니다.\n• 커뮤니티 · 정보 탭과 손가락 조작 부품을 다른 BEAN 앱과 같은 최신 모습으로 맞췄습니다.",
+ "version": "0.4.124",
+ "date": "2026.11.10",
+ "notes": "고친 것\n• 맥 Dock 에서 앱 아이콘이 다른 BEAN 앱과 같은 크기로 보입니다.\n• 클라우드에만 있는 파일을 열 때 나오는 내려받는 중 · 오래 걸림 안내를 알기 쉬운 말로 다듬고, 모든 화면 언어로 나오게 했습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=928835",
- "pkg_size": 16059003,
- "pkg_sha256": "3e0723bddfe3dd78254669f538e1be194cecee9da4fb26dd8ca8d150985c4a4f",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=936058",
+ "pkg_size": 16103388,
+ "pkg_sha256": "c7bb74c965759c8edae61d1d6a5003ce30b9d7940bbc7a36b67d40236766d0c1",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.121/BEAN-VOICE-MAC-v0.4.121.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.124/BEAN-VOICE-MAC-v0.4.124.pkg"
  ],
- "notes_url": "https://beanent.com/bean_voice_news/928836",
  "mirror_of": "procBappsCheck"
 }
