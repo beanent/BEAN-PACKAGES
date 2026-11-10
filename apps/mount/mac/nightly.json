@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "mount",
- "version": "0.1.53",
- "date": "2026.11.06",
- "notes": "고친 것\n• 앱 폰트를 Joy's Scramble 로 고르면 숫자 · 시각 · 값 칸까지 모두 그 글꼴로 나옵니다. 숫자는 폭이 같아 값이 바뀌어도 글이 흔들리지 않습니다.",
+ "version": "0.1.55",
+ "date": "2026.11.10",
+ "notes": "바뀐 것\n• 창 위 제목 줄을 두 번 누르면 창이 화면 가득 커지고, 다시 두 번 누르면 원래 크기로 돌아옵니다.\n\n고친 것\n• 연결 · 연결 끊기 · 연결 확인 · 자동 실행이 되지 않을 때, 영어 오류 글 대신 알아보기 쉬운 말로 까닭과 할 일을 알려 줍니다.\n• 응답 없는 드라이브에 연결을 여러 번 눌러도 앱이 무거워지지 않습니다.\n• 외장 디스크 안에 마운트 위치를 고른 드라이브를 끊으면 빈 폴더가 남던 것을 고쳤습니다.\n• 업데이트를 받는 동안과 버그 제보를 보낼 때 창이 더 부드럽게 움직입니다.\n• 영어 화면의 표기 몇 곳을 맞췄습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=881395",
- "pkg_size": 10698866,
- "pkg_sha256": "c13d50a9867094120626f5110f0063149d337f6d76222563d9524f5f7da12190",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=936071",
+ "pkg_size": 10711670,
+ "pkg_sha256": "409ace7c6743a3d848aba60115d2c4cca10113f16e7c856c87384dd496db6e85",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/mount-v0.1.53/BEAN-MOUNT-MAC-v0.1.53.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/mount-v0.1.55/BEAN-MOUNT-MAC-v0.1.55.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
