@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "live",
- "version": "0.1.15",
- "date": "2026.11.10",
- "notes": "바뀐 것\n• 설정 › 정보 탭이 다른 BEAN 앱과 같은 모양이 됐습니다. 판 번호 · 업데이트 확인 · 함께 쓴 구성 요소 · 회사 정보가 같은 자리에 같은 꼴로 나옵니다.\n• 업데이트 확인 단추가 설정 › 정보 탭에 있습니다. 결과는 단추 옆에 바로 나옵니다.\n• 정보 탭 아래 [설명서] 단추로 설명서를 바로 열 수 있습니다.\n• 정보 탭 아래 [라이선스 전문] 단추를 누르면 오픈 소스 고지 전문을 새 창 없이 그 자리에서 읽을 수 있습니다. [닫기] 나 Esc 로 돌아갑니다.\n• 오픈 소스 고지에 얼굴 보정 · AI 모델 구성 요소 고지를 더했습니다.",
+ "version": "0.1.17",
+ "date": "2026.11.11",
+ "notes": "바뀐 것\n• 설정 › 정보 탭의 카드 제목 · 차례 · 글 · 색을 빈플레이어 · 빈다운로더와 똑같이 맞췄습니다. 라이트 테마에서도 카드가 바탕과 또렷이 구분됩니다.\n• 정보 탭 [업데이트 확인] 이 빈플레이어와 같은 길로 바뀌었습니다. 새 판을 앱 안에서 받아 크기 · SHA-256 · 서명 · 공증을 확인한 뒤 설치합니다. 옆 '최신 개발(Nightly)' 칸을 켜면 최신 개발 판을, 끄면 안정화 판을 확인합니다.\n• [라이선스 전문] 에 쓰는 구성 요소마다 라이선스 원문 전체를 담았습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=937219",
- "pkg_size": 151386129,
- "pkg_sha256": "ffc9329f11b5fffdbff483980fd8ddb85639b7342685a6d2014a67c27af2a6d0",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=937350",
+ "pkg_size": 151462497,
+ "pkg_sha256": "a9eb0b9ba07814179581d707431588071441077fa1893186152a037b655b1b6a",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.15/BEAN-LIVE-MAC-v0.1.15.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.17/BEAN-LIVE-MAC-v0.1.17.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
