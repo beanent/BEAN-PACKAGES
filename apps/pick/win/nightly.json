@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "pick",
- "version": "0.2.91",
+ "version": "0.2.98",
  "date": "2026.11.10",
- "notes": "바뀐 것\n• 설정 › 영상 인코더 목록이 만든 회사가 아니라 이 컴퓨터의 어느 그래픽에서 도는지로 이름을 보여 줍니다. 외장 그래픽 카드면 '외장 그래픽 카드 인코더', 컴퓨터에 처음부터 들어 있는 그래픽이면 '내장 그래픽 인코더'이고, 외장 카드가 둘 이상이면 뒤에 1 · 2 가 붙습니다. 골라 둔 인코더는 그대로입니다.",
+ "notes": "바뀐 것\n• 무언가 실패했을 때 나오는 안내 글을 알기 쉬운 말로 바꿨습니다. 영상을 열거나 내보내다 실패하면 파일을 찾을 수 없음 · 열 권한 없음 · 디스크 공간 부족 · 지원하지 않는 형식처럼 흔한 까닭을 앱 말로 알려 줍니다.\n\n고친 것\n• 얼굴 보정의 이중턱 줄이기가 턱선 위까지 살짝 번지던 것을 고쳤습니다.\n• 얼굴 보정 중 얼굴을 늦게 찾은 장면에서, 멈춘 얼굴 위로 보정이 넘쳐 보이던 것을 고쳤습니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=931971",
- "exe_size": 39839168,
- "exe_sha256": "0c1d133767f9e8866f39a10d7ac63f44479a2414338154cbd933686fb3730ee3",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=936154",
+ "exe_size": 39855344,
+ "exe_sha256": "cd5fdf23dd21dbf2e86d121761f3bb06ab9dea9dd9a3357bb0a37348d9f6bada",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.91/BEAN-PICK-WIN-v0.2.91.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.98/BEAN-PICK-WIN-v0.2.98.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
