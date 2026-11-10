@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "live",
- "version": "0.1.10",
+ "version": "0.1.11",
  "date": "2026.11.10",
- "notes": "바뀐 것\n• 소리 믹서의 미터 · 페이더를 빈뮤즈와 같은 모양으로 바꿨어요. 미터는 칸으로 된 막대와 피크 줄로 보이고, 페이더는 빈뮤즈 손잡이로 0 dB 위 +12 dB 까지 올릴 수 있어요. 볼륨 값은 줄 오른쪽 값 글로 봐요.\n• 미터를 누르면 피크 줄이 처음부터 다시 재요.\n• 설정 단추 아이콘이 톱니바퀴로 바뀌었어요.\n\n고친 것\n• 카메라 얼굴 보정에서 고개를 돌렸을 때 좁은 쪽 볼과 인중 옆도 매끈해져요. 인중 옆은 얼굴 가운데와 거의 같은 만큼 매끈해져요.\n• 이중턱 보정이 턱 가운데만이 아니라 턱선 전체 아래에 고르게 걸려 얼굴이 찌그러져 보이지 않아요.\n• 입술 메이크업 색이 일곱 가지 더 있어요.",
+ "notes": "고친 것\n• 이중턱 보정이 턱선을 건드리지 않게 턱선에서 조금 아래부터 걸려, 정면 얼굴의 턱선이 그대로 또렷해요.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=930695",
- "exe_size": 147387496,
- "exe_sha256": "ee3dafdded782d63ffb2b3991817b3712d81306c22fcd0f0fa0331ddda5afe52",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=931689",
+ "exe_size": 147407768,
+ "exe_sha256": "d957b1c2b8ee9c2252bf278ff829b7a5b6d908867c9dad3087d3408a63674045",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.10/BEAN-LIVE-WIN-v0.1.10.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.11/BEAN-LIVE-WIN-v0.1.11.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
