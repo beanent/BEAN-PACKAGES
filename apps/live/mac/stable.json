@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "live",
- "version": "0.1.9",
+ "version": "0.1.12",
  "date": "2026.11.10",
- "notes": "바뀐 것\n• 앱 머리 줄의 [설정] 단추가 톱니바퀴 아이콘으로 보입니다.\n\n고친 것\n• 카메라 얼굴 보정에서 인중 옆도 가운데처럼 매끈해집니다.\n• 가상 카메라가 다른 판의 앱과 함께 쓰여도 설정을 받아 화면을 계속 내보냅니다.\n• 라이선스 안내 글을 다듬었습니다.",
+ "notes": "바뀐 것\n• 방송 · 녹화 · 리플레이 저장 · MP4 바꾸기가 안 될 때 나오는 알림이 영어 원문 대신 알기 쉬운 말로 보이고, 무엇을 확인하면 되는지(인터넷 연결 · 서버 주소 · 스트림 키 · 녹화 폴더 · 디스크 공간 · 인코더)도 함께 알려 드립니다.\n• 4K 카메라에서 얼굴 보정을 켜도 화면이 끊기지 않고 고르게 이어집니다. 얼굴을 찾는 일이 잠깐 늦어지는 순간에도 장이 밀리거나 빠지지 않습니다.\n• 창 위 제목 줄을 두 번 누르면 창이 화면 가득 커지고, 다시 두 번 누르면 원래 크기로 돌아옵니다.\n\n고친 것\n• 카메라 얼굴 보정에서 얼굴을 움직이다 멈출 때 보정이 얼굴 밖으로 잠깐 넘쳐 보이던 것을 고쳤습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=930708",
- "pkg_size": 151295407,
- "pkg_sha256": "fab7b8032ef48fd3afac81141426d4c63fb393cc451bf058ac1155d47c792f91",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=936067",
+ "pkg_size": 151315284,
+ "pkg_sha256": "08b2f800748dfb1bd53189d5080f221d38e0423890be8c98c12c08f41d07f60d",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.9/BEAN-LIVE-MAC-v0.1.9.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.12/BEAN-LIVE-MAC-v0.1.12.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
