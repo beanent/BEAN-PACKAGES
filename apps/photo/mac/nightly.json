@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.7",
+ "version": "0.1.8",
  "date": "2026.11.10",
- "notes": "0.1.7 (2026-11-10)\n\n고친 것\n• 사진을 열고 처음 잡티 · AI 피부를 바꿀 때 몇 초 기다리던 것을 고쳤습니다. 이제 처음부터 바로 따라옵니다.",
+ "notes": "0.1.8 (2026-11-10)\n\n나아진 것\n• 슬라이더를 움직일 때 미리보기가 거의 두 배 빨리 따라옵니다. 얼굴 보정 칸을 많이 건 사진에서도 화면이 덜 멈칫합니다.\n• 사진을 연 뒤 처음 얼굴 보정 칸을 움직일 때부터 바로 따라옵니다.\n• 맥에서 얼굴 보정 미리보기 일부를 그래픽 칩으로 계산합니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=935726",
- "pkg_size": 62692373,
- "pkg_sha256": "e323e1eeef4c00b5d7bd2746ea6b6b166a4bbd8ef98d5268085038ea92069c60",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=935974",
+ "pkg_size": 62721445,
+ "pkg_sha256": "a31bb6da4ee5c6b526f2ab5fbb0aa66fa4b4b9594260ad5cda6c59bce09c8fcd",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.7/BEAN-PHOTO-MAC-v0.1.7.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.8/BEAN-PHOTO-MAC-v0.1.8.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
