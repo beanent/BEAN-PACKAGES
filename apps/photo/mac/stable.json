@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.8",
+ "version": "0.1.9",
  "date": "2026.11.10",
- "notes": "0.1.8 (2026-11-10)\n\n나아진 것\n• 슬라이더를 움직일 때 미리보기가 거의 두 배 빨리 따라옵니다. 얼굴 보정 칸을 많이 건 사진에서도 화면이 덜 멈칫합니다.\n• 사진을 연 뒤 처음 얼굴 보정 칸을 움직일 때부터 바로 따라옵니다.\n• 맥에서 얼굴 보정 미리보기 일부를 그래픽 칩으로 계산합니다.",
+ "notes": "0.1.9 (2026-11-10)\n\n나아진 것\n• 잡티 · 치아 슬라이더를 놓으면 결과가 곧바로 화면에 보입니다. 원래 크기 마무리는 그 뒤 조용히 이어집니다.\n• 얼굴 대칭 · 얼굴형을 바꾼 결과가 훨씬 빨리 나옵니다. 큰 사진에서 10초 가까이 걸리던 것이 1초 안에 끝납니다.\n• 배경 다듬기 슬라이더를 움직일 때 미리보기가 더 매끄럽게 따라옵니다.\n• 얼굴 탭 '윤곽' 갈래가 '윤곽 · 쉐딩' 이 되었고, 갈래 줄이 늘 보입니다. 기능 찾기에서 컨투어링 · 셰이딩으로도 찾습니다.\n\n고친 것\n• 배경 왜곡 최소화를 켜고 얼굴형을 바꾸면 입가에 댄 손가락이 배경에 비쳐 보이던 것을 고쳤습니다. 손 · 손가락 · 든 물건은 휘지 않습니다.\n• 대칭만 건 얼굴에 보정이 걸리지 않던 것을 고쳤습니다.\n• 몸 · 자르기 탭과 도구를 쓰는 동안 [원본] 단추가 눌리지 않던 것을 고쳤습니다.\n• 대칭을 되돌린 뒤 몸 슬라이더를 움직이면 대칭 걸린 얼굴이 잠깐 보이던 것을 고쳤습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=935974",
- "pkg_size": 62721445,
- "pkg_sha256": "a31bb6da4ee5c6b526f2ab5fbb0aa66fa4b4b9594260ad5cda6c59bce09c8fcd",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=936164",
+ "pkg_size": 62756677,
+ "pkg_sha256": "d7b86f5a0d16193ff5366f7bdb5c5c8e742c1a1877a6050daebaa089ad23eacf",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.8/BEAN-PHOTO-MAC-v0.1.8.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.9/BEAN-PHOTO-MAC-v0.1.9.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
