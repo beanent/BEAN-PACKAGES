@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.17",
- "date": "2026.11.10",
- "notes": "바뀐 것\n• 재생 목록 오른쪽 클릭 차림의 '목록에서 삭제' 이름을 영어 · 중국어 · 스페인어 · 프랑스어 · 독일어 등 여러 말에서 같은 말로 맞췄어요.\n• 설정 창 높이가 낮을 때도 왼쪽 갈래 목록을 끝까지 굴려 볼 수 있어요.\n• 창 최소화 · 최대화 단추 이름을 화면 읽기 프로그램이 바르게 읽어요.",
+ "version": "0.1.20",
+ "date": "2026.11.11",
+ "notes": "바뀐 것\n• 설정 › 정보 탭이 다른 BEAN 앱과 같은 모양이 됐어요. 판 번호 · 업데이트 확인 · 최신 개발 버전(Nightly) 칸 · 함께 쓴 구성 요소 · 회사 정보가 같은 자리에 같은 꼴 · 같은 색으로 나와요.\n• 정보 탭 아래 [설명서] 단추로 설명서를 바로 열 수 있어요.\n• 정보 탭 아래 [라이선스 전문] 단추를 누르면 오픈 소스 고지 전문을 새 창 없이 그 자리에서 읽을 수 있어요. [닫기] 나 Esc 로 돌아가요.\n• 정보 탭의 '최신 개발(Nightly)' 칸과 설명 말풍선이 중국어 화면에서도 중국어로 나와요.\n\n고친 것\n• 화면 배율이 125 % · 150 % 처럼 소수일 때 창을 최대화했다가 되돌리거나 전체 화면에서 나오면 창 크기가 조금씩 줄던 것을 고쳤어요.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=936149",
- "exe_size": 17959176,
- "exe_sha256": "2ab5577dae06c4322bcdf97f96441a49df9d8f47ebe9c41ab2040cc2e9294222",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=938542",
+ "exe_size": 18042464,
+ "exe_sha256": "3244ea15da74cd09e830811e13a897ac2d81c66f8a427b294c05237550d25dae",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.17/BEAN-PLAYER-WIN-v0.1.17.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.20/BEAN-PLAYER-WIN-v0.1.20.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
