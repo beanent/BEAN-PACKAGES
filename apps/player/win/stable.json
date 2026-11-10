@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.14",
+ "version": "0.1.17",
  "date": "2026.11.10",
- "notes": "바뀐 것\n• 설정 단추 아이콘이 톱니바퀴로 바뀌었어요.\n• 앨범 · 아티스트 · 폴더 목록에서 한 번 누르면 고르기만 하고, 오른쪽 칸 '정보' 탭에 곡 수 · 총 길이 · 연도 · 형식 같은 요약이 보여요. 두 번 누르거나 Enter 를 누르면 들어가요. Ctrl · Shift 로 여럿 골라 한 번에 재생하거나 재생 목록에 넣을 수 있어요.\n• 목록 줄 구분선이 머리 줄처럼 목록 끝에서 끝까지 이어져요.\n• 재생 중인 곡 줄에도 번호가 늘 보여요.\n• 곡이 많은 보관함에서도 앱을 켜면 창이 바로 뜨고, 목록은 뒤에서 읽어 곧 채워져요.\n• 여러 곡 정보 창 · 음악 전체 화면 가사 · 왼쪽 갈래 · 볼륨 창이 더 가볍게 움직여요. 폴더가 그대로면 보관함 파일을 다시 쓰지 않아요.\n• 일본어 화면 말을 フォルダー · コンピューター · ウィンドウ 표기로 맞췄어요.",
+ "notes": "바뀐 것\n• 재생 목록 오른쪽 클릭 차림의 '목록에서 삭제' 이름을 영어 · 중국어 · 스페인어 · 프랑스어 · 독일어 등 여러 말에서 같은 말로 맞췄어요.\n• 설정 창 높이가 낮을 때도 왼쪽 갈래 목록을 끝까지 굴려 볼 수 있어요.\n• 창 최소화 · 최대화 단추 이름을 화면 읽기 프로그램이 바르게 읽어요.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=930655",
- "exe_size": 17944192,
- "exe_sha256": "1ed30ea0c2a5be015f63260ee96c9a1c53fdff13eca0539f7f634cbd335c8fb8",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=936149",
+ "exe_size": 17959176,
+ "exe_sha256": "2ab5577dae06c4322bcdf97f96441a49df9d8f47ebe9c41ab2040cc2e9294222",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.14/BEAN-PLAYER-WIN-v0.1.14.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.17/BEAN-PLAYER-WIN-v0.1.17.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
