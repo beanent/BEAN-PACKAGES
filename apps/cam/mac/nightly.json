@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.128",
- "date": "2026.11.10",
- "notes": "새로 생긴 것\n• 입술 색을 로즈 핑크 · 체리 · 말린 장미 · 푸시아 · 모브 · 테라코타 · 와인까지 열다섯 가지에서 고를 수 있고, 색 이름이 모든 화면 언어로 보입니다.\n\n바뀐 것\n• 얼굴을 빠르게 움직이다 멈춰도 보정이 얼굴을 지나치지 않고 그 자리에 바로 머뭅니다.\n• 카메라를 열지 못하거나 가상 카메라를 설치하지 못하면 까닭과 할 일을 알기 쉬운 말로 알려 줍니다.\n• 앱 아이콘이 다른 BEAN 앱과 같은 크기와 모양으로 Dock 에 보입니다.",
+ "version": "0.1.130",
+ "date": "2026.11.11",
+ "notes": "새로 생긴 것\n• 설정 › 가상 카메라에 '부드럽게'가 생겼습니다. 카메라가 초당 30장을 보낼 때 앞뒤 장으로 사이 장을 만들어 초당 60장으로 부드럽게 내보냅니다. 화면이 조금 늦게 나가는 만큼 지연 값이 설정 화면에 한 줄로 보입니다.\n• 설정 › 가상 카메라에 '선명하게 키우기'가 생겼습니다. 출력 해상도가 카메라보다 클 때(예: 1080 카메라를 4K로 내보낼 때) 화면을 단순히 늘리지 않고 선명하게 키워 내보냅니다. 처음부터 켜져 있습니다.\n\n바뀐 것\n• 두 기능을 다 켜도 4K 30장을 그대로 지킵니다. 처리할 여유가 모자란 순간에는 그 장만 앞 장으로 채워 화면이 떨리지 않습니다.\n• 출력 지연을 정해 두었으면 부드럽게를 켜도 전체 지연이 그대로입니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=936065",
- "pkg_size": 144346665,
- "pkg_sha256": "a6ad34be0679e2befb747585556e352eeddc7ca068e6d58f23b6726ac93f317d",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=938418",
+ "pkg_size": 144405576,
+ "pkg_sha256": "3e00a574204419849700da7a4e01837ab0a28958620e1800e9f1b0237355d4d6",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.128/BEAN-CAM-MAC-v0.1.128.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.130/BEAN-CAM-MAC-v0.1.130.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
