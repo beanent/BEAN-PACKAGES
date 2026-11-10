@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.125",
- "date": "2026.11.09",
- "notes": "바뀐 것\n• 설정에서 카메라 · 해상도 · 프레임을 바꿀 때 화면이 멈추지 않습니다. 바꾸는 동안 마지막 화면을 그대로 보여 주고 '카메라 바꾸는 중'을 알려 드립니다.\n• LUT 파일을 고를 때 창이 멈추지 않습니다. 큰 LUT 도 뒤에서 읽어 다 되면 바로 걸리고, 한 번 읽은 LUT 는 다시 고르면 곧바로 걸립니다.\n• 가상 카메라를 켜거나 내보내기 해상도를 바꿀 때도 창이 멈추지 않습니다.\n• 설정 › 일반의 엔비디아 추가 파일 칸을 열어 둘 때와 [지우기]를 누를 때 창이 멈추지 않습니다.\n• 상태 줄과 미리보기 위 표시를 그리는 일이 가벼워졌습니다.\n• 일본어 · 중국어 · 독일어 등 열한 가지 말에서 영어로 나오던 문구(구독 · 계정 연결 · 가상 카메라 설치 안내 등)를 그 말로 보여 드립니다.\n\n고친 것\n• 잡티 제거가 콧볼 옆 · 콧구멍 둘레 · 팔자 주름 · 입꼬리의 자연스러운 그늘을 잡티로 보고 메워 탁한 얼룩이 남던 것을 고쳤습니다. 볼 · 턱의 잡티는 예전처럼 지웁니다.\n• 가상 카메라가 이 PC 에 등록되어 있는데도 '등록되어 있지 않다'는 알림이 뜨던 것을 고쳤습니다. [가상 카메라 다시 설치] 도 바르게 다시 등록합니다.\n• 오류 보고에 함께 가는 사용 기록에서 한글이 깨지던 것을 고쳤습니다.",
+ "version": "0.1.127",
+ "date": "2026.11.10",
+ "notes": "바뀐 것\n• 고개를 돌린 얼굴에서 좁은 쪽 볼과 인중 옆까지 피부 매끈이 가운데처럼 고르게 걸립니다.\n• 얼굴 테두리와 귀 둘레의 피부 보정이 흔들리지 않고 매끈하게 이어집니다.\n• 설정 › 일반의 그래픽 카드 가속 칸 안내 글을 알아보기 쉬운 말로 바꿨습니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=928818",
- "exe_size": 139915528,
- "exe_sha256": "b5abf9b25d9f78e229bcfd7335d56d21537ff35f8c8ac22b06b656d4a3fbb0c2",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=935948",
+ "exe_size": 139967328,
+ "exe_sha256": "49a4cb815761623240d746775833176efcd0b17e7be8d733b8004caa19c0323e",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.125/BEAN-CAM-WIN-v0.1.125.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.127/BEAN-CAM-WIN-v0.1.127.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
