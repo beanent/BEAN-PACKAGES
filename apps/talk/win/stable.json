@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.183",
- "date": "2026.11.09",
- "notes": "바뀐 것\n• 통화를 시작하거나 마이크 · 스피커 · 버퍼를 바꿀 때 화면이 굳지 않습니다. 소리 장치는 뒤에서 열고 닫습니다.\n• 통화 소리가 앱 화면 일과 따로 오갑니다. 창을 옮기거나 설정을 바꾸는 순간에도 통화 소리가 끊기지 않습니다.\n• 영상 통화에서 새 그림이 온 칸만 다시 그리고, 받은 영상은 그림 판을 다시 써서 CPU 와 메모리를 덜 씁니다. 큰 화면 공유를 받을 때 더 매끄럽습니다.\n• 통화 오버레이를 끌 때와 통화 중 대화를 굴릴 때 더 매끄럽습니다.\n• 글이 오가는 방에서 참여자 명단을 필요할 때만 다시 그려 화면이 가벼워졌습니다.\n\n고친 것\n• 영어 · 일본어 · 스페인어 · 프랑스어 화면 글을 다듬고, 가상 미러 알림 · 잡음 익히기 결과 · 파일 카드 · 아래 탭 줄 안내가 고른 말로 나옵니다.\n• 독일어 화면에서 통화 화질 창의 해상도 칸이 창 끝을 살짝 넘던 것을 고쳤습니다.",
+ "version": "0.1.186",
+ "date": "2026.11.12",
+ "notes": "바뀐 것\n• 설정 단추가 다른 BEAN 앱과 같은 톱니바퀴 모양입니다.\n\n고친 것\n• 파일을 내려받지 못하거나 카메라를 켜지 못했을 때, 영어 원문 대신 까닭을 알기 쉬운 말로 알려 줍니다.\n• 서버에 닿지 않을 때 나오던 영어 오류 글이 '서버에 연결할 수 없습니다' 안내로 바뀌었습니다.\n• 가상 미러 출력을 앱과 설정이 다른 장치로 보낼 때 소리가 높거나 낮게 들리거나 잠깐씩 끊기던 것을 고쳤습니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=928785",
- "exe_size": 14761376,
- "exe_sha256": "f8970db2d6998f664990dc523791efdbfad7396c880706d36a14d430331109fa",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=940051",
+ "exe_size": 14772568,
+ "exe_sha256": "697792a6c505b6e7a9f76b69b9e2b29ca57e8d6f9009429b9776d5461fb8df11",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.183/BEAN-TALK-WIN-v0.1.183.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.186/BEAN-TALK-WIN-v0.1.186.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
