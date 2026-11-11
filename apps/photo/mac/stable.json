@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.17",
+ "version": "0.1.19",
  "date": "2026.11.12",
- "notes": "0.1.17 (2026-11-12)\n\n나아진 것\n• 보정을 복사해 다른 사진에 붙이면 얼굴 · 몸 보정이 그 사진의 사람에게 맞춰 옮겨 붙습니다. 얼굴 자리가 다른 사진에서도 원래 사람의 보정이 같은 사람 차례(큰 얼굴부터)로 걸립니다.\n• 붙이는 사진에 사람이 더 많으면 가장 가까운 사람의 보정을 씁니다.\n• 보관함에서 여러 장에 붙이기 · 함께 연 사진에 맞추기 · 아래 목록에서 고른 사진에 기준 보정 적용도 같은 방식으로 사람마다 맞춰 걸립니다.\n• 보정 붓 · 지우기 · 지킬 곳처럼 손으로 그린 곳은 항목 고르는 창의 [손으로 그린 곳]을 골랐을 때 사진 비율 그대로 붙습니다.",
+ "notes": "0.1.19 (2026-11-12)\n\n나아진 것\n• 정수리 볼륨을 올리면 정수리가 둥근 모양 그대로 고르게 부풀어 오릅니다. 머리 윗선이 덩어리처럼 솟거나 가장자리가 뭉개지지 않고 가는 머리카락도 결대로 남습니다.\n• 옆머리 볼륨이 관자놀이부터 턱 높이까지 한 덩어리로 매끈하게 넓어지고 줄어듭니다. 윤곽이 물결치지 않고 얼굴 · 귀 · 뒤 배경 무늬는 그대로입니다.\n• 가르마 채우기가 머리 사이로 비치는 살만 둘레 머리 색으로 채웁니다. 앞머리 윤기나 뒤 배경이 회색으로 덧칠되지 않습니다.\n• 편집 화면 아래 목록에서 사진을 오른쪽 누르면 [복사한 보정 붙여 넣기]로 복사해 둔 보정을 그 사진(또는 고른 사진들)에 바로 붙입니다. 지금 보는 사진에서는 Cmd+V 와 같습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=940070",
- "pkg_size": 63917799,
- "pkg_sha256": "ba847dbf305f0daf4e3dc5186eaa7042ba955e311c5b021529fe0f513778e9f0",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=940152",
+ "pkg_size": 63946292,
+ "pkg_sha256": "c7e5473192fa1b429736662eee05e7247f6f9ca1d4d5ea8b95abeb940e75de93",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.17/BEAN-PHOTO-MAC-v0.1.17.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.19/BEAN-PHOTO-MAC-v0.1.19.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
