@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "live",
- "version": "0.1.14",
- "date": "2026.11.10",
- "notes": "바뀐 것\n• 방송 · 녹화 · 리플레이 저장 · MP4 바꾸기가 안 될 때 나오는 알림이 알기 쉬운 말로 보이고, 무엇을 확인하면 되는지(인터넷 연결 · 서버 주소 · 스트림 키 · 녹화 폴더 · 디스크 공간 · 인코더)도 함께 알려 드려요.\n• 4K 카메라에서 얼굴 보정을 켜도 화면이 끊기지 않고 고르게 이어져요. 얼굴을 찾는 일이 잠깐 늦어지는 순간에도 장이 밀리거나 빠지지 않아요.\n\n고친 것\n• 카메라 얼굴 보정에서 얼굴을 움직이다 멈출 때 보정이 얼굴 밖으로 잠깐 넘쳐 보이던 것을 고쳤어요.",
+ "version": "0.1.16",
+ "date": "2026.11.11",
+ "notes": "바뀐 것\n• 설정 › 정보 탭이 다른 BEAN 앱과 같은 모양이 됐어요. 판 번호 · 업데이트 확인 · 함께 쓴 구성 요소 · 회사 정보가 같은 자리에 같은 꼴로 나와요.\n• 업데이트 확인 단추가 설정 › 정보 탭으로 옮겨졌어요. 새 판을 앱 안에서 받아 크기 · SHA-256 · 서명을 확인한 뒤 설치하고, 옆 '최신 개발(Nightly)' 칸을 켜면 최신 개발 판을, 끄면 안정화 판을 확인해요.\n• 정보 탭 아래 [설명서] 단추로 설명서를 바로 열 수 있어요.\n• 정보 탭 아래 [라이선스 전문] 단추를 누르면 쓰는 구성 요소마다 라이선스 원문 전체를 새 창 없이 그 자리에서 읽을 수 있어요. [닫기] 나 Esc 로 돌아가요.\n\n고친 것\n• 윈도우 화면 배율을 125% 같은 소수로 쓸 때 창 크기가 1픽셀씩 줄어들던 것을 고쳤어요.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=936133",
- "exe_size": 147401240,
- "exe_sha256": "103f882c80d9b4fd6c3664bd1e702b9da0de98db86002fdfcbe7854242b54b76",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=938776",
+ "exe_size": 147502688,
+ "exe_sha256": "722122f86324623a825d797f8dc0694f2984dd0c14a432fed34ae350118d87b9",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.14/BEAN-LIVE-WIN-v0.1.14.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.16/BEAN-LIVE-WIN-v0.1.16.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
