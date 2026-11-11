@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.185",
+ "version": "0.1.187",
  "date": "2026.11.12",
- "notes": "0.1.185 (2026-11-12) · 맥\n\n바뀐 것\n• 창 왼쪽 위 앱 이름 표시를 다른 BEAN 앱과 같은 크기 · 모양으로 맞췄습니다.",
+ "notes": "0.1.187 (2026-11-12) · 맥\n\n바뀐 것\n• 빈톡 화면을 새 모양으로 다듬었습니다. 글자 크기와 간격을 고르게 맞추고 단추와 칸의 모서리를 살짝 둥글게 했습니다.\n• 로그인 창이 내용에 꼭 맞는 높이로 열립니다. 맨 위에 앱 이름 줄, 맨 아래에 회원가입과 아이디·비밀번호 찾기 줄이 있습니다.\n• 대시보드 맨 위에 쪽 이름과 함께 안 읽은 메시지 수와 서버 상태가 한 줄로 보입니다.\n• 설정 탭이 화면 위쪽의 글자 탭으로 바뀌었고, 화면 모양을 고르는 탭 이름은 '화면'입니다. 닫기와 사용법 단추는 아래 줄에 있고, 고른 값은 바로 적용됩니다.\n• 테마에 고대비 라이트와 고대비 다크가 더해졌습니다.\n• 안 읽은 메시지 수와 켜기 · 끄기 단추의 켜진 색이 설정에서 고른 강조색을 따릅니다. 강조색으로 칠한 단추의 글자는 흰색으로 또렷하게 보입니다.\n• 모두 목소리로만 통화할 때는 참여자 칸 줄만 보여 대화 칸이 넓어집니다. 누가 영상을 켜거나 화면을 공유하면 큰 화면이 나타납니다.\n• 참여자 칸마다 통화 중 · 말하는 중 · 음소거됨이 글로 보이고, 말하는 사람의 칸은 강조색 테두리로 보입니다.\n• 통화 중 표시가 작은 강조색 네모와 글자로 보입니다.\n• 방 목록에서 내가 만든 방은 이름 옆에 강조색 왕관으로 보입니다. 마우스를 올리면 '내가 만든 방' 이라고 알려 줍니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939840",
- "pkg_size": 27366122,
- "pkg_sha256": "1129183c47a1e8097e5311b650561db91706ad1abb9bb77a5ded63763f835315",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=940035",
+ "pkg_size": 27374986,
+ "pkg_sha256": "29659189827925627a4c85249eba273307af2df154ff04c4a80d18cde11de474",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.185/BEAN-TALK-MAC-v0.1.185.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.187/BEAN-TALK-MAC-v0.1.187.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
