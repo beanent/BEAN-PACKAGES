@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.19",
- "date": "2026.11.11",
- "notes": "바뀐 것\n• 설정 › 정보 탭의 카드 제목 · 차례 · 글 · 색을 빈라이브 · 빈다운로더와 똑같이 맞췄어요. 앱마다 다른 것은 앱 이름 · 아이콘 · 판 번호 · 고지 내용뿐이에요.\n• 정보 탭의 '최신 개발(Nightly)' 칸과 설명 말풍선이 중국어 화면에서도 중국어로 나와요.",
+ "version": "0.1.23",
+ "date": "2026.11.12",
+ "notes": "바뀐 것\n• 창 왼쪽 위 앱 이름 표시를 다른 BEAN 앱과 같은 크기 · 모양으로 맞췄습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=937348",
- "pkg_size": 20946178,
- "pkg_sha256": "6379c82ffda94f04a0cb31611aca20070a51bada20a5dc1b1d4660bb2c200583",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939967",
+ "pkg_size": 21000498,
+ "pkg_sha256": "59122f0b91077d3545a1f468f51978a2a4664ca4790de772f9634d70da327b66",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.19/BEAN-PLAYER-MAC-v0.1.19.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.23/BEAN-PLAYER-MAC-v0.1.23.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
