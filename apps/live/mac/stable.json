@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "live",
- "version": "0.1.17",
+ "version": "0.1.19",
  "date": "2026.11.11",
- "notes": "바뀐 것\n• 설정 › 정보 탭의 카드 제목 · 차례 · 글 · 색을 빈플레이어 · 빈다운로더와 똑같이 맞췄습니다. 라이트 테마에서도 카드가 바탕과 또렷이 구분됩니다.\n• 정보 탭 [업데이트 확인] 이 빈플레이어와 같은 길로 바뀌었습니다. 새 판을 앱 안에서 받아 크기 · SHA-256 · 서명 · 공증을 확인한 뒤 설치합니다. 옆 '최신 개발(Nightly)' 칸을 켜면 최신 개발 판을, 끄면 안정화 판을 확인합니다.\n• [라이선스 전문] 에 쓰는 구성 요소마다 라이선스 원문 전체를 담았습니다.",
+ "notes": "새로 생긴 것\n• 카메라 소스 속성에 '선명하게 키우기'가 생겼습니다. 카메라를 송출 화면에서 원래 크기보다 크게 놓을 때(예: 1080 카메라를 4K 캔버스에 가득 채울 때) 화면을 단순히 늘리지 않고 선명하게 키워 내보냅니다. 처음부터 켜져 있습니다. 카메라의 자르기 · 자리 · 크기는 그대로입니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=937350",
- "pkg_size": 151462497,
- "pkg_sha256": "a9eb0b9ba07814179581d707431588071441077fa1893186152a037b655b1b6a",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=938864",
+ "pkg_size": 151597355,
+ "pkg_sha256": "ef1ee03365aeaaef0e111c7d2acc4309dea7ac3a0c13429c7676ab1c3f860a4b",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.17/BEAN-LIVE-MAC-v0.1.17.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.19/BEAN-LIVE-MAC-v0.1.19.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
