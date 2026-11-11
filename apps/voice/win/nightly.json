@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "voice",
- "version": "0.4.128",
- "date": "2026.11.10",
- "notes": "고친 것\n• 라이선스 화면의 구독 이름과 안내 글을 알기 쉬운 말로 다듬었습니다.",
+ "version": "0.4.132",
+ "date": "2026.11.12",
+ "notes": "바뀐 것\n• 창 왼쪽 위 앱 이름 표시를 다른 BEAN 앱과 같은 크기 · 모양으로 맞췄습니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=936226",
- "exe_size": 13919560,
- "exe_sha256": "86f3da77f281afd77ca33d87cda1359727f438d693b6b63a8510db683af6428e",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=940723",
+ "exe_size": 13963264,
+ "exe_sha256": "a5cd57bb63c574d77f75d020122507f0c4f197d9deaf978beac7bfd65a5581ab",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.128/BEAN-VOICE-WIN-v0.4.128.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-v0.4.132/BEAN-VOICE-WIN-v0.4.132.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
