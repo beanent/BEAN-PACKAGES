@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "live",
- "version": "0.1.18",
+ "version": "0.1.19",
  "date": "2026.11.11",
- "notes": "새로 생긴 것\n• 카메라 소스 속성에 '부드럽게'가 생겼습니다. 카메라가 초당 30장을 보낼 때 사이 장을 만들어 초당 60장으로 부드럽게 내보냅니다. 출력 프레임이 60일 때 일하고, 화면이 조금 늦게 나갑니다. 얼굴 보정을 켜지 않아도 쓸 수 있습니다.\n\n바뀐 것\n• 카메라 얼굴 보정이 켠 항목만 일합니다. 값을 올린 항목에 필요한 일만 돌고, 값이 모두 0 이면 화면을 그대로 내보내 컴퓨터가 훨씬 한가해집니다.\n• 화면에 사람이 없으면 얼굴 보정이 쉽니다. 사람이 들어오면 바로 다시 걸리고, 걸릴 때는 서서히 올라와 화면이 튀지 않습니다.\n• 4K 카메라에서 얼굴 보정을 여러 개 켜도 훨씬 가볍게 돕니다. 머리카락 · 옷 · 눈동자 · 배경은 카메라 화질 그대로 두고, 피부처럼 보정이 닿는 곳만 한 단계 작은 크기에서 셈해 얹습니다. 1080p 카메라도 같은 방식으로 가벼워집니다.\n• 가상 카메라가 받는 앱에서 고른 장 수로 내보냅니다. 장 간격도 더 고릅니다.\n• 설치를 마치면 가상 카메라가 새것으로 바뀝니다. 받는 앱에 예전 목록이 보이면 받는 앱을 껐다 켜 주세요.\n\n고친 것\n• 받는 앱의 카메라 형식 목록에 가상 카메라가 초당 60장으로만 보이고 같은 줄이 두 번씩 나오던 것을 고쳤습니다. 해상도와 색 형식마다 한 줄씩 보이고, 장 수는 24 · 25 · 29.97 · 30 · 50 · 59.94 · 60 가운데 고를 수 있습니다.",
+ "notes": "새로 생긴 것\n• 카메라 소스 속성에 '선명하게 키우기'가 생겼습니다. 카메라를 송출 화면에서 원래 크기보다 크게 놓을 때(예: 1080 카메라를 4K 캔버스에 가득 채울 때) 화면을 단순히 늘리지 않고 선명하게 키워 내보냅니다. 처음부터 켜져 있습니다. 카메라의 자르기 · 자리 · 크기는 그대로입니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=938779",
- "pkg_size": 151552708,
- "pkg_sha256": "63911c2ed61df6b17b648295b9819630c7a64b688abacac77fcba33360c1a37e",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=938864",
+ "pkg_size": 151597355,
+ "pkg_sha256": "ef1ee03365aeaaef0e111c7d2acc4309dea7ac3a0c13429c7676ab1c3f860a4b",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.18/BEAN-LIVE-MAC-v0.1.18.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.19/BEAN-LIVE-MAC-v0.1.19.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
