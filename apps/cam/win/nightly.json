@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.133",
+ "version": "0.1.137",
  "date": "2026.11.12",
- "notes": "바뀐 것\n• 4K 카메라에서 보정을 모두 켰을 때 얼굴 맞춤점 셈이 그래픽 카드 일과 겹치지 않아 화면이 더 고르게 나옵니다.\n• 잡티(빠름)이 작은 점 · 잡티를 메우는 데 맞춰졌습니다. 슬라이더와 쓰던 값은 그대로입니다.",
+ "notes": "바뀐 것\n• 얼굴을 가까이 비출 때 잡티 보정이 가벼워졌습니다. 결과는 그대로입니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939859",
- "exe_size": 140039184,
- "exe_sha256": "ae26c18ab0c00ef90989408f6061b1dd6e2885c12af8237e60c5a3b530cec827",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939875",
+ "exe_size": 140041904,
+ "exe_sha256": "06d7013cd03232fc100e4b8fc3816ebf54a6bd083780fa322d857007e16cc7bf",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.133/BEAN-CAM-WIN-v0.1.133.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.137/BEAN-CAM-WIN-v0.1.137.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
