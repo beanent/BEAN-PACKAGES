@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.136",
- "date": "2026.11.11",
- "notes": "바뀐 것\n• 잡티 보정이 가벼워졌습니다. 얼굴이 화면에 크게 잡힐수록 차이가 커서, 4K 로 가까이 찍을 때 보정에 드는 시간이 3분의 1쯤 줄었습니다.\n• 잡티(빠름)이 작은 점 · 잡티를 메우는 데 맞춰졌습니다. 슬라이더와 쓰던 값은 그대로입니다.",
+ "version": "0.1.137",
+ "date": "2026.11.12",
+ "notes": "바뀐 것\n• 창 왼쪽 위 앱 이름 표시를 다른 BEAN 앱과 같은 크기 · 모양으로 맞췄습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939754",
- "pkg_size": 144500898,
- "pkg_sha256": "a1a6954323b1afc3961aba69e1b5d6472f72c331ad3d79da240402248a8497ed",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939828",
+ "pkg_size": 144497774,
+ "pkg_sha256": "7dd630085659d646c93d727dee2fa423accfcbb039731c302a75a831a4333146",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.136/BEAN-CAM-MAC-v0.1.136.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.137/BEAN-CAM-MAC-v0.1.137.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
