@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.137",
+ "version": "0.1.139",
  "date": "2026.11.12",
  "notes": "바뀐 것\n• 얼굴을 가까이 비출 때 잡티 보정이 가벼워졌습니다. 결과는 그대로입니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939875",
- "exe_size": 140041904,
- "exe_sha256": "06d7013cd03232fc100e4b8fc3816ebf54a6bd083780fa322d857007e16cc7bf",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939896",
+ "exe_size": 140063200,
+ "exe_sha256": "86a09a482cf38d4b5a6aba2499ba04b76faef49b5fe4cc6c30bcb0d579811f85",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.137/BEAN-CAM-WIN-v0.1.137.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.139/BEAN-CAM-WIN-v0.1.139.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
