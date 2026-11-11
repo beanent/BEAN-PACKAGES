@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.21",
+ "version": "0.1.23",
  "date": "2026.11.12",
- "notes": "새로 생긴 것\n• 화면 전체를 새로 다듬었어요. 칸은 가는 선과 면 색으로 반듯하게 나뉘고, 머리 줄 · 목록 줄 · 도구 줄 높이와 모서리가 고르게 맞춰졌어요.\n• 테마를 다섯 가지에서 고를 수 있어요: 라이트 · 다크 · 스페이스 그레이 · 고대비 라이트 · 고대비 다크(시스템 따르기도 그대로). 설정 › UI 에서 고르는 순간 바뀌어요.\n• 강조색을 고를 수 있어요. 대표색 20가지와 직접 고른 색(이름을 붙여 저장)이 있고, 기본은 지금까지 쓰던 빈플레이어 빨강이에요. 고른 것 · 켠 것 · 재생 중인 곡이 이 색으로 보여요.\n\n바뀐 것\n• 아래 재생 줄의 셔플 · 이전 · 되감기 · 재생 · 정지 · 앞으로 · 다음 · 반복이 같은 크기 칸 한 덩어리가 됐어요. 칸마다 마우스를 올리면 이름이 나와요.\n• 오른쪽 위 미니 플레이어 · 설정 단추가 붙은 아이콘 한 덩어리가 됐어요.\n• 재생 목록에서 곡을 골라 편집할 때 나오는 단추 줄이 목록 맨 아래에 붙어 나와요.\n• 강조색으로 채운 단추 · 탭 위 글자는 흰색이고, 밝은 색이면 옅은 그림자가 함께 들어가 잘 읽혀요.\n• '앨범 아트 색 받아 쓰기'는 설정 › UI 의 강조색 아래로 자리를 옮겼어요. 켜면 앨범 아트 색이 강조색 자리에 들어가요.",
+ "notes": "바뀐 것\n• 창 왼쪽 위 앱 이름 표시를 다른 BEAN 앱과 같은 크기 · 모양으로 맞췄습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939857",
- "pkg_size": 20988766,
- "pkg_sha256": "e7cfad3931c12bfd9a5f4e6997915e2b2b063633e2a03524d97517f9f87e5b6f",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939967",
+ "pkg_size": 21000498,
+ "pkg_sha256": "59122f0b91077d3545a1f468f51978a2a4664ca4790de772f9634d70da327b66",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.21/BEAN-PLAYER-MAC-v0.1.21.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.23/BEAN-PLAYER-MAC-v0.1.23.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
