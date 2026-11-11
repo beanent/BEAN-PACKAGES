@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.131",
- "date": "2026.11.11",
- "notes": "새로 생긴 것\n• 설정 › 가상 카메라에 '부드럽게'가 생겼습니다. 카메라가 초당 30장을 보낼 때 앞뒤 장으로 사이 장을 만들어 초당 60장으로 부드럽게 내보냅니다. 화면이 조금 늦게 나가는 만큼 지연 값이 설정 화면에 한 줄로 보입니다.\n• 설정 › 가상 카메라에 '선명하게 키우기'가 생겼습니다. 출력 해상도가 카메라보다 클 때(예: 1080 카메라를 4K로 내보낼 때) 화면을 단순히 늘리지 않고 선명하게 키워 내보냅니다. 처음부터 켜져 있습니다.\n\n바뀐 것\n• 켠 보정만 일합니다. 값을 올린 항목에 필요한 일만 돌고, 보정을 껐거나 값이 모두 0 이면 화면을 그대로 내보내 컴퓨터가 훨씬 한가해집니다.\n• 화면에 사람이 없으면 보정이 쉽니다. 사람이 들어오면 바로 다시 걸리고, 걸릴 때는 서서히 올라와 화면이 튀지 않습니다.\n• 4K 카메라에서 보정을 여러 개 켜도 훨씬 가볍게 돕니다. 머리카락 · 옷 · 눈동자 · 배경은 카메라 화질 그대로 두고, 피부처럼 보정이 닿는 곳만 한 단계 작은 크기에서 셈해 얹습니다.\n• 1080p 카메라도 같은 방식으로 가벼워져, 사양이 낮은 컴퓨터에서 여유가 생깁니다.\n• 두 기능을 다 켜도 4K 30장을 그대로 지킵니다. 처리할 여유가 모자란 순간에는 그 장만 앞 장으로 채워 화면이 떨리지 않습니다.\n• 디버그 모드를 켜면 실행 기록에 지금 도는 보정 단계와 걸린 시간이 한 줄로 남습니다.",
+ "version": "0.1.133",
+ "date": "2026.11.12",
+ "notes": "바뀐 것\n• 4K 카메라에서 보정을 모두 켰을 때 얼굴 맞춤점 셈이 그래픽 카드 일과 겹치지 않아 화면이 더 고르게 나옵니다.\n• 잡티(빠름)이 작은 점 · 잡티를 메우는 데 맞춰졌습니다. 슬라이더와 쓰던 값은 그대로입니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=938871",
- "exe_size": 140005840,
- "exe_sha256": "1feadb4756e4705142b4ce201f17e9df28b9acd1b609c2038844d16e84470c00",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939859",
+ "exe_size": 140039184,
+ "exe_sha256": "ae26c18ab0c00ef90989408f6061b1dd6e2885c12af8237e60c5a3b530cec827",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.131/BEAN-CAM-WIN-v0.1.131.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.133/BEAN-CAM-WIN-v0.1.133.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
