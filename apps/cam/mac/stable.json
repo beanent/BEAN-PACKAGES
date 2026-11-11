@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.134",
+ "version": "0.1.136",
  "date": "2026.11.11",
- "notes": "바뀐 것\n• 켠 보정만 일합니다. 값을 올린 항목에 필요한 일만 돌고, 보정을 껐거나 값이 모두 0 이면 화면을 그대로 내보내 컴퓨터가 훨씬 한가해집니다.\n• 화면에 사람이 없으면 보정이 쉽니다. 사람이 들어오면 바로 다시 걸리고, 걸릴 때는 서서히 올라와 화면이 튀지 않습니다.\n• 4K 카메라에서 보정을 여러 개 켜도 훨씬 가볍게 돕니다. 초당 60장 카메라도 4K 그대로 보정해 내보냅니다. 머리카락 · 옷 · 눈동자 · 배경은 카메라 화질 그대로 두고, 피부처럼 보정이 닿는 곳만 한 단계 작은 크기에서 셈해 얹습니다.\n• 1080p 카메라도 같은 방식으로 가벼워져, 사양이 낮은 컴퓨터에서 여유가 생깁니다.\n• 디버그 모드를 켜면 실행 기록에 지금 도는 보정 단계와 걸린 시간이 한 줄로 남습니다.",
+ "notes": "바뀐 것\n• 잡티 보정이 가벼워졌습니다. 얼굴이 화면에 크게 잡힐수록 차이가 커서, 4K 로 가까이 찍을 때 보정에 드는 시간이 3분의 1쯤 줄었습니다.\n• 잡티(빠름)이 작은 점 · 잡티를 메우는 데 맞춰졌습니다. 슬라이더와 쓰던 값은 그대로입니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=938762",
- "pkg_size": 144479759,
- "pkg_sha256": "4f0d630d63bf5e19c547d49c7803f4be2778ab719ddadf54c0440875a83e0169",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939754",
+ "pkg_size": 144500898,
+ "pkg_sha256": "a1a6954323b1afc3961aba69e1b5d6472f72c331ad3d79da240402248a8497ed",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.134/BEAN-CAM-MAC-v0.1.134.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.136/BEAN-CAM-MAC-v0.1.136.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
