@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.198",
+ "version": "0.1.201",
  "date": "2026.11.12",
- "notes": "고친 것\n• 안 읽은 메시지 수 딱지의 숫자가 200 % 화면에서도 딱지 세로 가운데에 섭니다. 두 자리 숫자가 위로 살짝 떠 보이던 것을 바로잡았습니다.",
+ "notes": "고친 것\n• 안 읽은 메시지 수 딱지의 숫자가 125 · 150 % 화면에서 딱지가 놓인 자리와 상관없이 세로 가운데에 섭니다. 방 목록 아래쪽 딱지에서 숫자가 위나 아래로 살짝 치우쳐 보이던 것을 바로잡았습니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=941996",
- "exe_size": 14780128,
- "exe_sha256": "d9d64099eda17719531da1c3b9041500f8d940822914380293c825ecccc3106d",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=942103",
+ "exe_size": 14779704,
+ "exe_sha256": "126a2ec141e4d581a6b9fa268c78b77cdc609ae74fd62211d8c6484744f05e8a",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.198/BEAN-TALK-WIN-v0.1.198.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.201/BEAN-TALK-WIN-v0.1.201.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
