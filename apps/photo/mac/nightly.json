@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.30",
+ "version": "0.1.31",
  "date": "2026.11.12",
- "notes": "0.1.30 (2026-11-12)\n\n나아진 것\n• 얼굴 탭 › 얼굴형 › 얼굴 라인 보정이 값을 올릴수록 얼굴 테두리를 둥근 곡선으로 다듬습니다. 관자놀이에서 턱끝까지 튀어나온 광대 · 턱 모서리 · 볼 꺾임 · 뾰족하거나 네모난 턱끝이 한 줄의 매끄러운 곡선이 되고, 100 이면 각진 곳이 거의 남지 않습니다. 50 은 그 중간입니다.\n• 얼굴 크기는 거의 그대로이고, 눈코입 · 귀 · 배경 · 머리카락 · 손은 따라 움직이지 않습니다. 고개를 돌리거나 기운 얼굴은 그 방향 그대로 둥글어집니다.\n• 입을 벌리고 웃는 얼굴처럼 입술 자리를 다시 맞춘 얼굴에도 얼굴 라인 보정과 턱선 맞춤이 걸립니다.\n• 얼굴 갸름 · 턱선 또렷 · 얼굴 축소 · V라인 · 턱각 · 얼굴 방향 · 얼굴 대칭과 함께 걸어도 테두리가 접히거나 물결치거나 두 겹으로 남지 않습니다.",
+ "notes": "0.1.31 (2026-11-12)\n\n고친 것\n• 얼굴이 크게 나온 사진에서 얼굴형 칸을 끈 뒤 얼굴 탭 › 눈 › 눈 밝기를 끌면 처음 몇 장이 늦게 따라오던 것을 고쳤습니다. 끄는 동안 값이 바로 화면에 보입니다.\n• 채도 · 생동감을 올리고 룩을 건 채 슬라이더를 끄는 동안 짙은 색 옆의 어두운 부분이 들떠 보이던 것을 고쳤습니다. 끄는 동안 그림이 손을 뗀 뒤 그림과 거의 같습니다.\n• 머리카락이 턱 · 볼 위로 내려온 얼굴에서 얼굴 갸름 · 턱각 · V라인 같은 칸을 크게 걸면 곧은 머리 가닥이 턱선 자리에서 꺾여 보이던 것을 고쳤습니다. 이제 가닥이 매끄럽게 이어집니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=941824",
- "pkg_size": 68775899,
- "pkg_sha256": "672ac076329ab8b281126a89b1ef69e7aab5e02d189ef3cf6d897f5bbd5694ed",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=941862",
+ "pkg_size": 68785250,
+ "pkg_sha256": "3978289aca64b9e241ac608337a6b5f1062886170430cc2e380cee655df76f3e",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.30/BEAN-PHOTO-MAC-v0.1.30.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.31/BEAN-PHOTO-MAC-v0.1.31.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
