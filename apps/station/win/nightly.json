@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.55",
+ "version": "1.0.57",
  "date": "2026.11.12",
- "notes": "바뀐 것\n• 창 왼쪽 위 앱 이름 표시를 다른 BEAN 앱과 같은 크기 · 모양으로 맞췄습니다.\n• 상점 · 홈 상품 목록이 한 쪽에 12개씩 보여 줄이 꽉 찹니다.",
+ "notes": "바뀐 것\n• 화면 배율을 125 · 150 % 로 쓸 때 칸 사이 가는 선이 흐리게 두 줄로 보이던 것을 또렷한 한 줄로 고쳤습니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=940029",
- "exe_size": 12895520,
- "exe_sha256": "84c8784b6f33ab0dc7af548b63e431ab46aaee26fef82106559e896d8b4814ea",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=941856",
+ "exe_size": 12908072,
+ "exe_sha256": "a1d8b781b21cb53de93c3a6de6034cc3a51e20a4972aee1d284ec1f776037209",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.55/BEAN-STATION-WIN-v1.0.55.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.57/BEAN-STATION-WIN-v1.0.57.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
