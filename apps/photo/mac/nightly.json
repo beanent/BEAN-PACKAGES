@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.47",
+ "version": "0.1.49",
  "date": "2026.11.13",
- "notes": "고친 것\n• 머리가 사진 위 끝에서 잘린 사진에서 몸 탭 › 키 · 목 길이를 줄이면 머리 옆선이 세로로 잘린 듯 꺾이던 것을 고쳤습니다. 이제 머리 둘레가 부드럽게 이어집니다.\n• 몸 탭에서 몸매 · 허벅지를 줄일 때 사진에 따라 가랑이 아래 허벅지 안쪽이 접혀 보이던 것을 고쳤습니다.",
+ "notes": "고친 것\n• 몸 탭 칸을 끄는 동안 화면이 더 매끄럽게 따라옵니다.\n• 몸 탭 › 머리 크기를 줄일 때 머리 끝 둘레 배경에 머리 색 얼룩과 옛 머리 가장자리 자국이 남던 것을 고쳤습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=943051",
- "pkg_size": 68863073,
- "pkg_sha256": "811b261048aeca2a3f320d9255d29118c5181a9bc5d455dc1897ddb9a7877a8f",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=943056",
+ "pkg_size": 68863468,
+ "pkg_sha256": "472b8edebcdb9ef0ea249f9614c0d7dee9d366b45a8c78a53a05a7f5706e6b57",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.47/BEAN-PHOTO-MAC-v0.1.47.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.49/BEAN-PHOTO-MAC-v0.1.49.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
