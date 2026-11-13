@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.63",
- "date": "2026.11.13",
- "notes": "바뀐 것\n• 상점 상품 상세가 홈페이지와 같은 꼴로 보입니다. 기능은 그림 카드로, 값은 기간별 카드로, 핵심 숫자는 한 줄로 나오고, 긴 목록은 접힌 자세히 상자에 들어 있습니다.\n• 상품 상세에서 상자 안에 상자가 겹쳐 보이던 곳을 한 겹으로 정리했습니다.",
+ "version": "1.0.66",
+ "date": "2026.11.14",
+ "notes": "새로 생긴 것\n• 빈라이선스 업데이트: 홈 화면 빈라이선스 카드에 새 판이 있으면 [업데이트]와 [열기] 단추가 함께 나옵니다. [업데이트]를 누르면 카드 안에서 받고 설치까지 끝나며, 다 되면 [열기] 하나로 돌아옵니다.\n\n바뀐 것\n• 앱을 설치하거나 업데이트할 때 앱마다 서명된 설치 파일을 받아, 크기와 서명을 확인한 뒤 빈스테이션 안에서 조용히 설치해요.\n• 켜져 있던 앱을 업데이트하면 앱을 끝내고 새 판으로 바꾼 뒤 다시 켜 줘요.\n• 앱 목록에서 빈포토, 빈라이브, 빈캠, 빈보이스 아이콘과 색을 새 모양으로 바꿨어요.\n• 함께 들어 있는 빈라이선스를 1.0.5 로 바꿨어요.\n\n고친 것\n• 빈스테이션을 처음 켰을 때 아직 안정판이 없는 앱이 설치할 수 있는데도 '준비 중'으로 보이던 문제를 고쳤어요.\n• Nightly 로 받기로 정해 둔 앱이 처음 켤 때 안정판 기준으로 보이던 문제를 고쳤어요.\n• 다크 모드에서 주 단추와 고른 탭이 더 또렷하게 보여요.\n• 화면 배율 125 · 150 %에서 위 메뉴의 고른 칸 옆 줄이 두 줄로 보이던 것, 판 딱지 테두리 한쪽이 잘려 보이던 것, 거르기 칸 둘레에 테두리가 한 겹 더 보이던 것, 단추 테두리 굵기가 변마다 다르던 것을 고쳤어요.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=945504",
- "exe_size": 20964368,
- "exe_sha256": "72f93763fbe58e66cba4745ee2211762a687e3ef8b2c311140132c816f44a895",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=945970",
+ "exe_size": 21083320,
+ "exe_sha256": "6c3c0a9d9dad3c72cd201e70171a7cde252230115f82af8d4350815876e659a3",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.63/BEAN-STATION-WIN-v1.0.63.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.66/BEAN-STATION-WIN-v1.0.66.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
