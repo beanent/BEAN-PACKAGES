@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.62",
+ "version": "1.0.64",
  "date": "2026.11.13",
- "notes": "바뀐 것\n• 상점 상품 상세가 홈페이지와 같은 꼴로 보입니다. 기능은 그림 카드로, 값은 기간별 카드로, 핵심 숫자는 한 줄로 나오고, 긴 목록은 접힌 자세히 상자에 들어 있습니다.\n• 상품 상세에서 상자 안에 상자가 겹쳐 보이던 곳을 한 겹으로 정리했습니다.",
+ "notes": "새로 생긴 것\n• 빈라이선스 업데이트: 홈 화면 빈라이선스 카드에 새 판이 있으면 [업데이트]와 [열기] 단추가 함께 나옵니다. [업데이트]를 누르면 카드 안에서 받고 설치까지 끝나며, 다 되면 [열기] 하나로 돌아옵니다.\n\n바뀐 것\n• 빈라이선스 1.0.4가 함께 설치됩니다.\n\n고친 것\n• 상단 메뉴 막대 빈스테이션 차림표에서 [열기]나 [작게 보기]를 눌러도 창이 앞으로 나오지 않던 것을 고쳤습니다. 숨긴 창, 닫은 창, 내려 둔 창 모두 바로 앞으로 나옵니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=945164",
- "pkg_size": 23781380,
- "pkg_sha256": "55fcfc5aee6b4566840c9b5c9ebe8d45289407f3d811bd59f1d32ff3d6333d52",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=945496",
+ "pkg_size": 23837482,
+ "pkg_sha256": "651847f8aca4391936f13287ab31d0b81ca07dfe42194b55c1acaa7cb40bfb45",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.62/BEAN-STATION-MAC-v1.0.62.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.64/BEAN-STATION-MAC-v1.0.64.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
