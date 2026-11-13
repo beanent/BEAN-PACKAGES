@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.31",
- "date": "2026.11.12",
- "notes": "0.1.31 (2026-11-12)\n\n고친 것\n• 얼굴이 크게 나온 사진에서 얼굴형 칸을 끈 뒤 얼굴 탭 › 눈 › 눈 밝기를 끌면 처음 몇 장이 늦게 따라오던 것을 고쳤습니다. 끄는 동안 값이 바로 화면에 보입니다.\n• 채도 · 생동감을 올리고 룩을 건 채 슬라이더를 끄는 동안 짙은 색 옆의 어두운 부분이 들떠 보이던 것을 고쳤습니다. 끄는 동안 그림이 손을 뗀 뒤 그림과 거의 같습니다.\n• 머리카락이 턱 · 볼 위로 내려온 얼굴에서 얼굴 갸름 · 턱각 · V라인 같은 칸을 크게 걸면 곧은 머리 가닥이 턱선 자리에서 꺾여 보이던 것을 고쳤습니다. 이제 가닥이 매끄럽게 이어집니다.",
+ "version": "0.1.51",
+ "date": "2026.11.13",
+ "notes": "고친 것\n• 몸 탭 › 머리 크기를 줄이거나 여러 칸을 함께 걸 때, 머리가 비켜 간 자리에 옛 잔머리 가닥이 옅은 선으로 남던 것을 고쳤습니다.\n• 몸 탭 › 머리 크기를 줄일 때 머리 옆을 지나던 배경 선이 드러난 자리 가운데에서 끊기던 것을 고쳤습니다. 이제 새 머리 가장자리까지 곧게 이어집니다.\n• 몸 탭 › 목 길이를 줄일 때 턱 아래와 어깨선 둘레가 각지게 꺾이던 것을 고쳤습니다. 이제 목선이 부드럽게 이어집니다.\n• 몸 탭에서 여러 칸을 함께 걸 때 머리카락 가장자리가 끌려 보이던 것을 줄였습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=941862",
- "pkg_size": 68785250,
- "pkg_sha256": "3978289aca64b9e241ac608337a6b5f1062886170430cc2e380cee655df76f3e",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=943111",
+ "pkg_size": 68869186,
+ "pkg_sha256": "be4ba95cec43aa43456bfc5258aeff39ca7b40f5f94fe9c5b963bec5bf68b423",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.31/BEAN-PHOTO-MAC-v0.1.31.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.51/BEAN-PHOTO-MAC-v0.1.51.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
