@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.60",
+ "version": "1.0.62",
  "date": "2026.11.13",
- "notes": "새로 생긴 것\n• 앱 업데이트: 새 판이 있으면 앱 쪽 판 딱지 옆에 [업데이트 새 판] 딱지가 나옵니다. 누르면 받기와 설치가 시작되고, 끝나면 큰 단추가 다시 [실행]이 됩니다.\n• 관리: 큰 단추 오른쪽 톱니 칸을 누르면 그 앱의 관리 차림표가 열립니다.\n\n바뀐 것\n• 깔린 앱은 큰 단추가 늘 [실행]입니다. 받는 동안에는 설치 진행과 남은 시간, [일시 정지]가 보입니다.\n• 빈스테이션 아이콘이 코발트 색으로 바뀌었습니다.\n• 설정 아이콘이 꽉 찬 톱니 모양으로 바뀌었습니다.\n• 상점 상품 상세의 설명이 홈페이지와 같은 꼴로 그림, 기능 격자, 표, 단계 번호까지 함께 보입니다.\n• 상점의 '보유중' 딱지가 더 크고 또렷해졌고, 할인 딱지는 그 아래로 옮겨 겹치지 않습니다.\n• 머리 줄 계정 칸에 마우스를 올리면 옆 단추들과 같이 바탕색만 바뀝니다.\n• 빈라이선스 1.0.2가 함께 설치됩니다.\n\n고친 것\n• 화면 배율 125 · 150 %에서 일부 칸 테두리와 구분선이 옅거나 끊겨 보이던 것을 또렷한 한 줄로 고쳤습니다.\n• 상품 상세 설명이 글만 보이고 그림과 표가 제 꼴로 나오지 않던 것을 고쳤습니다.",
+ "notes": "바뀐 것\n• 상점 상품 상세가 홈페이지와 같은 꼴로 보입니다. 기능은 그림 카드로, 값은 기간별 카드로, 핵심 숫자는 한 줄로 나오고, 긴 목록은 접힌 자세히 상자에 들어 있습니다.\n• 상품 상세에서 상자 안에 상자가 겹쳐 보이던 곳을 한 겹으로 정리했습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=944493",
- "pkg_size": 23774636,
- "pkg_sha256": "d2dda400a40d6577360fcfeb272d1f05d3c4862ea321ee070a3bc851c9345f27",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=945164",
+ "pkg_size": 23781380,
+ "pkg_sha256": "55fcfc5aee6b4566840c9b5c9ebe8d45289407f3d811bd59f1d32ff3d6333d52",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.60/BEAN-STATION-MAC-v1.0.60.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.62/BEAN-STATION-MAC-v1.0.62.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
