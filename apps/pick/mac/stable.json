@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "pick",
- "version": "0.2.101",
+ "version": "0.2.103",
  "date": "2026.11.13",
- "notes": "바뀐 것\n• 유료 PC(맥, 윈도우) 앱은 빈라이선스를 설치해야 라이선스를 활성화할 수 있어요. 빈라이선스는 빈픽 설치 파일에 함께 들어 있어, 빈픽을 처음 켤 때 이 컴퓨터에 준비됩니다(이미 더 새 빈라이선스가 있으면 그대로 씁니다).\n• 로그인과 라이선스 확인을 빈라이선스가 맡습니다. 설정 › 라이선스의 [빈라이선스로 로그인] 을 누르면 빈라이선스 창이 열리고, 거기서 로그인하면 빈픽에 바로 반영됩니다. 로그인한 뒤에는 [빈라이선스 열기] 로 계정 · 보유 라이선스 · 기기를 봅니다. 라이선스 없이 내보내기를 누를 때도 빈라이선스 창이 열립니다.\n• 이 컴퓨터의 다른 BEAN 앱과 같은 로그인을 함께 씁니다. 빈픽에서 쓰던 로그인은 그대로 이어집니다.\n• 빈라이선스가 없을 때는 설정 › 라이선스 맨 위에 설치 안내가 보이고, 지금까지처럼 앱 안에서 로그인할 수 있습니다.",
+ "notes": "바뀐 것\n• 빈라이선스에서 인증 키로도 라이선스를 활성화할 수 있습니다. 빈픽 설치 파일에 새 빈라이선스가 함께 들어 있습니다.\n고친 것\n• 자막 목록과 타임라인 눈금자에서 오른쪽 단추로 연 차림표가 누른 자리에 뜹니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=944267",
- "pkg_size": 50472416,
- "pkg_sha256": "2f56ca16ed8156e47f65f772aee26ea80da8189b99854371b3f830584edd470f",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=944490",
+ "pkg_size": 50544440,
+ "pkg_sha256": "eaabb617d2cfd77e5facb67e586177bcd3240a8557e8d9726e17a496fa63911c",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.101/BEAN-PICK-MAC-v0.2.101.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.103/BEAN-PICK-MAC-v0.2.103.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
