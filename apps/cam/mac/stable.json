@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.137",
+ "version": "0.1.140",
  "date": "2026.11.12",
- "notes": "바뀐 것\n• 창 왼쪽 위 앱 이름 표시를 다른 BEAN 앱과 같은 크기 · 모양으로 맞췄습니다.",
+ "notes": "바뀐 것\n• 카메라 보정이 더 가볍게 돕니다. 보정 단계에 장을 넘기고 기다리는 횟수를 줄이고, 얼굴 분석에 쓰는 장을 베끼지 않고 그대로 넘겨 컴퓨터가 장마다 하는 일이 줄었습니다. 보정 결과는 그대로입니다.\n• 카메라가 장을 몰아 보낼 때(아이폰 연속성 카메라 등) 컴퓨터에 여유가 있으면 장을 놓치지 않고 차례로 보정해 내보냅니다.\n• 오래 켜 두어도 그래픽 메모리가 쌓이지 않게 장마다 다 쓴 것을 바로 정리합니다.\n• 보정을 꺼 두었거나 아무도 화면을 보지 않은 채 15초가 지나면 보정에 쓰던 메모리를 돌려줍니다. 다시 켜면 바로 돕니다.\n• 맥이 뜨거워지면 인공지능 분석을 조금 드물게 돌려 화면이 끊기지 않게 지킵니다.\n• 보정 패널의 탭(피부 · 얼굴형 · 눈코입 · 색감 · 메이크업 · 몸) 위에 마우스를 올리면 그 탭 효과의 작은 전 · 후 그림이 보입니다. 설명서의 보정 절에도 탭마다 전 · 후 그림이 실렸습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939828",
- "pkg_size": 144497774,
- "pkg_sha256": "7dd630085659d646c93d727dee2fa423accfcbb039731c302a75a831a4333146",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=940802",
+ "pkg_size": 144592323,
+ "pkg_sha256": "3bad1f9b4c03ec24cf79f965e0aaffb617c06cebee71288ac514a01b1d9a7208",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.137/BEAN-CAM-MAC-v0.1.137.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-v0.1.140/BEAN-CAM-MAC-v0.1.140.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
