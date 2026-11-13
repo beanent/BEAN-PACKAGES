@@ -1,16 +1,16 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.216",
+ "version": "1.1.218",
  "date": "2026.11.12",
- "notes": "바뀐 것\n• 리전 인스펙터의 묶음(일반 · 소리 · 페이드 · 반복 · 퀀타이즈) 사이에는 진한 선, 묶음 안 줄(이름 · 색 · 위치 등) 사이에는 연한 선이 들어가 칸을 한눈에 나눠 볼 수 있습니다.\n\n고친 것\n• 실시간 파형 볼륨을 켠 채 리전 가장자리 손잡이를 끌면 리전 안 파형이 가장자리를 따라 밀려 보이던 것을 고쳤습니다. 이제 끄는 동안에도 안의 내용은 제자리에 있고 리전 길이만 바뀝니다.\n• 반복 리전의 앞 손잡이를 끌면 반복 경계선과 빗금이 가장자리를 따라 움직이던 것을 고쳤습니다. 경계선은 소리가 실제로 다시 시작되는 자리에 그대로 있습니다.",
+ "notes": "고친 것\n• 라이선스 서버에 잠깐 연결되지 않으면 몇 번 더 자동으로 다시 시도합니다.\n• 그래도 연결되지 않으면 '서버 연결 실패(온라인 필요)' 대신 인터넷 연결과 방화벽 · 백신 프로그램 설정을 확인하라는 안내가 나옵니다. 버그 제보를 보내면 연결되지 않은 까닭이 함께 전달되어 원인을 더 빨리 찾을 수 있습니다.\n• 플러그인 로그인 창과 설정 › 라이선스의 보유 라이선스 자리에서 긴 안내 글이 잘리지 않고 다 보입니다. 목록을 받지 못했을 때 '라이선스가 없습니다'로 보이던 것도 그 까닭이 보이게 고쳤습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=940054",
- "pkg_size": 57058451,
- "pkg_sha256": "acb374334f147aa0bd930fbc5f65a0c6ee2432c54bb8ee7a309ec4f4d8b52dbf",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=942386",
+ "pkg_size": 57073969,
+ "pkg_sha256": "05b7a052d8e8180f75f856ea48dc1eab82b49a534191e882f8380da52933ee3d",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.216/BEAN-MUSE-MAC-v1.1.216.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.218/BEAN-MUSE-MAC-v1.1.218.pkg"
  ],
- "notes_url": "https://beanent.com/bean_muse_news/940055",
+ "notes_url": "https://beanent.com/bean_muse_news/942387",
  "mirror_of": "procBappsCheck"
 }
