@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.220",
+ "version": "1.1.222",
  "date": "2026.11.13",
- "notes": "새 기능\n• 빈라이선스가 함께 설치됩니다. 이 컴퓨터의 BEAN 앱과 다른 DAW 의 BEAN 플러그인이 로그인 · 보유 라이선스 · 기기 관리를 한 창에서 함께 씁니다.\n• 방화벽 · 백신 프로그램에서는 빈라이선스 하나만 허용하면 라이선스 확인이 됩니다. 다른 DAW 안 BEAN 플러그인의 [로그인] 도 빈라이선스 창으로 이어집니다.\n• 설정 › 라이선스에서 [빈라이선스로 로그인] · [빈라이선스 열기] 로 로그인과 보유 라이선스를 봅니다.\n\n고친 것\n• 빈라이선스나 다른 BEAN 앱에서 로그인 · 로그아웃하면 빈뮤즈와 다른 DAW 의 BEAN 플러그인에 바로 반영됩니다.\n• 한 컴퓨터에서 여러 BEAN 앱을 쓰면 기기 수는 앱마다 따로 셉니다.",
+ "notes": "바뀐 것\n• 앱 아이콘을 새로 바꿨습니다. 머리 줄과 설정 › 정보의 로고도 같은 새 그림으로 보입니다.\n• 머리 줄의 [설정] 아이콘이 꽉 찬 톱니바퀴 모양으로 바뀌었습니다.\n• 함께 설치되는 빈라이선스가 1.0.1 로 바뀌었습니다. 첫 화면에서 바로 로그인하고, 로그인 뒤에는 앱마다 보유 라이선스를 펼쳐 봅니다. 빈뮤즈에서 빈라이선스를 열면 창이 맨 앞에 뜹니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=943295",
- "pkg_size": 67371239,
- "pkg_sha256": "de17a59d7ee4101f0997c9f85c4069fcfabfb936fde7ac7faba58a78c0e49089",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=944363",
+ "pkg_size": 60998545,
+ "pkg_sha256": "20a985745e9cea85b31349e7a0b96940961e583466e482d2fd5a33fcd1935676",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.220/BEAN-MUSE-MAC-v1.1.220.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.222/BEAN-MUSE-MAC-v1.1.222.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
