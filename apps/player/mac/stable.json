@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.23",
- "date": "2026.11.12",
- "notes": "바뀐 것\n• 창 왼쪽 위 앱 이름 표시를 다른 BEAN 앱과 같은 크기 · 모양으로 맞췄습니다.",
+ "version": "0.1.26",
+ "date": "2026.11.13",
+ "notes": "바뀐 것\n• 유료 PC(맥, 윈도우) 앱은 빈라이선스를 설치해야 라이선스를 활성화할 수 있어요. 빈라이선스는 빈플레이어 설치 파일에 함께 들어 있어, 빈플레이어를 처음 켤 때 이 컴퓨터에 준비됩니다(이미 더 새 빈라이선스가 있으면 그대로 씁니다).\n• 로그인과 라이선스 확인을 빈라이선스가 맡습니다. 설정 › 라이선스의 [빈라이선스로 로그인] 을 누르면 빈라이선스 창이 열리고, 거기서 로그인하면 빈플레이어에 바로 반영됩니다. 로그인한 뒤에는 [빈라이선스 열기] 로 계정 · 보유 라이선스 · 기기를 봅니다.\n• 이 컴퓨터의 다른 BEAN 앱과 같은 로그인을 함께 씁니다. 빈플레이어에서 쓰던 로그인은 그대로 이어집니다.\n• 빈라이선스가 없을 때는 설정 › 라이선스에 설치 안내가 보이고, 지금까지처럼 앱 안에서 로그인할 수 있습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939967",
- "pkg_size": 21000498,
- "pkg_sha256": "59122f0b91077d3545a1f468f51978a2a4664ca4790de772f9634d70da327b66",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=943762",
+ "pkg_size": 31204622,
+ "pkg_sha256": "42b0d52cab1a20ba6f2223901d77f3c2953e00ba9bfe98abe13cb798531be049",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.23/BEAN-PLAYER-MAC-v0.1.23.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.26/BEAN-PLAYER-MAC-v0.1.26.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
