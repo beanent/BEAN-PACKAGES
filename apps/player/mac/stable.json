@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.28",
- "date": "2026.11.13",
- "notes": "바뀐 것\n• 창을 닫아 상단 메뉴에만 있을 때도 독의 빈플레이어 아이콘을 누르면 창이 다시 열려요. 미니 플레이어를 쓰던 중이면 미니 플레이어가 앞으로 나와요.\n• 설정 아이콘을 꽉 찬 톱니 모양으로 바꿨어요.\n• 함께 들어 있는 빈라이선스를 새 판으로 바꿨어요. 첫 화면에서 바로 로그인하고, 앱마다 보유 라이선스를 펼쳐 볼 수 있으며, 인증 키로도 활성화할 수 있어요.\n\n고친 것\n• 빈라이선스에서 새로 로그인한 뒤 빈플레이어를 켜면 앞의 라이선스 정보로 돌아가던 것을 고쳤어요.\n• 빈플레이어에서 빈라이선스 창을 열 때 창이 다른 창 뒤에 가려지던 것을 고쳤어요.",
+ "version": "0.1.31",
+ "date": "2026.11.14",
+ "notes": "바뀐 것\n• 다크 테마에서 설정 창의 주요 단추와 켠 스위치를 흰 바탕으로 그려 더 또렷하게 보여요. 왼쪽 갈래에서 고른 줄은 짙은 회색 면 그대로예요.\n• 함께 들어 있는 빈라이선스를 새 판으로 바꿨어요.\n\n고친 것\n• 설정 › 라이선스의 안내 글이 중국어 · 태국어에서 칸 밖으로 넘치던 것을 고쳤어요.\n• 빈라이선스에서 라이선스 기한이 날짜 대신 숫자로 보이던 것을 고쳤어요.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=944486",
- "pkg_size": 31317776,
- "pkg_sha256": "7a3b6e226cb10c2e725e2437251154064c114df14b21fde2ae20b4105e3d2c1a",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946077",
+ "pkg_size": 31430088,
+ "pkg_sha256": "6935fcc758f8c003f4f258c66d8cc031ef71837f9c4544744070655ab7e32acd",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.28/BEAN-PLAYER-MAC-v0.1.28.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.31/BEAN-PLAYER-MAC-v0.1.31.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
