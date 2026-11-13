@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.65",
+ "version": "1.0.67",
  "date": "2026.11.13",
- "notes": "바뀐 것\n• 맥에서 앱을 설치하거나 업데이트할 때 설치 프로그램 창이나 관리자 암호 없이 빈스테이션 안에서 바로 끝나요. 받은 설치 파일의 크기와 서명, 공증을 확인한 뒤에 깔아요.\n• 켜져 있던 앱을 업데이트하면 앱을 끝내고 새 판으로 바꾼 뒤 다시 켜 줘요.\n• 예전에 맥 설치 프로그램으로 깐 앱처럼 바로 바꿀 수 없을 때는 알려 드리고, [설치 프로그램 열기]를 누르면 맥 설치 프로그램으로 이어서 설치해요.\n• 앱 목록에서 빈포토, 빈라이브, 빈캠, 빈보이스 아이콘과 색을 새 모양으로 바꿨어요.\n• 함께 들어 있는 빈라이선스를 1.0.5 로 바꿨어요.\n\n고친 것\n• 다크 모드에서 주 단추와 고른 탭이 더 또렷하게 보여요.",
+ "notes": "고친 것\n• 빈스테이션을 처음 켰을 때 아직 안정판이 없는 앱이 설치할 수 있는데도 '준비 중'으로 보이던 문제를 고쳤어요.\n• Nightly 로 받기로 정해 둔 앱이 처음 켤 때 안정판 기준으로 보이던 문제를 고쳤어요.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=945895",
- "pkg_size": 23906650,
- "pkg_sha256": "821911731398cce768eb6e04256d617879c63af6c3ae797062eeaec928b5deb1",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=945902",
+ "pkg_size": 23908084,
+ "pkg_sha256": "3e91dd8d5f7ddbd3ef1760b74041901bb2499784f0f32e4abe44be458e71834d",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.65/BEAN-STATION-MAC-v1.0.65.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.67/BEAN-STATION-MAC-v1.0.67.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
