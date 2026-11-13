@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.64",
+ "version": "1.0.65",
  "date": "2026.11.13",
- "notes": "새로 생긴 것\n• 빈라이선스 업데이트: 홈 화면 빈라이선스 카드에 새 판이 있으면 [업데이트]와 [열기] 단추가 함께 나옵니다. [업데이트]를 누르면 카드 안에서 받고 설치까지 끝나며, 다 되면 [열기] 하나로 돌아옵니다.\n\n바뀐 것\n• 빈라이선스 1.0.4가 함께 설치됩니다.\n\n고친 것\n• 상단 메뉴 막대 빈스테이션 차림표에서 [열기]나 [작게 보기]를 눌러도 창이 앞으로 나오지 않던 것을 고쳤습니다. 숨긴 창, 닫은 창, 내려 둔 창 모두 바로 앞으로 나옵니다.",
+ "notes": "바뀐 것\n• 맥에서 앱을 설치하거나 업데이트할 때 설치 프로그램 창이나 관리자 암호 없이 빈스테이션 안에서 바로 끝나요. 받은 설치 파일의 크기와 서명, 공증을 확인한 뒤에 깔아요.\n• 켜져 있던 앱을 업데이트하면 앱을 끝내고 새 판으로 바꾼 뒤 다시 켜 줘요.\n• 예전에 맥 설치 프로그램으로 깐 앱처럼 바로 바꿀 수 없을 때는 알려 드리고, [설치 프로그램 열기]를 누르면 맥 설치 프로그램으로 이어서 설치해요.\n• 앱 목록에서 빈포토, 빈라이브, 빈캠, 빈보이스 아이콘과 색을 새 모양으로 바꿨어요.\n• 함께 들어 있는 빈라이선스를 1.0.5 로 바꿨어요.\n\n고친 것\n• 다크 모드에서 주 단추와 고른 탭이 더 또렷하게 보여요.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=945496",
- "pkg_size": 23837482,
- "pkg_sha256": "651847f8aca4391936f13287ab31d0b81ca07dfe42194b55c1acaa7cb40bfb45",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=945895",
+ "pkg_size": 23906650,
+ "pkg_sha256": "821911731398cce768eb6e04256d617879c63af6c3ae797062eeaec928b5deb1",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.64/BEAN-STATION-MAC-v1.0.64.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-v1.0.65/BEAN-STATION-MAC-v1.0.65.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
