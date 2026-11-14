@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.205",
+ "version": "0.1.207",
  "date": "2026.11.15",
- "notes": "바뀐 것\n• 설정 아이콘이 꽉 찬 톱니바퀴 모양으로 바뀌었습니다.\n• 어두운 테마에서 고른 탭 · 알림 · 도움말 말풍선이 흰 바탕에 짙은 글자로 또렷하게 보입니다.\n\n고친 것\n• 125 · 150 % 화면에서 차림표 사이 선 · 설정 탭 아래 선 · 날짜 구분선 · 로그인 화면 세로 선이 두 줄로 두껍게 보이던 것을 한 줄로 바로잡았습니다.\n• 최근 채팅방이 비어 있을 때 대시보드에 빈 칸이 두꺼운 선으로 남던 것을 바로잡았습니다.\n• 내가 글을 보내는 사이에 다른 사람이 보낸 글이 방을 다시 열 때까지 안 보이던 것을 바로잡았습니다. 이제 바로 보이고, 보낸 차례대로 놓입니다.",
+ "notes": "고친 것\n• 로그인 화면에 경고나 오류 줄이 보일 때 창이 내용에 맞게 커져서, 로그인 단추가 잘리거나 스크롤이 생기지 않습니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=947689",
- "exe_size": 14789080,
- "exe_sha256": "037c151e6d857cbfc67e3b4e8ee8f39ecee6c4edd099a26f83e341a6cff8807b",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=948456",
+ "exe_size": 14795408,
+ "exe_sha256": "aa0abb134a851e176db276d300b77625c2bd03f46315e85293897e279e8d2e31",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.205/BEAN-TALK-WIN-v0.1.205.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.207/BEAN-TALK-WIN-v0.1.207.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
