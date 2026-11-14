@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "pick",
- "version": "0.2.106",
+ "version": "0.2.109",
  "date": "2026.11.14",
- "notes": "바뀐 것\n• 다크 모드에서 고른 탭과 주 단추가 흰 바탕에 짙은 글로 바뀌어 한눈에 더 또렷하게 보입니다. 직접 고른 강조색은 그대로입니다.\n• 얼굴 보정 판의 탭에 마우스를 올리면 그 묶음을 걸기 전 · 건 뒤 견본 그림이 작게 보입니다.\n• 얼굴 보정의 피부 매끈하게가 앞머리 · 잔머리 · 눈썹 털을 지켜, 눈썹이 옅고 흐릿해지지 않습니다.\n• 얼굴 보정이 그늘 진 턱선 · 귀 앞 · 이마 가장자리 피부까지 고르게 닿습니다.\n• 빈픽 설치 파일에 든 빈라이선스가 새 판으로 바뀌어, 라이선스 기한이 '2027년 9월 6일까지'처럼 읽기 쉬운 날짜로 보입니다.\n\n고친 것\n• 소리 바 차림표의 싱크 맞추기를 원본 소리를 불러오기 전에 눌러도, 이제 소리를 먼저 불러온 뒤 이어서 맞춥니다. 다른 일을 하는 중이면 그 까닭을 알려 줍니다.\n• 얼굴 이름표('사람 1')가 영상 가장자리에서 잘리지 않고 영상 안쪽에 보입니다.\n• 얼굴 분석이 장면이 바뀌는 곳에서 구간을 나눠, 컷마다 번갈아 나오는 다른 사람을 한 사람으로 묶던 것을 고쳤습니다.\n• 펼친 설정 칸 머리 아래 · 요소 목록 마지막 줄 아래 · 왼쪽 목록 픽 묶음 끝의 구분선이 두 줄로 보이던 것을 한 줄로 고쳤습니다.\n• 설정 › 라이선스 안내 글이 중국어 · 태국어에서도 칸 안에서 줄이 바뀝니다.",
+ "notes": "바뀐 것\n• 재생줄을 쉬지 않고 끄는 동안에도 편집 화면이 끄는 자리의 장면을 매끄럽게 따라 보여 줍니다. 손을 놓으면 그 자리 장면이 바로 보입니다.\n• 빈픽을 켜는 시간이 짧아지고, 켠 직후 화면이 잠깐 멈칫하던 것이 줄었습니다.\n• 타임라인에 깔리는 장면 그림과 편집 화면이 함께 장면을 불러올 때 더 빨리 뜨고, 원본 영상을 바꿀 때 화면이 멈칫하지 않습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946058",
- "pkg_size": 50866746,
- "pkg_sha256": "92fa6f42ef038452803cb47e039a9a5b2954df9bf5e99b2e719191fa6c11dbb3",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946519",
+ "pkg_size": 50920179,
+ "pkg_sha256": "b64b04e64e6a253b02119170ebb0d047559e4dcea173f7fc91e8fa9680577325",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.106/BEAN-PICK-MAC-v0.2.106.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.109/BEAN-PICK-MAC-v0.2.109.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
