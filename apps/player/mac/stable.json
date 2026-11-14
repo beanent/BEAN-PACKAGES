@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.31",
+ "version": "0.1.33",
  "date": "2026.11.14",
- "notes": "바뀐 것\n• 다크 테마에서 설정 창의 주요 단추와 켠 스위치를 흰 바탕으로 그려 더 또렷하게 보여요. 왼쪽 갈래에서 고른 줄은 짙은 회색 면 그대로예요.\n• 함께 들어 있는 빈라이선스를 새 판으로 바꿨어요.\n\n고친 것\n• 설정 › 라이선스의 안내 글이 중국어 · 태국어에서 칸 밖으로 넘치던 것을 고쳤어요.\n• 빈라이선스에서 라이선스 기한이 날짜 대신 숫자로 보이던 것을 고쳤어요.",
+ "notes": "바뀐 것\n• 폴더를 읽어 보관함에 넣는 일이 훨씬 빨라졌어요. 곡이 많은 폴더도 금방 목록에 보여요.\n• 앨범 표지가 더 빨리 보이고, 곡을 넘기거나 재생 위치를 옮길 때 소리가 더 빨리 나와요.\n• 곡이 넘어갈 때 앨범 표지와 강조색이 새 곡 제목과 함께 바로 바뀌어요.\n\n고친 것\n• 3초보다 짧은 곡이 이어질 때 곡 사이가 잠깐 끊기던 것을 고쳤어요. 짧은 곡도 틈 없이 이어 들려요.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946077",
- "pkg_size": 31430088,
- "pkg_sha256": "6935fcc758f8c003f4f258c66d8cc031ef71837f9c4544744070655ab7e32acd",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946505",
+ "pkg_size": 31506567,
+ "pkg_sha256": "8d990310d9fb0be580cb43c5d89cfd956440f7886e12dd43340018021012d84f",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.31/BEAN-PLAYER-MAC-v0.1.31.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.33/BEAN-PLAYER-MAC-v0.1.33.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
