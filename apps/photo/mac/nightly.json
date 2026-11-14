@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.55",
+ "version": "0.1.57",
  "date": "2026.11.14",
- "notes": "바뀐 것\n• 앱 아이콘이 새 모양(호박색 바탕에 흰 사진 표시)으로 바뀌었습니다. 기본 강조색도 아이콘과 같은 호박색입니다.\n• 다크 테마에서 저장 같은 주 단추와 진행 막대가 흰색으로 더 또렷하게 보입니다.\n\n고친 것\n• 메이크업 › 속눈썹을 진하게 걸 때 눈 흰자가 잿빛으로 물들던 것을 고쳤습니다. 보이는 속눈썹은 그대로입니다.\n• 메이크업 › 립스틱 칸을 끄는 동안 화면이 손을 따라 더 매끄럽게 바뀝니다. 사람이 여럿인 사진이나 한 사람을 골라 다듬을 때도 같습니다.\n• 몸 탭 칸을 끄는 동안 화면이 더 매끄럽게 따라오고, 사람 둘레 배경이 끈 것에 더 가깝게 깨끗이 남습니다.",
+ "notes": "고친 것\n• 프리셋 저장 창에서 묶음을 펴거나 접으면 창 위아래와 빈 곳에 뒤 화면 조각과 옛 창 테두리가 겹쳐 보이던 것을 고쳤습니다. 이제 창은 언제나 한 겹으로 깨끗하게 보입니다. 고른 사진에 입힐 항목을 고르는 창도 같습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946043",
- "pkg_size": 79313591,
- "pkg_sha256": "04bd956013173f0dd73e945b68d52200390e359976c0cc2d7401c7c076e3f162",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946216",
+ "pkg_size": 79321397,
+ "pkg_sha256": "3f0c0ed8db48ae5b6b6020ed839fd89f59ecf1ffef9a69e6b28752714060de14",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.55/BEAN-PHOTO-MAC-v0.1.55.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.57/BEAN-PHOTO-MAC-v0.1.57.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
