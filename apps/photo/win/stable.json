@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.58",
+ "version": "0.1.59",
  "date": "2026.11.14",
- "notes": "고친 것\n• 프리셋 저장 창에서 묶음을 펴거나 접으면 창 위아래와 빈 곳에 뒤 화면 조각과 옛 창 테두리가 겹쳐 보이던 것을 고쳤습니다. 이제 창은 언제나 한 겹으로 깨끗하게 보입니다. 고른 사진에 입힐 항목을 고르는 창도 같습니다.",
+ "notes": "바뀐 것\n• 보관함을 처음 열거나 굴릴 때 보이는 사진의 썸네일이 더 빨리 채워집니다.\n• 편집에서 아래 사진 목록으로 사진을 넘기거나 보정 붙이기 · 프리셋을 입힐 때 더 빨리 반응합니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946233",
- "exe_size": 57640312,
- "exe_sha256": "2558df96f397fab6e9e62a46120e9b1b8f4ac6f55b98c94eea893e57292a4eb5",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946499",
+ "exe_size": 57648224,
+ "exe_sha256": "c623f4bd123f6260f41c995a6638703609c08118263e918ed346b987702cd253",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.58/BEAN-PHOTO-WIN-v0.1.58.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.59/BEAN-PHOTO-WIN-v0.1.59.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
