@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.201",
- "date": "2026.11.12",
- "notes": "고친 것\n• 안 읽은 메시지 수 딱지의 숫자가 125 · 150 % 화면에서 딱지가 놓인 자리와 상관없이 세로 가운데에 섭니다. 방 목록 아래쪽 딱지에서 숫자가 위나 아래로 살짝 치우쳐 보이던 것을 바로잡았습니다.",
+ "version": "0.1.203",
+ "date": "2026.11.14",
+ "notes": "바뀐 것\n• 자동 로그인으로 켤 때 채팅방 목록이 더 빨리 뜹니다.\n• 이미 들어가 있던 채팅방을 열 때 대화가 더 빨리 보입니다.\n\n고친 것\n• 미디어 기능 팩이 없는 윈도우(N · KN 판)에서도 빈톡이 켜지고 채팅과 음성 통화를 쓸 수 있습니다. 영상 통화와 화면 공유는 미디어 기능 팩을 설치하면 쓸 수 있고, 창 안 알림의 [설치 방법] 을 누르면 마이크로소프트 설치 안내가 열립니다.\n• 업데이트를 받을 때 디스크 공간이 모자라 설치 파일이 끝까지 저장되지 않았으면 받기 실패로 알려 줍니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=942103",
- "exe_size": 14779704,
- "exe_sha256": "126a2ec141e4d581a6b9fa268c78b77cdc609ae74fd62211d8c6484744f05e8a",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946365",
+ "exe_size": 14787072,
+ "exe_sha256": "04a60441efa62cb0d87a717868b85c15f495ddcca4c7411f571ebbc5f11125c2",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.201/BEAN-TALK-WIN-v0.1.201.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.203/BEAN-TALK-WIN-v0.1.203.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
