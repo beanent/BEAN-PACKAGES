@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.56",
+ "version": "0.1.58",
  "date": "2026.11.14",
- "notes": "바뀐 것\n• 다크 테마에서 저장 같은 주 단추와 진행 막대가 흰색으로 더 또렷하게 보입니다.\n\n고친 것\n• 화면 배율 125 · 150 % 에서 함께 쓰는 단추([되돌리기 | 다시] 등) 묶음의 위 · 아래 테두리가 맞닿는 자리에서 끊겨 보이던 것을 고쳤습니다. 1px 선과 테두리가 소수 배율에서도 한 줄로 또렷합니다.",
+ "notes": "고친 것\n• 프리셋 저장 창에서 묶음을 펴거나 접으면 창 위아래와 빈 곳에 뒤 화면 조각과 옛 창 테두리가 겹쳐 보이던 것을 고쳤습니다. 이제 창은 언제나 한 겹으로 깨끗하게 보입니다. 고른 사진에 입힐 항목을 고르는 창도 같습니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946052",
- "exe_size": 57631456,
- "exe_sha256": "9d01dbedd7ceb0da87011573f049e8dd9bf590f94861cf24382cc9c500fc975c",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946233",
+ "exe_size": 57640312,
+ "exe_sha256": "2558df96f397fab6e9e62a46120e9b1b8f4ac6f55b98c94eea893e57292a4eb5",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.56/BEAN-PHOTO-WIN-v0.1.56.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-v0.1.58/BEAN-PHOTO-WIN-v0.1.58.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
