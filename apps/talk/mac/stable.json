@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.200",
- "date": "2026.11.12",
- "notes": "0.1.200 (2026-11-12) · 맥\n\n고친 것\n• 안 읽은 메시지 수 딱지의 숫자가 125 · 150 % 화면에서 딱지가 놓인 자리와 상관없이 세로 가운데에 섭니다. 방 목록 아래쪽 딱지에서 숫자가 위나 아래로 살짝 치우쳐 보이던 것을 바로잡았습니다.",
+ "version": "0.1.204",
+ "date": "2026.11.14",
+ "notes": "0.1.204 (2026-11-14) · 맥\n\n바뀐 것\n• 자동 로그인으로 켤 때 채팅방 목록이 더 빨리 뜹니다.\n• 이미 들어가 있던 채팅방을 열 때 대화가 더 빨리 보입니다.\n• 메시지가 한꺼번에 많이 들어올 때도 화면이 막힘 없이 따라옵니다.\n• 설정 아이콘이 꽉 찬 톱니바퀴 모양으로 바뀌었습니다.\n• 어두운 테마에서 고른 탭 · 알림 · 도움말 말풍선이 흰 바탕에 짙은 글자로 또렷하게 보입니다.\n\n고친 것\n• 125 · 150 % 화면에서 차림표 사이 선 · 설정 탭 아래 선 · 날짜 구분선 · 로그인 화면 세로 선이 두 줄로 두껍게 보이던 것을 한 줄로 바로잡았습니다.\n• 최근 채팅방이 비어 있을 때 대시보드에 빈 칸이 두꺼운 선으로 남던 것을 바로잡았습니다.\n• 메뉴 막대에서 [열기]를 누르면 창이 다른 앱 창 위로 확실히 올라옵니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=942007",
- "pkg_size": 27377617,
- "pkg_sha256": "d805c50d775dc35ac39a578d4a70f4d1c3428fb313ba127c9ec179cb2cef151f",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946502",
+ "pkg_size": 27381098,
+ "pkg_sha256": "e2d04dded6584f65301ee1b22cf26310e1d89c4995b380741bd51a9f28d83a88",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.200/BEAN-TALK-MAC-v0.1.200.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.204/BEAN-TALK-MAC-v0.1.204.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
