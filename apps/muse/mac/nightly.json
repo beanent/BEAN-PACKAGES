@@ -1,15 +1,16 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.228",
+ "version": "1.1.227",
  "date": "2026.11.14",
- "notes": "고친 것\n• AI 기능 패키지가 인서트 플러그인 목록에 잘못 보이던 것을 고쳤습니다. 예전에 인서트 칸에 들어간 AI 기능 패키지가 빨간 경고 칸으로 보이던 것도 함께 고쳤습니다(소리는 그대로입니다).\n• 인서트 플러그인 목록에 가상악기가 함께 보이던 것을 고쳤습니다. 가상악기는 미디 트랙의 '가상악기 선택'에서 고릅니다.",
+ "notes": "바뀐 것\n• 리전이 많은 큰 프로젝트를 훨씬 빨리 엽니다. 파형을 뒤에서 미리 만들어 열기를 기다리는 시간과 쓰는 메모리가 줄었습니다.\n• 인서트 플러그인이 걸린 오디오 트랙을 재생할 때 소리 처리가 더 안정적입니다.\n\n고친 것\n• 대시보드 왼쪽 메뉴 위에 뜨던 빈 띠를 없앴습니다.\n• 창을 낮게 줄였을 때 대시보드 왼쪽 메뉴 아래가 계정 칸에 가려지던 것과, 테마를 바꾼 뒤 계정 칸 글자 색이 바로 바뀌지 않던 것을 고쳤습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=947105",
- "pkg_size": 61432519,
- "pkg_sha256": "97a9e42428de8fca7dbe5b15ca5e35839e6fe5c121a00b079ef3e50647159e89",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946512",
+ "pkg_size": 61378531,
+ "pkg_sha256": "8af2e8f4a1443a0ea9d0a2920ba0e7a38975fa3e6e9ff6f31c8b85d6dc189d3d",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.228/BEAN-MUSE-MAC-v1.1.228.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-v1.1.227/BEAN-MUSE-MAC-v1.1.227.pkg"
  ],
+ "notes_url": "https://beanent.com/bean_muse_news/946514",
  "mirror_of": "procBappsCheck"
 }
