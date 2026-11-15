@@ -1,0 +1,125 @@
+{
+ "format": "bean-app-models-v1",
+ "app": "pick",
+ "os": "win",
+ "app_version": "0.2.108",
+ "source": "BeanPick f54e42c Source/Core/FaceModels.cpp Source/Core/AsrLocal.cpp",
+ "base": "Application Support",
+ "files": [
+  {
+   "path": "BEAN/models/face_v1/face_detection_yunet.onnx",
+   "bytes": 232589,
+   "sha256": "8f2383e4dd3cfbb4553ea8718107fc0423210dc964f9f4280604804ed2552fa4",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-face_detection_yunet.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/face_detection_yunet.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/face_detector.onnx",
+   "bytes": 418461,
+   "sha256": "908b6742d2b4d2db749d89871a8709235369bb55ff17e71f5fca5d58db700617",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-face_detector.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/face_detector.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/face_landmarks_detector.onnx",
+   "bytes": 4921002,
+   "sha256": "9f6eea1f1afd55667ee845c50dde3bdcc4dd17f7c0e828bffff172031d9691f4",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-face_landmarks_detector.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/face_landmarks_detector.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/face_recognition_sface.onnx",
+   "bytes": 38696353,
+   "sha256": "0ba9fbfa01b5270c96627c4ef784da859931e02f04419c829e83484087c34e79",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-face_recognition_sface.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/face_recognition_sface.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/selfie_multiclass.onnx",
+   "bytes": 16454494,
+   "sha256": "732c1b81d06938fe1a5ee8bcc30b38630cff8281bfda88cc5f2d7ef11cdb7b8a",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-selfie_multiclass.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/selfie_multiclass.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/hand_detector.onnx",
+   "bytes": 4589374,
+   "sha256": "e53a74609dcd0d04aa02ea4609a32a5a76771b61eb2beac9f08a0524bb93950f",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-hand_detector.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/hand_detector.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/hand_landmarks.onnx",
+   "bytes": 10903207,
+   "sha256": "da97e167cf9a17fd44b60a88639cf327ecae44effe970cb143ea133f5d77dca9",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-hand_landmarks.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/hand_landmarks.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/skin_unet.onnx",
+   "bytes": 53564613,
+   "sha256": "fe71a87cb09eb0910d758ba838903228c8576ba6b8b2d7560df123c29bbe1fe3",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-skin_unet.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/skin_unet.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/blemish_detector.onnx",
+   "bytes": 72134132,
+   "sha256": "05a8c040571368a7725cef4814b838c60ad258c9ad0716ecc6fa37f070033efe",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-blemish_detector.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/blemish_detector.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/MODELS.txt",
+   "bytes": 13879,
+   "sha256": "5a97624f9fe4e8726c6897a20e28c94ee6a1cc8c3ac9f01e0e5fb0703e2a57c6",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-MODELS.txt",
+    "https://beanent.com/files/bapps/models/face_v1/MODELS.txt"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/ggml-large-v3-turbo-q5_0.bin",
+   "bytes": 574041195,
+   "sha256": "394221709cd5ad1f40c46e6031ca61bce88931e6e088c188294c6d5a55ffa7e2",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/asr-whisper-ggml-5359861/ggml-large-v3-turbo-q5_0.bin",
+    "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-large-v3-turbo-q5_0.bin?download=true"
+   ],
+   "required": true,
+   "alt": [
+    "BEAN AutoCut/models/ggml-large-v3-turbo-q5_0.bin",
+    "BEAN AUTOCUT/models/ggml-large-v3-turbo-q5_0.bin"
+   ]
+  }
+ ],
+ "total_bytes": 775969299
+}
