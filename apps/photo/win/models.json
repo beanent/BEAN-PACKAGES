@@ -1,0 +1,291 @@
+{
+ "format": "bean-app-models-v1",
+ "app": "photo",
+ "os": "win",
+ "app_version": "0.1.59",
+ "source": "BeanPhoto 23668c4 Source/Retouch/PhotoModels.cpp",
+ "base": "Application Support",
+ "files": [
+  {
+   "path": "BEAN/models/face_v1/face_detection_yunet.onnx",
+   "bytes": 232589,
+   "sha256": "8f2383e4dd3cfbb4553ea8718107fc0423210dc964f9f4280604804ed2552fa4",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-face_detection_yunet.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/face_detection_yunet.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/face_detector.onnx",
+   "bytes": 418461,
+   "sha256": "908b6742d2b4d2db749d89871a8709235369bb55ff17e71f5fca5d58db700617",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-face_detector.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/face_detector.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/face_landmarks_detector.onnx",
+   "bytes": 4921002,
+   "sha256": "9f6eea1f1afd55667ee845c50dde3bdcc4dd17f7c0e828bffff172031d9691f4",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-face_landmarks_detector.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/face_landmarks_detector.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/selfie_multiclass.onnx",
+   "bytes": 16454494,
+   "sha256": "732c1b81d06938fe1a5ee8bcc30b38630cff8281bfda88cc5f2d7ef11cdb7b8a",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-selfie_multiclass.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/selfie_multiclass.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/hand_detector.onnx",
+   "bytes": 4589374,
+   "sha256": "e53a74609dcd0d04aa02ea4609a32a5a76771b61eb2beac9f08a0524bb93950f",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-hand_detector.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/hand_detector.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/hand_landmarks.onnx",
+   "bytes": 10903207,
+   "sha256": "da97e167cf9a17fd44b60a88639cf327ecae44effe970cb143ea133f5d77dca9",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-hand_landmarks.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/hand_landmarks.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/face_recognition_sface.onnx",
+   "bytes": 38696353,
+   "sha256": "0ba9fbfa01b5270c96627c4ef784da859931e02f04419c829e83484087c34e79",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-face_recognition_sface.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/face_recognition_sface.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/skin_unet.onnx",
+   "bytes": 53564613,
+   "sha256": "fe71a87cb09eb0910d758ba838903228c8576ba6b8b2d7560df123c29bbe1fe3",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-skin_unet.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/skin_unet.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/blemish_detector.onnx",
+   "bytes": 72134132,
+   "sha256": "05a8c040571368a7725cef4814b838c60ad258c9ad0716ecc6fa37f070033efe",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-blemish_detector.onnx",
+    "https://beanent.com/files/bapps/models/face_v1/blemish_detector.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/face_v1/MODELS.txt",
+   "bytes": 13879,
+   "sha256": "5a97624f9fe4e8726c6897a20e28c94ee6a1cc8c3ac9f01e0e5fb0703e2a57c6",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/face_v1-MODELS.txt",
+    "https://beanent.com/files/bapps/models/face_v1/MODELS.txt"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/inpaint_v1/lama_fp32.onnx",
+   "bytes": 208044816,
+   "sha256": "1faef5301d78db7dda502fe59966957ec4b79dd64e16f03ed96913c7a4eb68d6",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/inpaint_v1-lama_fp32.onnx",
+    "https://beanent.com/files/bapps/models/inpaint_v1/lama_fp32.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/inpaint_v1/INPAINT_MODELS.txt",
+   "bytes": 1120,
+   "sha256": "94d18d0ea5f78e4938d55e7a766577ae84bce65d4c421fce856f7fe6e6bf833d",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/inpaint_v1-INPAINT_MODELS.txt",
+    "https://beanent.com/files/bapps/models/inpaint_v1/INPAINT_MODELS.txt"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/inpaint_v1/lama_fp32_dml.onnx",
+   "bytes": 209153309,
+   "sha256": "659b3f78969cb4186a12b7f80d8c9e60d74f16bea7711be0e034f53e3283916b",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/inpaint_v1-lama_fp32_dml.onnx",
+    "https://beanent.com/files/bapps/models/inpaint_v1/lama_fp32_dml.onnx"
+   ],
+   "required": false
+  },
+  {
+   "path": "BEAN/models/photo_v1/segface_convnext512.onnx",
+   "bytes": 367744778,
+   "sha256": "7dc4988845f2fb2aebd3c21fc3dafeec78c13a0b4943a71d92666fd3923a78bf",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/photo_v1-segface_convnext512.onnx",
+    "https://beanent.com/files/bapps/models/photo_v1/segface_convnext512.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/photo_v1/birefnet_lite_matting_512.onnx",
+   "bytes": 183150460,
+   "sha256": "fa1a4dffccebb135551b65c2532a9b8d007be43f23ecdef4afe8c0a815671685",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/photo_v1-birefnet_lite_matting_512.onnx",
+    "https://beanent.com/files/bapps/models/photo_v1/birefnet_lite_matting_512.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/photo_v1/birefnet_lite_matting_512_dml.onnx",
+   "bytes": 189138027,
+   "sha256": "42a3952018824ca4d9b810e11f21dbe20e6576794a7e2c9a3ec170e16bdee877",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/photo_v1-birefnet_lite_matting_512_dml.onnx",
+    "https://beanent.com/files/bapps/models/photo_v1/birefnet_lite_matting_512_dml.onnx"
+   ],
+   "required": false
+  },
+  {
+   "path": "BEAN/models/photo_v1/sam2.1_bplus_encoder.onnx",
+   "bytes": 277383700,
+   "sha256": "eefc15c2624b809037d72358fb6ff9a729eab46d8cd3d9dd9b351e227deab822",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/photo_v1-sam2.1_bplus_encoder.onnx",
+    "https://beanent.com/files/bapps/models/photo_v1/sam2.1_bplus_encoder.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/photo_v1/sam2.1_bplus_decoder.onnx",
+   "bytes": 16557107,
+   "sha256": "ff37d76f146d9948d6c5befa036f8c46996b8804db16e7e6a928426bfe5c73fb",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/photo_v1-sam2.1_bplus_decoder.onnx",
+    "https://beanent.com/files/bapps/models/photo_v1/sam2.1_bplus_decoder.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/photo_v1/ddcolor_tiny512.onnx",
+   "bytes": 270255132,
+   "sha256": "c36e265204014f626579b7ce6b0232889157a3033fbf132f02e7308a6f782686",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/photo_v1-ddcolor_tiny512.onnx",
+    "https://beanent.com/files/bapps/models/photo_v1/ddcolor_tiny512.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/photo_v1/gaterv3_restore_1x.onnx",
+   "bytes": 86479898,
+   "sha256": "7ba269f0d01226966bd78e3a9bd675084c20fbf707d743cdb1a3d3acc78a338a",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/photo_v1-gaterv3_restore_1x.onnx",
+    "https://beanent.com/files/bapps/models/photo_v1/gaterv3_restore_1x.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/photo_v1/gaterv3_sharpen_1x.onnx",
+   "bytes": 86479898,
+   "sha256": "0cbbea02a307197c70892dce03df9c5ca5c076a22695e90a98369b3a5d62dc9a",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/photo_v1-gaterv3_sharpen_1x.onnx",
+    "https://beanent.com/files/bapps/models/photo_v1/gaterv3_sharpen_1x.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/photo_v1/realplksr_4x.onnx",
+   "bytes": 29923196,
+   "sha256": "93bb899cfa0a3f187a2996373978adfd8420df2538d4b31e2fcf321bafb7d839",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/photo_v1-realplksr_4x.onnx",
+    "https://beanent.com/files/bapps/models/photo_v1/realplksr_4x.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/photo_v1/dwpose_l_384.onnx",
+   "bytes": 134411038,
+   "sha256": "d4df9bc9ea3ec3564a114b6f846a7987804a36e5fb40b8363ccde5c57c851ae4",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/photo_v1-dwpose_l_384.onnx",
+    "https://beanent.com/files/bapps/models/photo_v1/dwpose_l_384.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/photo_v1/PHOTO_MODELS.txt",
+   "bytes": 18131,
+   "sha256": "7d52da0efe76cec5ef44fd8acf0c531e154392e618a21e952b0afdd3671bfe5e",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/photo_v1-PHOTO_MODELS.txt",
+    "https://beanent.com/files/bapps/models/photo_v1/PHOTO_MODELS.txt"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/detect_v1/dfine_nano_coco.onnx",
+   "bytes": 15433007,
+   "sha256": "f6645ea14b85444cda415c48915488f7439ad0cf96da49ac3917f0607b82a5b4",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/detect_v1-dfine_nano_coco.onnx",
+    "https://beanent.com/files/bapps/models/detect_v1/dfine_nano_coco.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/detect_v1/DETECT_MODELS.txt",
+   "bytes": 614,
+   "sha256": "86652afb8924eec6d064c6228aea567902943f77373d468811b5a71120b305d7",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/detect_v1-DETECT_MODELS.txt",
+    "https://beanent.com/files/bapps/models/detect_v1/DETECT_MODELS.txt"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/people_v1/face_blendshapes.onnx",
+   "bytes": 1883811,
+   "sha256": "eed2c2fe36734d830e10b178782ba917a229442cb55cf61af19fd85a9ef18585",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/people_v1-face_blendshapes.onnx",
+    "https://beanent.com/files/bapps/models/people_v1/face_blendshapes.onnx"
+   ],
+   "required": true
+  },
+  {
+   "path": "BEAN/models/people_v1/PEOPLE_MODELS.txt",
+   "bytes": 12675,
+   "sha256": "db8b023960b1e84c0a2d05d66ca008864e8c1a481b3c80f352b115ce64e41da9",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/people_v1-PEOPLE_MODELS.txt",
+    "https://beanent.com/files/bapps/models/people_v1/PEOPLE_MODELS.txt"
+   ],
+   "required": true
+  }
+ ],
+ "total_bytes": 2277998821
+}
