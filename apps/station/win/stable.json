@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.71",
+ "version": "1.0.72",
  "date": "2026.11.15",
- "notes": "고친 것\n• 로그인과 라이선스 확인이 인증 서버가 늦게 답할 때도 오래 기다리지 않고 빨리 끝나요.",
+ "notes": "새로 생긴 것\n• 빈스테이션에서 빈포토 · 빈픽처럼 AI 모델을 쓰는 앱을 깔면 그 앱의 AI 모델도 함께 받아요. 앱을 업데이트할 때 빠진 모델이 있으면 그때 같이 받고, 이미 받아 둔 모델은 다시 받지 않아요. 받는 동안은 그 앱 칸에 진행이 보이고, 받지 못하면 [다시 시도]로 모델만 다시 받을 수 있어요. 앱은 켜자마자 AI 기능을 바로 쓸 수 있어요.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=950588",
- "exe_size": 21193648,
- "exe_sha256": "3dd0ded8e2b7f2c137a530f8aa294b78af00cd810fe4373c02f80161ac12d2f4",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=950663",
+ "exe_size": 21218816,
+ "exe_sha256": "656d114ffa5e55939085b22d5efbd8ac025aea02ef56f8a1e54b18cb6f1d1fb7",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-win-v1.0.71/BEAN-STATION-WIN-v1.0.71.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-win-v1.0.72/BEAN-STATION-WIN-v1.0.72.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
