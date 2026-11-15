@@ -2,8 +2,8 @@
  "format": "bean-app-models-v1",
  "app": "photo",
  "os": "mac",
- "app_version": "0.1.60",
- "source": "BeanPhoto 23668c4 Source/Retouch/PhotoModels.cpp",
+ "app_version": "0.1.61",
+ "source": "BeanPhoto bd87785 Source/Retouch/PhotoModels.cpp",
  "base": "Application Support",
  "files": [
   {
@@ -267,6 +267,36 @@
    "required": true
   },
   {
+   "path": "BEAN/models/hair_v1/vitmatte_s_d646_1024.onnx",
+   "bytes": 103926904,
+   "sha256": "e0b5f9da49cede7af1166dae33535a0346df6c0aecdb5c4bb66a1aac0aa86ccc",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/hair_v1-vitmatte_s_d646_1024.onnx",
+    "https://beanent.com/files/bapps/models/hair_v1/vitmatte_s_d646_1024.onnx"
+   ],
+   "required": false
+  },
+  {
+   "path": "BEAN/models/hair_v1/vitmatte_s_d646_1024_fp16_coreml.zip",
+   "bytes": 50816226,
+   "sha256": "a2750e2c35eaa8bdb4c3cb64d6235dd1735f773b2d74310fb4944fed1c03ddc9",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/hair_v1-vitmatte_s_d646_1024_fp16_coreml.zip",
+    "https://beanent.com/files/bapps/models/hair_v1/vitmatte_s_d646_1024_fp16_coreml.zip"
+   ],
+   "required": false
+  },
+  {
+   "path": "BEAN/models/hair_v1/HAIR_MODELS.txt",
+   "bytes": 14179,
+   "sha256": "eed2fda746bb677dcb346cf56d27409e3a1dc23ca40af1442dd6c9cdfdc1f257",
+   "urls": [
+    "https://github.com/beanent/BEAN-PACKAGES/releases/download/models-v1/hair_v1-HAIR_MODELS.txt",
+    "https://beanent.com/files/bapps/models/hair_v1/HAIR_MODELS.txt"
+   ],
+   "required": false
+  },
+  {
    "path": "BEAN/models/detect_v1/dfine_nano_coco.onnx",
    "bytes": 15433007,
    "sha256": "f6645ea14b85444cda415c48915488f7439ad0cf96da49ac3917f0607b82a5b4",
@@ -307,5 +337,5 @@
    "required": true
   }
  ],
- "total_bytes": 2382837686
+ "total_bytes": 2537594995
 }
