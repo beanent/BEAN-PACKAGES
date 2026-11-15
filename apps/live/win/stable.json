@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "live",
- "version": "0.1.29",
- "date": "2026.11.13",
- "notes": "고친 것\n• 일부 컴퓨터에서 빈라이선스가 켜지지 않아 라이선스를 활성화하지 못할 수 있던 것을 고쳤어요.",
+ "version": "0.1.31",
+ "date": "2026.11.15",
+ "notes": "바뀐 것\n• 4K 카메라를 초당 50 · 60장으로 받을 때 얼굴 보정이 더 가볍게 돕니다. 보정에 드는 그래픽 일이 줄어 오래 방송해도 끊기지 않을 여유가 늘었습니다. 화면 해상도와 머리카락 · 옷 · 배경은 4K 그대로이고, 초당 30장이나 FHD 카메라는 지금과 같습니다.\n• 4K 초당 60장에서 얼굴 보정을 많이 켜도 장이 빠지지 않습니다. 컴퓨터가 버거우면 보정을 셈하는 크기를 알아서 조금 낮춰 초당 60장을 지키고, 여유가 생기면 천천히 되돌립니다.\n• 얼굴 보정이 화면을 읽어 오는 기다림이 줄어 카메라 화면이 더 고르게 나갑니다.\n• 설정 › 라이선스의 기간이 이 앱에 지금 살아 있는 라이선스 가운데 가장 상위 것으로 나옵니다. 영구 라이선스는 '영구'로 나옵니다.\n• 라이선스 기한이 지난 것처럼 보여도 바로 만료로 바꾸지 않고 서버에 다시 확인합니다. 인터넷이 끊겨 있으면 쓰던 그대로 둡니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=945764",
- "exe_size": 155899416,
- "exe_sha256": "2013e9115aeca7496e224339441681f62267ab8f1c0a192fbff1699ea56f8310",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=950936",
+ "exe_size": 155967128,
+ "exe_sha256": "7f35121b0902a4903d3a5793ad543c6190151f28bcd3ebf6a3c51c5ced662fb6",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-v0.1.29/BEAN-LIVE-WIN-v0.1.29.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-win-v0.1.31/BEAN-LIVE-WIN-v0.1.31.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
