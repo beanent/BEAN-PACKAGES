@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "live",
- "version": "0.1.31",
- "date": "2026.11.15",
- "notes": "바뀐 것\n• 4K 카메라를 초당 50 · 60장으로 받을 때 얼굴 보정이 더 가볍게 돕니다. 보정에 드는 그래픽 일이 줄어 오래 방송해도 끊기지 않을 여유가 늘었습니다. 화면 해상도와 머리카락 · 옷 · 배경은 4K 그대로이고, 초당 30장이나 FHD 카메라는 지금과 같습니다.\n• 4K 초당 60장에서 얼굴 보정을 많이 켜도 장이 빠지지 않습니다. 컴퓨터가 버거우면 보정을 셈하는 크기를 알아서 조금 낮춰 초당 60장을 지키고, 여유가 생기면 천천히 되돌립니다.\n• 얼굴 보정이 화면을 읽어 오는 기다림이 줄어 카메라 화면이 더 고르게 나갑니다.\n• 설정 › 라이선스의 기간이 이 앱에 지금 살아 있는 라이선스 가운데 가장 상위 것으로 나옵니다. 영구 라이선스는 '영구'로 나옵니다.\n• 라이선스 기한이 지난 것처럼 보여도 바로 만료로 바꾸지 않고 서버에 다시 확인합니다. 인터넷이 끊겨 있으면 쓰던 그대로 둡니다.",
+ "version": "0.1.32",
+ "date": "2026.11.16",
+ "notes": "바뀐 것\n• 얼굴 보정을 켠 카메라 영상이 방송 · 녹화에 건너뛰거나 되풀이되지 않고 차례대로 들어갑니다. 멀티뷰를 열어 두어도 같습니다. 그 대신 카메라 영상이 한 장(초당 60장에서 약 0.017초), 컴퓨터가 잠깐 바쁠 때는 많아야 세 장 늦게 나옵니다.\n• 얼굴이 잠깐 가려졌다가 다시 보일 때 보정이 한 번에 튀어 나오지 않고 0.3초에 걸쳐 부드럽게 돌아옵니다.\n• 초당 60장에서 얼굴을 움직이다 멈추면 보정 자리가 얼굴에 맞춰 바로 멈춰 섭니다. 얼굴을 살짝 지나쳤다가 되돌아오지 않습니다.\n• 얼굴 보정에 필요한 파일이 앱 폴더에 없을 때도 빈라이브가 켜지고, 카메라 보정 창에 다시 설치하면 쓸 수 있다는 안내가 나옵니다.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=950936",
- "exe_size": 155967128,
- "exe_sha256": "7f35121b0902a4903d3a5793ad543c6190151f28bcd3ebf6a3c51c5ced662fb6",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=956115",
+ "exe_size": 156001640,
+ "exe_sha256": "4044a9f812546c97f07b0075cce05fecfd55144da7fa18592d5ed90403cd0342",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-win-v0.1.31/BEAN-LIVE-WIN-v0.1.31.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-win-v0.1.32/BEAN-LIVE-WIN-v0.1.32.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
