@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.62",
- "date": "2026.11.16",
- "notes": "바뀐 것\n• 몸 탭의 몸매 칸을 새로 짰습니다. 몸매 · 허리 · 다리 길이 · 키 같은 칸을 움직이면 몸이 마디마다 자연스럽게 바뀌고, 머리 · 손 · 발은 모양을 지킨 채 함께 옮겨 갑니다.\n• 목 두께 · 가슴 · 엉덩이 · 허벅지 · 발 크기 칸이 눈에 띄게 걸립니다.\n• 몸을 바꿀 때 둘레 배경의 곧은 선과 무늬가 휘지 않고 그대로 남습니다. 뒤에 다른 사람이 있는 사진에서도 그 사람은 끌려가지 않습니다.\n• 몸이 반만 나온 사진처럼 사람을 찾기 어려운 사진에서도 몸 칸이 걸립니다.\n• 앱을 켤 때 라이선스 확인이 더 빨리 끝납니다.\n\n고친 것\n• 손가락 가늘게 · 손톱 다듬기가 사진에 따라 거의 안 걸리던 것을 고쳤습니다. 이제 손가락이 실제로 가늘어지고, 칠한 손톱에서도 손톱 다듬기가 걸립니다.\n• 몸매 · 몸 축소 · 목 길이 · 팔뚝 · 어깨 넓이를 끝값 가까이 올릴 때 몸이 접히거나 꺾여 보이던 것을 고쳤습니다.\n• 키를 바꿀 때 사람 둘레 배경이 휘던 것을 고쳤습니다.",
+ "version": "0.1.63",
+ "date": "2026.11.18",
+ "notes": "바뀐 것\n• 몸 탭의 엉덩이 · 허벅지 · 팔 · 어깨 넓이 칸을 끝값까지 올리면 몸이 더 눈에 띄게 바뀝니다. 가운데 값에서는 예전과 거의 같습니다.\n\n고친 것\n• 몸 칸을 끌다가 놓을 때 사람 둘레 배경이 바뀌던 것을 고쳤습니다.\n• 손가락 가늘게를 걸 때 뒤에 선 사람의 옷이 번지던 것을 고쳤습니다.\n• 손 크기를 바꿀 때 손가락 옆에 점이나 흰 띠가 남던 것을 고쳤습니다.\n• 손 크기를 바꿀 때 굽힌 손가락 사이와 손바닥에 뒤 배경이 비쳐 보이던 것을 고쳤습니다.\n• 반신 사진에서 상체 · 허리 길이를 늘이면 머리가 눌려 보이던 것을 고쳤습니다.\n• 반신 사진에서 승모근을 줄이면 목선이 납작해지던 것을 고쳤습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=952891",
- "pkg_size": 79880480,
- "pkg_sha256": "fd6ffedc0d7a3716111a9004256eb7a9e4894eeaf9e0b495c406eea88cd96749",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=958194",
+ "pkg_size": 79916197,
+ "pkg_sha256": "53e1278810e5fca064cd4557697213daebebf3dc8466ddcc045c3e7b3647889f",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-mac-v0.1.62/BEAN-PHOTO-MAC-v0.1.62.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-mac-v0.1.63/BEAN-PHOTO-MAC-v0.1.63.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
