@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.64",
+ "version": "0.1.65",
  "date": "2026.11.18",
- "notes": "고친 것\n• 얼굴에 손을 댄 사진에서 손 크기를 바꾸면 볼 · 턱 · 옆 머리카락이 손을 따라 끌려가던 것을 고쳤습니다. 이제 손만 커지거나 작아지고 얼굴은 그대로 남습니다.",
+ "notes": "고친 것\n• 뒤에 다른 사람이 서 있는 사진에서 손 크기를 줄이면 손이 거의 작아지지 않던 것을 고쳤습니다. 이제 값만큼 손이 작아집니다.\n• 손 크기를 키울 때 손가락 뿌리 옆에 원래 손가락 테두리가 남던 것을 고쳤습니다.\n• 영어 · 스페인어 화면에서 얼굴 탭의 '이 묶음 값을 모든 사진의 같은 묶음에' 단추 글이 잘려 보이던 것을 고쳤습니다. 글이 길면 단추 안에서 두 줄로 나옵니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=958970",
- "exe_size": 76573416,
- "exe_sha256": "6c17e2fef6541b2224279ad3f9f6b3c40104f1c40cf618e06c8e5538f536384b",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=959060",
+ "exe_size": 76582424,
+ "exe_sha256": "b92f219843222787b6d38dcdf407c8a6bab0fc7b7195d95bbf66b18a276429bf",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-win-v0.1.64/BEAN-PHOTO-WIN-v0.1.64.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-win-v0.1.65/BEAN-PHOTO-WIN-v0.1.65.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
