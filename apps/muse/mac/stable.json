@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.232",
+ "version": "1.1.233",
  "date": "2026.11.18",
- "notes": "고친 것\n• 확장 패키지 창에서 다른 DAW 용(AU · VST3)으로만 나온 가상악기가 플러그인 쪽에 보이던 것을 고쳤습니다. 이제 가상악기 쪽에 보입니다.\n• 플러그인 여덟 개(BEAN Vintage Tape Saturator · 12413 Limiter · 12413 EQ Combo · Master Bus Processor · 542 Tape · Mastering Desk · Digital EQ · BEAN Blue Sky)를 레트로 FX 번들 라이선스만으로도 바로 받아 쓸 수 있도록 고쳤습니다.\n• 공장 프리셋을 고르고 저장한 프로젝트를 다시 열면 플러그인 창 프리셋 칸에 그 이름이 보이도록 고쳤습니다.",
+ "notes": "새로 생긴 것\n• 패턴 연주에 드럼머신 패턴 120 개(트랩 · 하우스 · 일렉트로 · 힙합 등 24 장르)와 패턴 창 드럼머신 단추가 생겼습니다. 장르마다 기본 · 하이햇 바꿈 · 킥 당김 · 네 마디 필인 · 브레이크다운 다섯 꼴로 칩니다.\n• 확장 패키지로 나오는 새 가상악기 드럼머신 여덟(BEAN Analog Rhythm 80 · 83 · 81 · BEAN Digital Rhythm 78 · 85 · BEAN Latin Rhythm 85 · BEAN Studio Drum 82 · 81)을 이 판부터 앱 안에서 쓸 수 있습니다. 악기마다 앱 안 매뉴얼이 다섯 말로 들어 있습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=957528",
- "pkg_size": 62685853,
- "pkg_sha256": "100c09529b6c4bdc559ef520db12f93da0f14db356d2c20bf6b3e318d44faf97",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=959027",
+ "pkg_size": 62790538,
+ "pkg_sha256": "4dc27153125691633b868d41ff72445bd5c3d8278c3d716e9ddf85ef9a14eca6",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.232/BEAN-MUSE-MAC-v1.1.232.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.233/BEAN-MUSE-MAC-v1.1.233.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
