@@ -2,8 +2,8 @@
  "format": "bean-app-models-v1",
  "app": "photo",
  "os": "mac",
- "app_version": "0.1.64",
- "source": "BeanPhoto 8627b6d Source/Retouch/PhotoModels.cpp",
+ "app_version": "0.1.65",
+ "source": "BeanPhoto bf38046 Source/Retouch/PhotoModels.cpp",
  "base": "Application Support",
  "files": [
   {
