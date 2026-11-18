@@ -2,8 +2,8 @@
  "format": "bean-app-models-v1",
  "app": "photo",
  "os": "win",
- "app_version": "0.1.62",
- "source": "BeanPhoto 1ca051e Source/Retouch/PhotoModels.cpp",
+ "app_version": "0.1.63",
+ "source": "BeanPhoto 9aa9a2a Source/Retouch/PhotoModels.cpp",
  "base": "Application Support",
  "files": [
   {
