@@ -1,16 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.233",
- "date": "2026.11.18",
- "notes": "새로 생긴 것\n• 패턴 연주에 드럼머신 패턴 120 개(트랩 · 하우스 · 일렉트로 · 힙합 등 24 장르)와 패턴 창 드럼머신 단추가 생겼습니다. 장르마다 기본 · 하이햇 바꿈 · 킥 당김 · 네 마디 필인 · 브레이크다운 다섯 꼴로 칩니다.\n• 확장 패키지로 나오는 새 가상악기 드럼머신 여덟(BEAN Analog Rhythm 80 · 83 · 81 · BEAN Digital Rhythm 78 · 85 · BEAN Latin Rhythm 85 · BEAN Studio Drum 82 · 81)을 이 판부터 앱 안에서 쓸 수 있습니다.\n  – 악기마다 앱 안 매뉴얼이 다섯 말로 들어 있습니다.",
+ "version": "1.1.234",
+ "date": "2026.11.19",
+ "notes": "고친 것\n• ARA 칸에 건 음정 보정 플러그인 화면이 칸 크기에 늘 맞도록 고쳤습니다. 어레인지 아래 칸처럼 낮은 칸에서는 화면 전체를 비율대로 줄여 아래가 잘리지 않고, 에디터 탭처럼 큰 칸에서 플러그인이 더 커지지 못하면 비율대로 키워 칸을 채웁니다. 플러그인이 스스로 크기를 바꾸거나 창 크기를 바꾸고 탭을 오갈 때도 바로 다시 맞춥니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=959027",
- "pkg_size": 62790538,
- "pkg_sha256": "4dc27153125691633b868d41ff72445bd5c3d8278c3d716e9ddf85ef9a14eca6",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=959418",
+ "pkg_size": 62810787,
+ "pkg_sha256": "ebe29429eba5d09d001ca8948ccc5377475982fc06e9f739375de5f98d6682ef",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.233/BEAN-MUSE-MAC-v1.1.233.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.234/BEAN-MUSE-MAC-v1.1.234.pkg"
  ],
- "notes_url": "https://beanent.com/bean_muse_news/959037",
  "mirror_of": "procBappsCheck"
 }
