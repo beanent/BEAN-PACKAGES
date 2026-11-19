@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.233",
+ "version": "1.1.234",
  "date": "2026.11.19",
- "notes": "새로 생긴 것\n• 패턴 연주에 드럼머신 패턴 120 개(트랩 · 하우스 · 일렉트로 · 힙합 등 24 장르)와 패턴 창 드럼머신 단추가 생겼습니다. 장르마다 기본 · 하이햇 바꿈 · 킥 당김 · 네 마디 필인 · 브레이크다운 다섯 꼴로 칩니다.\n• 확장 패키지로 나오는 새 가상악기 드럼머신 여덟(BEAN Analog Rhythm 80 · 83 · 81 · BEAN Digital Rhythm 78 · 85 · BEAN Latin Rhythm 85 · BEAN Studio Drum 82 · 81)을 이 판부터 앱 안에서 쓸 수 있습니다. 악기마다 앱 안 매뉴얼이 다섯 말로 들어 있습니다.\n\n고친 것\n• 확장 패키지 창에서 다른 DAW 용(VST3)으로만 나온 가상악기가 플러그인 쪽에 보이던 것을 고쳤습니다. 이제 가상악기 쪽에 보입니다.\n• 플러그인 여덟 개(BEAN Vintage Tape Saturator · 12413 Limiter · 12413 EQ Combo · Master Bus Processor · 542 Tape · Mastering Desk · Digital EQ · BEAN Blue Sky)를 레트로 FX 번들 라이선스만으로도 바로 받아 쓸 수 있도록 고쳤습니다.\n• 공장 프리셋을 고르고 저장한 프로젝트를 다시 열면 플러그인 창 프리셋 칸에 그 이름이 보이도록 고쳤습니다.",
+ "notes": "새로 생긴 것\n• 패턴 연주 건반 류에 '코드 반주' 500 가지가 생겼습니다. 가요에서 쓰는 피아노 반주를 발라드 · 12/8 발라드 · 미디엄 팝 · 댄스 팝 · 알앤비 · 시티팝 · 락 발라드 · 트로트 · 어쿠스틱 · 3/4 왈츠 · 6/8 발라드 · 셔플과 스윙 · 가스펠 13 갈래로 고르고, 왼손과 오른손이 번갈아 치며 분산화음 · 당김 · 앞꾸밈 · sus4 해결 · 걷는 베이스가 들어갑니다. 이름에 오른손 꼴 · 왼손 꼴 · 빠르기 · 세기 · 페달이 적혀 있습니다.\n• 페달이 있는 피아노 반주는 코드가 바뀌는 자리에서 앞 코드의 울림을 놓습니다.\n• 패턴 연주 기타에 '가요 반주' 100 가지가 생겼습니다. 스트럼 · 퍼커시브 핑거 · 아르페지오 · 하이브리드(스트럼과 베이스 줄)를 발라드 · 댄스 팝 · 시티팝 · 트로트 등 13 갈래로 고르고, 이름에 빠르기 · 박자(4/4 · 3/4 · 6/8 · 12/8) · 세기가 적혀 있습니다.\n• 6/8 · 12/8 피아노 · 기타 반주는 프로젝트 박자를 그 박자로 두면 적힌 그대로 칩니다.\n\n고친 것\n• 패턴 창 빠르기 고르개의 스페인어 글이 칸을 넘던 것을 고쳤습니다.\n• 플러그인 몇 가지(리미터 · 미터 · 보컬 정리)의 값 글 읽기와 화면 그리기가 느리던 것을 고쳤습니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=959303",
- "exe_size": 37664128,
- "exe_sha256": "b12f6e22fba31c0aeac30e9997d97b4918dd324167789da210d465c7a88a7a46",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=960196",
+ "exe_size": 37723304,
+ "exe_sha256": "18e8cb333677dda1ea5b259bfddc04a1ab0ede08f00dd6346dbaa8226348a159",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-win-v1.1.233/BEAN-MUSE-WIN-v1.1.233.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-win-v1.1.234/BEAN-MUSE-WIN-v1.1.234.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
