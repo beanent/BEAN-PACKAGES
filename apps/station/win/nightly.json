@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.75",
- "date": "2026.11.19",
- "notes": "고친 것\n• 빈넥서스 새 판 알림: 빈넥서스 판을 어느 꼴로 읽어도 같은 판으로 보아, 새 판이 나오면 빈스테이션 앱 목록에 업데이트로 바르게 보여요.",
+ "version": "1.0.76",
+ "date": "2026.11.20",
+ "notes": "고친 것\n• 알림 줄: 긴 알림 글이 작은 창에서 끝이 잘리던 것을 고쳤어요. 이제 알림 칸이 글 길이에 맞게 늘고, 넓이를 넘으면 줄을 바꿔 글이 다 보여요.",
  "channel": "nightly",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=960193",
- "exe_size": 21263984,
- "exe_sha256": "eec773f8d2dee6e2eeae26e0c7f732ffa73ed23b4e2402253f4911c1788dd79d",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=961378",
+ "exe_size": 21263352,
+ "exe_sha256": "66f671a8b809a9e00c139dcbc43d429a4231ce4b83dd19aec78d2bda401cdc16",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-win-v1.0.75/BEAN-STATION-WIN-v1.0.75.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-win-v1.0.76/BEAN-STATION-WIN-v1.0.76.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
