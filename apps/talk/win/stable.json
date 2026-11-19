@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "talk",
- "version": "0.1.207",
- "date": "2026.11.15",
- "notes": "고친 것\n• 로그인 화면에 경고나 오류 줄이 보일 때 창이 내용에 맞게 커져서, 로그인 단추가 잘리거나 스크롤이 생기지 않습니다.",
+ "version": "0.1.208",
+ "date": "2026.11.19",
+ "notes": "새로 생긴 것\n• 바깥에서 빈톡을 여는 주소가 생겼습니다. 홈페이지나 다른 앱에서 빈톡 주소(beantalk://open)를 누르면 빈톡이 켜지거나, 켜져 있으면 그 창이 앞으로 나옵니다.\n• 대화방 주소(beantalk://room/방 번호)를 누르면 그 대화방이 바로 열립니다. 로그인 전이면 로그인한 뒤에 열립니다.\n• 사람 주소(beantalk://user/회원 번호)를 누르면 그 사람과의 1:1 대화방이 열립니다. 처음이면 새로 만들어집니다.\n• 1:1 대화방은 두 사람에게만 보이고 두 사람만 들어갈 수 있습니다. 방 이름은 상대의 별명으로 보이고, 방 목록에 사람 표시가 붙습니다.\n\n바뀐 것\n• 로그인 화면이 가운데 카드 모양으로 새로 꾸며졌습니다. 창을 좁히면 아래 줄 항목이 깔끔하게 두 줄로 나뉩니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=948456",
- "exe_size": 14795408,
- "exe_sha256": "aa0abb134a851e176db276d300b77625c2bd03f46315e85293897e279e8d2e31",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=959507",
+ "exe_size": 14802392,
+ "exe_sha256": "d37ab6a93ec8425d7167eae634a2bdf25881a8e43fd35c47d8e7b004e079942a",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-v0.1.207/BEAN-TALK-WIN-v0.1.207.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/talk-win-v0.1.208/BEAN-TALK-WIN-v0.1.208.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
