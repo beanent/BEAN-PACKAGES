@@ -2,8 +2,8 @@
  "format": "bean-app-models-v1",
  "app": "pick",
  "os": "win",
- "app_version": "0.2.108",
- "source": "BeanPick f54e42c Source/Core/FaceModels.cpp Source/Core/AsrLocal.cpp",
+ "app_version": "0.2.109",
+ "source": "BeanPick 7817cb7 Source/Core/FaceModels.cpp Source/Core/AsrLocal.cpp",
  "base": "Application Support",
  "files": [
   {
