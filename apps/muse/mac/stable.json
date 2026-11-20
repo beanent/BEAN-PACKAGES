@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.235",
- "date": "2026.11.19",
- "notes": "새로 생긴 것\n• 패턴 연주 건반 류에 '코드 반주' 500 가지가 생겼습니다. 가요에서 쓰는 피아노 반주를 발라드 · 12/8 발라드 · 미디엄 팝 · 댄스 팝 · 알앤비 · 시티팝 · 락 발라드 · 트로트 · 어쿠스틱 · 3/4 왈츠 · 6/8 발라드 · 셔플과 스윙 · 가스펠 13 갈래로 고르고, 왼손과 오른손이 번갈아 치며 분산화음 · 당김 · 앞꾸밈 · sus4 해결 · 걷는 베이스가 들어갑니다. 이름에 오른손 꼴 · 왼손 꼴 · 빠르기 · 세기 · 페달이 적혀 있습니다.\n• 페달이 있는 피아노 반주는 코드가 바뀌는 자리에서 앞 코드의 울림을 놓습니다.\n• 패턴 연주 기타에 '가요 반주' 100 가지가 생겼습니다. 스트럼 · 퍼커시브 핑거 · 아르페지오 · 하이브리드(스트럼과 베이스 줄)를 발라드 · 댄스 팝 · 시티팝 · 트로트 등 13 갈래로 고르고, 이름에 빠르기 · 박자(4/4 · 3/4 · 6/8 · 12/8) · 세기가 적혀 있습니다.\n• 6/8 · 12/8 피아노 · 기타 반주는 프로젝트 박자를 그 박자로 두면 적힌 그대로 칩니다.\n\n고친 것\n• 패턴 창 빠르기 고르개의 스페인어 글이 칸을 넘던 것을 고쳤습니다.\n• 플러그인 몇 가지(리미터 · 미터 · 보컬 정리)의 값 글 읽기와 화면 그리기가 느리던 것을 고쳤습니다.",
+ "version": "1.1.236",
+ "date": "2026.11.21",
+ "notes": "고친 것\n• AI 믹스를 되돌린 뒤 다른 트랙이나 리전을 눌러 봐도, 다시 실행(Cmd+Shift+Z)으로 AI 믹스가 그대로 돌아오도록 고쳤습니다. 되돌리기를 한 번 눌렀는데 아무 일도 일어나지 않던 것도 함께 고쳤습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=959440",
- "pkg_size": 62924554,
- "pkg_sha256": "1f705b9e3e48ee8499fc1d3c8ea50d42026c0af84773eed3121b236eb5a4ccb9",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=963070",
+ "pkg_size": 62921146,
+ "pkg_sha256": "7a12eeafdf0943b8f36ad82e2f040b71b0b4d559094a47fe541e0eb911feaa32",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.235/BEAN-MUSE-MAC-v1.1.235.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.236/BEAN-MUSE-MAC-v1.1.236.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
