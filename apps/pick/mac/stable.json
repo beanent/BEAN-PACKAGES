@@ -1,16 +1,15 @@
 {
  "error": 0,
  "app": "pick",
- "version": "0.2.109",
- "date": "2026.11.14",
- "notes": "바뀐 것\n• 재생줄을 쉬지 않고 끄는 동안에도 편집 화면이 끄는 자리의 장면을 매끄럽게 따라 보여 줍니다. 손을 놓으면 그 자리 장면이 바로 보입니다.\n• 빈픽을 켜는 시간이 짧아지고, 켠 직후 화면이 잠깐 멈칫하던 것이 줄었습니다.\n• 타임라인에 깔리는 장면 그림과 편집 화면이 함께 장면을 불러올 때 더 빨리 뜨고, 원본 영상을 바꿀 때 화면이 멈칫하지 않습니다.",
+ "version": "0.2.110",
+ "date": "2026.11.21",
+ "notes": "고친 것\n• 선택 도구(화살표)로 타임라인의 자막을 두 번 누르면 자막이 잘리던 것을 고쳤습니다. 이제 그 자막의 글 고치는 창이 열립니다. 자막을 고른 뒤 Enter 를 눌러도 같습니다.\n• 선택 도구는 고르고 옮기는 일만 합니다. 메인 클립 · 요소 · 소리 클립을 두 번 눌러도 잘리지 않습니다.\n• 자르기는 블레이드 도구(3)로 합니다. 메인 클립 · 요소 · 자막 · 소리 클립을 블레이드 도구로 누르면 누른 자리에서 둘로 나뉩니다. 요소 줄의 요소도 이제 블레이드 도구로 나눌 수 있습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=946519",
- "pkg_size": 50920179,
- "pkg_sha256": "b64b04e64e6a253b02119170ebb0d047559e4dcea173f7fc91e8fa9680577325",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=963159",
+ "pkg_size": 50926753,
+ "pkg_sha256": "f892ad536ae67394366037d841907f1b634e309652a532ce1e03663be59bfa5f",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-v0.2.109/BEAN-PICK-MAC-v0.2.109.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-mac-v0.2.110/BEAN-PICK-MAC-v0.2.110.pkg"
  ],
- "notes_url": "https://beanent.com/bean_pick_news/946520",
  "mirror_of": "procBappsCheck"
 }
