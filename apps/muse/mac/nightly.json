@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.236",
+ "version": "1.1.237",
  "date": "2026.11.21",
- "notes": "고친 것\n• AI 믹스를 되돌린 뒤 다른 트랙이나 리전을 눌러 봐도, 다시 실행(Cmd+Shift+Z)으로 AI 믹스가 그대로 돌아오도록 고쳤습니다. 되돌리기를 한 번 눌렀는데 아무 일도 일어나지 않던 것도 함께 고쳤습니다.",
+ "notes": "고친 것\n• 녹음이나 편집을 되돌린 뒤 새로 녹음하거나 편집해도, 되돌렸던 내용이 사라지지 않도록 고쳤습니다. 되돌리기를 계속 누르면 그 전에 있던 녹음 · 리전 이동 · 리전 삭제 상태가 하나도 빠짐없이 그대로 다시 나옵니다.\n• 되돌려 둔 녹음 파일이 '사용하지 않는 미디어 제거'로 지워지지 않도록 고쳤습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=963070",
- "pkg_size": 62921146,
- "pkg_sha256": "7a12eeafdf0943b8f36ad82e2f040b71b0b4d559094a47fe541e0eb911feaa32",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=963186",
+ "pkg_size": 62964500,
+ "pkg_sha256": "c254aa711c7e702b93ad1d9b062afdd7b7e9f91e07114c8c629595e8003a636f",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.236/BEAN-MUSE-MAC-v1.1.236.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.237/BEAN-MUSE-MAC-v1.1.237.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
