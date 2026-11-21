@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.35",
- "date": "2026.11.18",
- "notes": "고친 것\n• 볼륨을 줄였거나 이퀄라이저를 쓸 때 재생 위치를 옮기면 새 자리 소리가 '툭' 하고 크게 시작하던 것을 고쳤어요. 이제 옮긴 자리에서 부드럽게 소리가 나와요.\n• 노래 목록 맨 위 · 맨 아래에 반쯤 걸린 줄의 구분선과 형식 표시 테두리가 옆 선과 맞닿아 두 줄로 보이던 것을 고쳤어요.\n• 곡 정보 창의 테두리가 뒤 화면의 선과 맞닿아 두 줄로 보이던 것을 고쳤어요.",
+ "version": "0.1.42",
+ "date": "2026.11.21",
+ "notes": "바뀐 것\n• 아래 재생 줄의 A-B 단추에 마우스를 올리면 '구간 반복 시작점 : [' · '구간 반복 종료지점 : ]' · '구간 반복 해제 : ⇧ + \\' 처럼 지금 할 일과 단축키가 바로 보여요.\n\n고친 것\n• 보관함 목록 첫 줄에 마우스를 올려도 머리 줄 아래 구분선이 그대로 보여요.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=958906",
- "pkg_size": 31689138,
- "pkg_sha256": "540b47d8e5f852b85087747ad01b3fcd62665814d2710c5785fc33c809c6eccb",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=963304",
+ "pkg_size": 31913557,
+ "pkg_sha256": "ad807dec4567ab579be5000e2c5a1a239d393e6c3ec51bff78065c52a6f75834",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-mac-v0.1.35/BEAN-PLAYER-MAC-v0.1.35.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-mac-v0.1.42/BEAN-PLAYER-MAC-v0.1.42.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
