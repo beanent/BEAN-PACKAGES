@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "voice",
- "version": "0.4.141",
- "date": "2026.11.23",
- "notes": "고친 것\n• 실사 보기에서 값을 바꿀 때 앞 모양이 남던 문제 고침",
+ "version": "0.4.142",
+ "date": "2026.11.24",
+ "notes": "고친 것\n• 발성 기관 탭의 실사 그림에서 값을 바꿀 때 조직 가장자리에 남던 찌꺼기와 근육이 쪼개져 보이던 것을 고쳤어요.\n\n바뀐 것\n• 위쪽 검은 수치 띠가 늘 한 줄로 보이고, 창이 좁아 넘칠 때만 가로로 굴려 볼 수 있어요.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=966775",
- "pkg_size": 38445140,
- "pkg_sha256": "852cc0dd31eb402a3e1f9b446fb40f45ecb91a083dfe5111d9a46a2ab8a4924e",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=967802",
+ "pkg_size": 38538727,
+ "pkg_sha256": "dd8cfa9f3815911887fa307d4418a3c2fdf9c716c1f883bbafd9eadc59e04373",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-mac-v0.4.141/BEAN-VOICE-MAC-v0.4.141.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-mac-v0.4.142/BEAN-VOICE-MAC-v0.4.142.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
