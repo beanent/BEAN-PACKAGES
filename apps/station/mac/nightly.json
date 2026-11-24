@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.77",
- "date": "2026.11.21",
- "notes": "고친 것\n• 빈넥서스가 스스로 업데이트한 뒤에도 빈스테이션 앱 목록에 옛 버전과 '업데이트' 표시가 보이던 것을 고쳤어요. 이제 실제로 쓰고 있는 버전이 보여요.\n• 이미 최신인 빈넥서스를 다시 받아 설치하려던 일도 함께 없어졌어요.",
+ "version": "1.0.78",
+ "date": "2026.11.24",
+ "notes": "고친 것\n• 빈 넥서스를 설치하거나 넥서스가 스스로 업데이트한 뒤에도 그 칸 단추가 계속 '설치'로 보이던 것을 고쳤어요. 이제 설치된 버전에 맞게 '실행' 또는 '업데이트'로 보여요.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=963170",
- "pkg_size": 24251397,
- "pkg_sha256": "6dcab2422e0204267fe1a7adcc1e3bb7eeeead173a2842b04c8b5e78c36eb786",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=968241",
+ "pkg_size": 24266797,
+ "pkg_sha256": "26d73ea9e96695b6c6abfbcc1c997292bca9fb960f4f29895fa8884986cf068d",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-mac-v1.0.77/BEAN-STATION-MAC-v1.0.77.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-mac-v1.0.78/BEAN-STATION-MAC-v1.0.78.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
