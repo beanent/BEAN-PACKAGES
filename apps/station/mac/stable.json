@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.79",
+ "version": "1.0.80",
  "date": "2026.11.25",
- "notes": "고친 것\n• 로그인하거나 로그아웃한 뒤에도 앱 목록이 바뀌지 않아, 계정에 열린 앱(빈 넥서스 등)이 보이지 않던 것을 고쳤어요. 이제 로그인하면 그 계정의 앱 목록을 바로 다시 받아요.",
+ "notes": "고친 것\n• 다른 계정으로 산 라이선스를 연장하려 할 때 뜨는 확인 창의 단추 이름을 [계정 변경]으로 바꿨어요.\n• 로그인 · 라이선스 확인 중에 서버와 주고받은 정보가 이 컴퓨터의 임시 저장 공간(캐시)에 남지 않도록 했어요. 빈스테이션을 켤 때 예전 판이 남긴 임시 저장분도 한 번 비워요(로그인은 그대로예요).",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=972361",
- "pkg_size": 24279558,
- "pkg_sha256": "8a1d6d571f6510fbc9c76f06e6a7d1eba5a3093f5cbf6bac0c5f897e4aaae73d",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=973431",
+ "pkg_size": 24295856,
+ "pkg_sha256": "594eeaa622fb3ffd63b047550269181c779e581bd666891f630ba30cbfbf418a",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-mac-v1.0.79/BEAN-STATION-MAC-v1.0.79.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-mac-v1.0.80/BEAN-STATION-MAC-v1.0.80.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
