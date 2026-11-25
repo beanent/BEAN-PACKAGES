@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "voice",
- "version": "0.4.143",
+ "version": "0.4.144",
  "date": "2026.11.25",
- "notes": "바뀐 것\n• 위쪽 검은 수치 띠가 창 폭과 상관없이 늘 한 줄로 보여요. 넘칠 때만 띠 바로 아래 가로 막대로 굴려 볼 수 있어요.",
+ "notes": "바뀐 것\n• 발성 기관 그림과 재생선이 들리는 소리와 맞게 움직여요. 소리 장치의 출력 지연을 반영했어요.\n• 모양으로 소리 내기에서 고른 모음 · 발성 단추가 고른 상태로 표시돼요.\n• 폰 세로처럼 아주 좁은 화면에서도 검은 수치 띠가 한 줄로 보여요.\n\n고친 것\n• 실시간 보기 검은 수치 띠에 화면 배율 125 · 150 % 에서 세로 선이 겹쳐 보이던 것을 고쳤어요.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=972626",
- "pkg_size": 38541576,
- "pkg_sha256": "1a124cf10c3b290117a722b455ddae9746e61e50659b96877cb7a6d840e5ce66",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=972840",
+ "pkg_size": 38565910,
+ "pkg_sha256": "1dc1e5155fa9eaed3f35f635fbe1cdaeab12f4c992917f07a77e18cdbe8dbeab",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-mac-v0.4.143/BEAN-VOICE-MAC-v0.4.143.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-mac-v0.4.144/BEAN-VOICE-MAC-v0.4.144.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
