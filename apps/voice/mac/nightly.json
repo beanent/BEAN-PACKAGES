@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "voice",
- "version": "0.4.142",
- "date": "2026.11.24",
- "notes": "고친 것\n• 발성 기관 탭의 실사 그림에서 값을 바꿀 때 조직 가장자리에 남던 찌꺼기와 근육이 쪼개져 보이던 것을 고쳤어요.\n\n바뀐 것\n• 위쪽 검은 수치 띠가 늘 한 줄로 보이고, 창이 좁아 넘칠 때만 가로로 굴려 볼 수 있어요.",
+ "version": "0.4.143",
+ "date": "2026.11.25",
+ "notes": "바뀐 것\n• 위쪽 검은 수치 띠가 창 폭과 상관없이 늘 한 줄로 보여요. 넘칠 때만 띠 바로 아래 가로 막대로 굴려 볼 수 있어요.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=967802",
- "pkg_size": 38538727,
- "pkg_sha256": "dd8cfa9f3815911887fa307d4418a3c2fdf9c716c1f883bbafd9eadc59e04373",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=972626",
+ "pkg_size": 38541576,
+ "pkg_sha256": "1a124cf10c3b290117a722b455ddae9746e61e50659b96877cb7a6d840e5ce66",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-mac-v0.4.142/BEAN-VOICE-MAC-v0.4.142.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-mac-v0.4.143/BEAN-VOICE-MAC-v0.4.143.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
