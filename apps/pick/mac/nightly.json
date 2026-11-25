@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "pick",
- "version": "0.2.111",
- "date": "2026.11.24",
- "notes": "고친 것\n• 편집 화면 타임라인의 자막 막대 이름이 알 수 없는 기호 덩어리로 깨져 보이던 것을 고쳤습니다. 이제 자막 글이 그대로 보입니다.",
+ "version": "0.2.112",
+ "date": "2026.11.25",
+ "notes": "0.2.112 (2026-11-25)\n\n바뀐 것\n• 얼굴 보정을 켠 영상의 재생 미리보기와 미리 렌더링이 훨씬 빨라졌습니다. 사진 · 멈춘 장면 · 내보낸 영상의 보정 결과는 그대로입니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=968385",
- "pkg_size": 50932476,
- "pkg_sha256": "ca0c8e2ebcec3993f8bf135f508a8bf53e8ce0f9d801d747c56dc3d704ada0a6",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=972225",
+ "pkg_size": 51199102,
+ "pkg_sha256": "f124b123ca0527edccd042c22dae702b51b2adf7559956fd89869a95ff36c107",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-mac-v0.2.111/BEAN-PICK-MAC-v0.2.111.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/pick-mac-v0.2.112/BEAN-PICK-MAC-v0.2.112.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
