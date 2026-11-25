@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "live",
- "version": "0.1.33",
- "date": "2026.11.18",
- "notes": "고친 것\n• 카메라 소스 속성에서 '부드럽게'를 켜고 초당 30장 카메라로 초당 60장 방송 · 녹화할 때, 영상이 20초에 몇 번씩 한 장 멈칫하거나 한 장 건너뛰던 것을 고쳤습니다. 장을 건너뛰는 일은 없어졌고, 멈칫함은 20초에 많아야 한 번으로 줄었습니다. 초당 60장 카메라와 '부드럽게'를 끈 때는 지금과 같습니다.",
+ "version": "0.1.34",
+ "date": "2026.11.25",
+ "notes": "바뀐 것\n• 두 번째로 켤 때부터 카메라 얼굴 보정이 훨씬 빨리 걸립니다. 처음 켤 때 AI 모델을 이 맥에 맞게 바꿔 두고, 다음부터는 그것을 그대로 씁니다. 보정 결과는 지금과 같습니다. 바꿔 둔 파일(약 300MB)은 앱을 새 판으로 올리면 옛 것을 지우고 다시 만듭니다.\n• 차림표와 단추 이름을 다른 BEAN 앱과 같은 낱말로 맞췄습니다. '이름 바꾸기'는 '이름 변경', '지우기'는 '삭제', '고르기'는 '선택', 'MP4 로 바꾸기'는 'MP4 로 변환'으로 나옵니다. 되돌리기 차림표의 이름도 같습니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=958973",
- "pkg_size": 162319716,
- "pkg_sha256": "2322eb56483e01cf7de5c129e5d72478f8734e88936743fc6f6677de3e88002d",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=973443",
+ "pkg_size": 162322602,
+ "pkg_sha256": "dba1c8ab395690fe076a198ad92b5459e2be2ca27dca8f5e6ca11766bd0c9824",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-mac-v0.1.33/BEAN-LIVE-MAC-v0.1.33.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-mac-v0.1.34/BEAN-LIVE-MAC-v0.1.34.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
