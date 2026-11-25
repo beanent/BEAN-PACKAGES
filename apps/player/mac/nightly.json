@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "player",
- "version": "0.1.42",
- "date": "2026.11.21",
- "notes": "바뀐 것\n• 아래 재생 줄의 A-B 단추에 마우스를 올리면 '구간 반복 시작점 : [' · '구간 반복 종료지점 : ]' · '구간 반복 해제 : ⇧ + \\' 처럼 지금 할 일과 단축키가 바로 보여요.\n\n고친 것\n• 보관함 목록 첫 줄에 마우스를 올려도 머리 줄 아래 구분선이 그대로 보여요.",
+ "version": "0.1.43",
+ "date": "2026.11.25",
+ "notes": "바뀐 것\n• 단추 · 차림표 이름을 다른 BEAN 앱과 같은 말로 맞췄어요: [이름 변경] · [재생 목록 삭제] · [구간 반복 해제] · '재생 목록도 삭제' · '재생 기록도 삭제'.\n• 곡이 1만 곡쯤 되는 보관함을 켤 때 목록이 더 빨리 준비돼요.\n\n고친 것\n• 감시 폴더를 다시 읽는 동안 하위 폴더에 새로 넣거나 이름을 바꾼 파일이 목록에 늦게 나오거나 빠지던 것을 고쳤어요.\n• 라이선스 로그인 응답이 컴퓨터의 인터넷 캐시에 남지 않아요. 예전 판이 남긴 것도 켤 때 지워요.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=963304",
- "pkg_size": 31913557,
- "pkg_sha256": "ad807dec4567ab579be5000e2c5a1a239d393e6c3ec51bff78065c52a6f75834",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=973424",
+ "pkg_size": 31933313,
+ "pkg_sha256": "dc93a605e2a5f93e63c4a40eeb850e293410069bc2c86b64bb64d28e202eba31",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-mac-v0.1.42/BEAN-PLAYER-MAC-v0.1.42.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/player-v0.1.43/BEAN-PLAYER-MAC-v0.1.43.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
