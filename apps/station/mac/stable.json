@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "station",
- "version": "1.0.78",
- "date": "2026.11.24",
- "notes": "고친 것\n• 빈 넥서스를 설치하거나 넥서스가 스스로 업데이트한 뒤에도 그 칸 단추가 계속 '설치'로 보이던 것을 고쳤어요. 이제 설치된 버전에 맞게 '실행' 또는 '업데이트'로 보여요.",
+ "version": "1.0.79",
+ "date": "2026.11.25",
+ "notes": "고친 것\n• 로그인하거나 로그아웃한 뒤에도 앱 목록이 바뀌지 않아, 계정에 열린 앱(빈 넥서스 등)이 보이지 않던 것을 고쳤어요. 이제 로그인하면 그 계정의 앱 목록을 바로 다시 받아요.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=968241",
- "pkg_size": 24266797,
- "pkg_sha256": "26d73ea9e96695b6c6abfbcc1c997292bca9fb960f4f29895fa8884986cf068d",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=972361",
+ "pkg_size": 24279558,
+ "pkg_sha256": "8a1d6d571f6510fbc9c76f06e6a7d1eba5a3093f5cbf6bac0c5f897e4aaae73d",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-mac-v1.0.78/BEAN-STATION-MAC-v1.0.78.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/station-mac-v1.0.79/BEAN-STATION-MAC-v1.0.79.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
