@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "photo",
- "version": "0.1.68",
- "date": "2026.11.20",
- "notes": "고친 것\n• 화면 아래에 잠깐 뜨는 알림 글이 '…'로 잘리던 것을 고쳤습니다. 이제 알림 글은 끝까지 다 보이고, 글이 길면 알림 칸이 여러 줄로 늘어납니다.",
+ "version": "0.1.69",
+ "date": "2026.11.25",
+ "notes": "바뀐 것\n• 단추와 차림표 이름을 다른 빈 앱과 같은 말로 맞췄습니다. '지우기'는 '삭제', '고르기'는 '선택', '바꾸기'는 '변경', '되살리기'는 '복원'으로 보입니다. 기능은 그대로입니다.\n\n고친 것\n• AI 연동(OpenAI 키 · 개인서버 키)을 쓰면 키가 이 맥의 웹 캐시 파일에 남을 수 있던 것을 고쳤습니다. 지난 판이 남긴 캐시 파일도 켤 때 지웁니다.\n• 판이 바뀌면 지난 판의 AI 가속 준비 파일을 지워 디스크를 덜 씁니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=962796",
- "pkg_size": 80006716,
- "pkg_sha256": "eec8e63a01275a19ee38e36377679c33b4fb404e53bb324f5613f8f185eedd77",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=973422",
+ "pkg_size": 80012255,
+ "pkg_sha256": "c1e0e9ac12b5ff281b2451f91a84306546f127cfc51dcfd25372b49e45efb162",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-mac-v0.1.68/BEAN-PHOTO-MAC-v0.1.68.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/photo-mac-v0.1.69/BEAN-PHOTO-MAC-v0.1.69.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
