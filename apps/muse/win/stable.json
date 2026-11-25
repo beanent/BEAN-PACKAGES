@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.235",
- "date": "2026.11.21",
- "notes": "고친 것\n• AI 믹스를 되돌린 뒤 다른 트랙이나 리전을 눌러 봐도, 다시 실행(Ctrl+Shift+Z)으로 AI 믹스가 그대로 돌아오도록 고쳤습니다. 되돌리기를 한 번 눌렀는데 아무 일도 일어나지 않던 것도 함께 고쳤습니다.",
+ "version": "1.1.236",
+ "date": "2026.11.25",
+ "notes": "새로 생긴 것\n• 믹서 채널에 VU 미터가 생겼습니다. 채널 높이가 넉넉할 때 팬 아래에 보입니다.\n• 앱이 BEAN Cascade EQ 를 알아봅니다. Cascade EQ 는 확장 패키지로 따로 받습니다.\n\n바뀐 것\n• 믹서 팬 슬라이더를 좌우로 넓혔습니다.\n• 볼륨 미터 맨 위 클립 칸을 아래 미터와 구분해 보이게 했습니다.\n\n고친 것\n• 긴 리전에 '무음 구간 제거'를 하면 메모리가 모자라 앱이 꺼지던 것을 고쳤습니다. 나눈 조각들이 원본 소리를 함께 써서 메모리를 거의 더 쓰지 않고, 그래도 메모리가 모자라면 앱이 꺼지지 않고 아무것도 지우지 않은 채 알려 줍니다.\n• 실시간 분석 창을 열어 둔 채 오디오 장치의 샘플레이트가 바뀌거나 장치가 다시 붙을 때 앱이 꺼질 수 있던 것을 고쳤습니다.\n• 녹음이나 편집을 되돌린 뒤 새로 녹음하거나 편집해도, 되돌렸던 내용이 사라지지 않도록 고쳤습니다. 되돌리기를 계속 누르면 그 전에 있던 녹음 · 리전 이동 · 리전 삭제 상태가 하나도 빠짐없이 그대로 다시 나옵니다.\n• 되돌려 둔 녹음 파일이 '사용하지 않는 미디어 제거'로 지워지지 않도록 고쳤습니다.",
  "channel": "stable",
- "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=963297",
- "exe_size": 37727072,
- "exe_sha256": "8b361ebf1a64065a7fabe17f8cc46d43d30d82dc14be9452c3e37fa56873d13e",
+ "exe_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=972347",
+ "exe_size": 37796832,
+ "exe_sha256": "93aacb7baa83184eadf2fbffd27d91a2afa613a25694e6cef765e1fb2343c669",
  "exe_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-win-v1.1.235/BEAN-MUSE-WIN-v1.1.235.exe"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-win-v1.1.236/BEAN-MUSE-WIN-v1.1.236.exe"
  ],
  "mirror_of": "procBappsCheck"
 }
