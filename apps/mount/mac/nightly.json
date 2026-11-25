@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "mount",
- "version": "0.1.57",
- "date": "2026.11.12",
- "notes": "바뀐 것\n• 창 왼쪽 위 앱 이름 표시를 다른 BEAN 앱과 같은 크기 · 모양으로 맞췄습니다.",
+ "version": "0.1.58",
+ "date": "2026.11.25",
+ "notes": "고친 것\n• SFTP 드라이브에 파일을 저장하면 서버 폴더에 이름이 '._'로 시작하는 파일이나 .DS_Store 가 생기던 것을 고쳤습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=939832",
- "pkg_size": 10712096,
- "pkg_sha256": "f0f7270dc946b1800de8c9c31cf0288565682dfb0507eb84f88ccdd3dbebf7aa",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=972258",
+ "pkg_size": 10712074,
+ "pkg_sha256": "a704f500ac90ebca5141e2f3f92e0103dfccffa094247640c8ee6b2b41373a72",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/mount-v0.1.57/BEAN-MOUNT-MAC-v0.1.57.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/mount-mac-v0.1.58/BEAN-MOUNT-MAC-v0.1.58.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
