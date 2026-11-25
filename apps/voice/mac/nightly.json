@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "voice",
- "version": "0.4.145",
+ "version": "0.4.146",
  "date": "2026.11.25",
- "notes": "고친 것\n• 같은 파일을 다시 분석하면 목소리 또렷함 값이 조금씩 다르게 나오던 것을 고쳤어요.\n\n바뀐 것\n• 파일 분석이 빨라졌어요. 결과는 그대로이고 계산 시간이 4분의 1쯤 줄었어요.\n• 보컬만 뽑기가 두 번째부터 빨라졌어요. 처음 한 번 준비한 것을 다시 써요.\n• 힌디어 화면에서 '음높이별 목조임' 단추 이름을 짧게 바꿔 좁은 화면에서도 다 보여요.",
+ "notes": "바뀐 것\n• 업데이트 확인과 라이선스 연결이 평소 실행에서 제대로 되는지 출시 전에 확인하는 장치를 넣었어요. 쓰시는 기능은 바뀌지 않았어요.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=973429",
- "pkg_size": 38576613,
- "pkg_sha256": "b659e9133a619b9b59988f1fbe9059a1b949a825b72b014c98243b31ea41ddf1",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=973554",
+ "pkg_size": 38581179,
+ "pkg_sha256": "9b84bce282fca919d8ab47f3b028b4ac502ea57da635b52f7f0c801e1dfd56f0",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-mac-v0.4.145/BEAN-VOICE-MAC-v0.4.145.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-mac-v0.4.146/BEAN-VOICE-MAC-v0.4.146.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
