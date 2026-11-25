@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "voice",
- "version": "0.4.144",
+ "version": "0.4.145",
  "date": "2026.11.25",
- "notes": "바뀐 것\n• 발성 기관 그림과 재생선이 들리는 소리와 맞게 움직여요. 소리 장치의 출력 지연을 반영했어요.\n• 모양으로 소리 내기에서 고른 모음 · 발성 단추가 고른 상태로 표시돼요.\n• 폰 세로처럼 아주 좁은 화면에서도 검은 수치 띠가 한 줄로 보여요.\n\n고친 것\n• 실시간 보기 검은 수치 띠에 화면 배율 125 · 150 % 에서 세로 선이 겹쳐 보이던 것을 고쳤어요.",
+ "notes": "고친 것\n• 같은 파일을 다시 분석하면 목소리 또렷함 값이 조금씩 다르게 나오던 것을 고쳤어요.\n\n바뀐 것\n• 파일 분석이 빨라졌어요. 결과는 그대로이고 계산 시간이 4분의 1쯤 줄었어요.\n• 보컬만 뽑기가 두 번째부터 빨라졌어요. 처음 한 번 준비한 것을 다시 써요.\n• 힌디어 화면에서 '음높이별 목조임' 단추 이름을 짧게 바꿔 좁은 화면에서도 다 보여요.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=972840",
- "pkg_size": 38565910,
- "pkg_sha256": "1dc1e5155fa9eaed3f35f635fbe1cdaeab12f4c992917f07a77e18cdbe8dbeab",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=973429",
+ "pkg_size": 38576613,
+ "pkg_sha256": "b659e9133a619b9b59988f1fbe9059a1b949a825b72b014c98243b31ea41ddf1",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-mac-v0.4.144/BEAN-VOICE-MAC-v0.4.144.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/voice-mac-v0.4.145/BEAN-VOICE-MAC-v0.4.145.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
