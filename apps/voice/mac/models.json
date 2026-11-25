@@ -2,8 +2,8 @@
  "format": "bean-app-models-v1",
  "app": "voice",
  "os": "mac",
- "app_version": "0.4.143",
- "source": "BeanVoice 8dc77c6 Source/Core/VocalIsolate.cpp",
+ "app_version": "0.4.144",
+ "source": "BeanVoice d28b781 Source/Core/VocalIsolate.cpp",
  "base": "Application Support",
  "files": [
   {
