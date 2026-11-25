@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "cam",
- "version": "0.1.151",
- "date": "2026.11.16",
- "notes": "바뀐 것\n• 4K 카메라를 초당 60장으로 쓰면서 얼굴 보정을 많이 켜도 장이 빠지지 않습니다. 컴퓨터가 버거우면 보정을 셈하는 크기를 알아서 조금 낮춰 초당 60장을 지키고, 여유가 생기면 천천히 되돌립니다. 보정을 조금만 켠 때와 초당 30장은 지금과 같은 화면입니다.\n• 얼굴이 잠깐 가려졌다가 다시 보일 때 보정이 한 번에 튀어 나오지 않고 0.3초에 걸쳐 부드럽게 돌아옵니다.\n• 초당 60장에서 얼굴을 움직이다 멈추면 보정 자리가 얼굴에 맞춰 바로 멈춰 섭니다. 얼굴을 살짝 지나쳤다가 되돌아오지 않습니다.\n• 설정 › 라이선스의 기간이 이 앱에 지금 살아 있는 라이선스 가운데 가장 상위 것으로 나옵니다. 영구 라이선스가 있으면 기간제 날짜 대신 '무기한'으로 나옵니다.\n• 라이선스 기한이 지난 것처럼 보여도 바로 만료로 바꾸지 않고 서버에 다시 확인합니다. 인터넷이 끊겨 있으면 쓰던 그대로 둡니다.",
+ "version": "0.1.152",
+ "date": "2026.11.25",
+ "notes": "바뀐 것\n• 두 번째로 켤 때부터 얼굴 보정이 훨씬 빨리 걸립니다. 처음 켤 때 AI 모델을 이 맥에 맞게 바꿔 두고, 다음부터는 그것을 그대로 씁니다. 보정 결과는 지금과 같습니다. 바꿔 둔 파일(약 300MB)은 앱을 새 판으로 올리면 옛 것을 지우고 다시 만듭니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=953187",
- "pkg_size": 153752227,
- "pkg_sha256": "64e6d715cb428a7779a14994780057af84599cd238d647dd41a737e08bf1e043",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=973445",
+ "pkg_size": 153773020,
+ "pkg_sha256": "79625f20cc779a44ad9a635d7bcc7f80f2c909183e2ae5476b856c7de721599d",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-mac-v0.1.151/BEAN-CAM-MAC-v0.1.151.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/cam-mac-v0.1.152/BEAN-CAM-MAC-v0.1.152.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
