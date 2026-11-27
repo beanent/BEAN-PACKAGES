@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.242",
+ "version": "1.1.243",
  "date": "2026.11.27",
- "notes": "• Mac 설치 패키지에 빠졌던 ARA 호스트 기능을 복원했습니다.\n• 하단 믹서의 구역 버튼을 틈 없는 정사각형으로 맞추고, 상단 도구 버튼과 같은 색으로 켜진 구역과 꺼진 구역을 구분했습니다. 마지막 버튼 아래에 구분선을 추가하고 버튼과 믹서 본문 사이에도 세로선을 표시합니다.",
+ "notes": "고친 것\n• 하단 믹서에서 켜진 구역과 꺼진 구역이 테마에 맞는 색으로 표시됩니다. 패널 높이를 줄여도 버튼 아래와 믹서 본문 사이의 구분선이 보입니다.",
  "channel": "stable",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=976373",
- "pkg_size": 63196677,
- "pkg_sha256": "80cdbff8291f05846af396ed549466042022aff48c250bb9dff148ccb52497ae",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=976509",
+ "pkg_size": 63196713,
+ "pkg_sha256": "5ce460ba51c20fc4a065d93660d66fbc272d43bcc58119e4818e40390561d743",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.242/BEAN-MUSE-MAC-v1.1.242.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.243/BEAN-MUSE-MAC-v1.1.243.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
