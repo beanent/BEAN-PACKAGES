@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.240",
- "date": "2026.11.25",
- "notes": "고친 것\n• 보컬 정보 · 보컬 비교에서 같은 소리를 다시 분석하면 목소리 또렷함 값이 조금씩 달라지던 것을 고쳤습니다.\n• 실시간 보컬 분석의 검은 수치 띠 세로 선이 화면 배율 125 · 150 % 에서 두 줄로 번져 보이던 것을 고쳤습니다.\n• ARA 칸과 에디터 탭에서 튠 플러그인 창이 잘리거나 흰 자리가 남던 것을 고쳤습니다. 창이나 칸 크기를 바꿔도 플러그인 화면 전체가 칸에 맞춰 보입니다.\n\n바뀐 것\n• 믹서 미터(VU · 볼륨 미터)가 훨씬 덜 무거워졌습니다. 화면에 보이지 않는 미터는 쉬고, 다시 보이면 바로 제자리에서 이어 움직입니다.",
+ "version": "1.1.242",
+ "date": "2026.11.27",
+ "notes": "• Mac 설치 패키지에 빠졌던 ARA 호스트 기능을 복원했습니다.\n• 하단 믹서의 구역 버튼을 틈 없는 정사각형으로 맞추고, 상단 도구 버튼과 같은 색으로 켜진 구역과 꺼진 구역을 구분했습니다. 마지막 버튼 아래에 구분선을 추가하고 버튼과 믹서 본문 사이에도 세로선을 표시합니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=973524",
- "pkg_size": 63163846,
- "pkg_sha256": "a49b968828359f2bd087f8f45a739b7d4b7ab50fcde0b072d7ea2dc38c95d1e1",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=976373",
+ "pkg_size": 63196677,
+ "pkg_sha256": "80cdbff8291f05846af396ed549466042022aff48c250bb9dff148ccb52497ae",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.240/BEAN-MUSE-MAC-v1.1.240.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.242/BEAN-MUSE-MAC-v1.1.242.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
