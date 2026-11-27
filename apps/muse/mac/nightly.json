@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "muse",
- "version": "1.1.243",
- "date": "2026.11.27",
- "notes": "고친 것\n• 하단 믹서에서 켜진 구역과 꺼진 구역이 테마에 맞는 색으로 표시됩니다. 패널 높이를 줄여도 버튼 아래와 믹서 본문 사이의 구분선이 보입니다.",
+ "version": "1.1.244",
+ "date": "2026.11.28",
+ "notes": "바뀐 것\n• 하단 믹서 왼쪽 구역 띠가 좁은 세로 글자 띠가 됐습니다. 입력 · 프리 · 포스트 · 출력 · 팬 · VU · 페이더 · M·S · 이름이 옆으로 눕혀 쓰여 있습니다.\n• 평소(구역이 모두 켜진 상태)에는 띠에 옅은 글자만 보이고, 꺼 둔 구역만 강조색으로 표시됩니다.\n• 띠 맨 위의 X 버튼으로 띠 전체를 숨길 수 있습니다. 숨긴 띠는 설정 › UI 의 '믹서 구역 띠'를 켜면 다시 나타납니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=976509",
- "pkg_size": 63196713,
- "pkg_sha256": "5ce460ba51c20fc4a065d93660d66fbc272d43bcc58119e4818e40390561d743",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=976750",
+ "pkg_size": 63215463,
+ "pkg_sha256": "25450e580a586ea73528e7b46b4ab61bc6c843c8a7db0a489d42c6b59eb39662",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.243/BEAN-MUSE-MAC-v1.1.243.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/muse-mac-v1.1.244/BEAN-MUSE-MAC-v1.1.244.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
