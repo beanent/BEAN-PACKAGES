@@ -1,15 +1,15 @@
 {
  "error": 0,
  "app": "live",
- "version": "0.1.34",
- "date": "2026.11.25",
- "notes": "바뀐 것\n• 두 번째로 켤 때부터 카메라 얼굴 보정이 훨씬 빨리 걸립니다. 처음 켤 때 AI 모델을 이 맥에 맞게 바꿔 두고, 다음부터는 그것을 그대로 씁니다. 보정 결과는 지금과 같습니다. 바꿔 둔 파일(약 300MB)은 앱을 새 판으로 올리면 옛 것을 지우고 다시 만듭니다.\n• 차림표와 단추 이름을 다른 BEAN 앱과 같은 낱말로 맞췄습니다. '이름 바꾸기'는 '이름 변경', '지우기'는 '삭제', '고르기'는 '선택', 'MP4 로 바꾸기'는 'MP4 로 변환'으로 나옵니다. 되돌리기 차림표의 이름도 같습니다.",
+ "version": "0.1.35",
+ "date": "2026.11.28",
+ "notes": "고친 것\n• 소스를 추가하려고 화면 · 창 · 앱 목록을 열 때 앱이 꺼지던 것을 고쳤습니다. 켜자마자 꺼지거나 오류 보고를 보낸 바로 뒤에 꺼지던 것도 같은 원인이라 함께 고쳐졌습니다.",
  "channel": "nightly",
- "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=973443",
- "pkg_size": 162322602,
- "pkg_sha256": "dba1c8ab395690fe076a198ad92b5459e2be2ca27dca8f5e6ca11766bd0c9824",
+ "pkg_url": "https://beanent.com/index.php?act=procBappsDownload&asset_srl=977338",
+ "pkg_size": 162325252,
+ "pkg_sha256": "866b668d3576fccb3312c07210974c89d16f46ce58869185eaf51d01fec9057f",
  "pkg_mirrors": [
-  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-mac-v0.1.34/BEAN-LIVE-MAC-v0.1.34.pkg"
+  "https://github.com/beanent/BEAN-PACKAGES/releases/download/live-mac-v0.1.35/BEAN-LIVE-MAC-v0.1.35.pkg"
  ],
  "mirror_of": "procBappsCheck"
 }
